@@ -1,0 +1,26 @@
+{
+  "queries": {
+    "CO": [
+      "vehículos eléctricos OR electromovilidad OR movilidad eléctrica",
+      "baterías OR celdas OR recarga OR cargadores",
+      "normativa OR regulación OR resolución OR decreto OR CONPES"
+    ],
+    "LATAM": [
+      "vehículos eléctricos OR electromovilidad",
+      "baterías OR litio OR recarga",
+      "política pública OR regulación"
+    ],
+    "US": [
+      "electric vehicles OR EV policy",
+      "battery OR charging infrastructure",
+      "regulation OR rulemaking OR federal register"
+    ]
+  },
+  "langs": {
+    "CO": {"hl": "es-419", "gl": "CO", "ceid": "CO:es-419"},
+    "LATAM": {"hl": "es-419", "gl": "US", "ceid": "US:es-419"},
+    "US": {"hl": "en-US", "gl": "US", "ceid": "US:en"}
+  },
+  "maxItemsPerRun": 120,
+  "lookbackDays": 7
+}
