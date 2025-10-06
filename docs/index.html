@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="co">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Monitor E3V – Noticias, Regulaciones y Alertas</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <h1>Monitor E3V</h1>
+      <p class="subtitle">Noticias, Regulaciones y Alertas – Colombia, LATAM y EE. UU.</p>
+    </div>
+
+    <div class="metrics" id="metrics">
+      <div class="metric"><span id="m-news-today">0</span><label>Noticias hoy</label></div>
+      <div class="metric"><span id="m-uptime">–</span><label>Tiempo de actividad</label></div>
+      <div class="metric"><span id="m-relevance">–</span><label>Relevancia promedio</label></div>
+    </div>
+
+    <div class="controls">
+      <button id="btn-refresh" title="Forzar recarga desde /data">Actualizar ahora</button>
+      <span class="next-run" id="next-run">Actualiza 4×/día vía Actions</span>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="feed">
+      <div class="toolbar">
+        <input id="q" type="search" placeholder="Filtrar por texto (título, resumen, fuente)" />
+        <select id="region">
+          <option value="all">Todas las regiones</option>
+          <option value="CO">Colombia</option>
+          <option value="LATAM">América Latina</option>
+          <option value="US">Estados Unidos</option>
+        </select>
+        <input id="from" type="date" />
+        <input id="to" type="date" />
+        <select id="sort">
+          <option value="date_desc">Más recientes</option>
+          <option value="date_asc">Más antiguas</option>
+          <option value="score_desc">Mayor relevancia</option>
+        </select>
+      </div>
+
+      <ul id="news-list" class="cards"></ul>
+
+      <div class="pagination">
+        <button id="prev">← Anterior</button>
+        <span id="page-info">1 / 1</span>
+        <button id="next">Siguiente →</button>
+      </div>
+    </section>
+
+    <aside class="alerts">
+      <h2>Alertas y Regulaciones</h2>
+      <ul id="alerts-list" class="alerts-list"></ul>
+      <p class="hint">Fuentes oficiales configurables en el pipeline (Diarios oficiales, Federal Register, ministerios, etc.).</p>
+    </aside>
+  </main>
+
+  <footer>
+    <small>Generado automáticamente por GitHub Actions hasta 4×/día. Esta UI no necesita backend.</small>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
