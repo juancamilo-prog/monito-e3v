@@ -1,8 +1,822 @@
 {
-  "generated_at": "2026-09-22T13:57:34.384Z",
+  "generated_at": "2026-09-22T18:38:33.077Z",
   "uptime_started": "2025-09-19T00:00:00Z",
   "avg_relevance": 12,
   "items": [
+    {
+      "id": "bdd0b861ceec1cbf",
+      "title": "El kilometraje ya no cuenta toda la historia: los eléctricos de segunda mano sorprenden frente a los de gasolina, según un estudio - La Razón",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxPYnM1OEdZRFBESThrLURtNktTNEEzMGNSbFdhVWszWUdka25rV1VvVE8tTzRyYXVVZ0plZFNpQXV3Vmo3LTBwb2NkRV84ZHN3RTg5SU43dkFBWWtHLTdkR1c2UlRPSXd1bkpVQ0daN0Fnb2RFT0Q4UFVhUVFWajhIRDJJZlh5WXBONVdHbTVZOXZDN2VrdkZpUnFFOUNBS2RTZFVMb0FhbUhTNHg4Z2FuSnNLaERDclI5NEJNaG1DU2RRcS1vMWpoZWJRY1dlQVVkemliOWw3aDZSOU1NZ3VkM2ZlYmJnUWtoM1VuTEFESzZ0X2dYWmMzWjc5cVVRdXBYbVR5YWVnX2Q2bDBza3dwR0RoRFVTdw?oc=5\" target=\"_blank\">El kilometraje ya no cuenta toda la historia: los eléctricos de segunda mano sorprenden frente a los de gasolina, según un estudio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Razón</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPYnM1OEdZRFBESThrLURtNktTNEEzMGNSbFdhVWszWUdka25rV1VvVE8tTzRyYXVVZ0plZFNpQXV3Vmo3LTBwb2NkRV84ZHN3RTg5SU43dkFBWWtHLTdkR1c2UlRPSXd1bkpVQ0daN0Fnb2RFT0Q4UFVhUVFWajhIRDJJZlh5WXBONVdHbTVZOXZDN2VrdkZpUnFFOUNBS2RTZFVMb0FhbUhTNHg4Z2FuSnNLaERDclI5NEJNaG1DU2RRcS1vMWpoZWJRY1dlQVVkemliOWw3aDZSOU1NZ3VkM2ZlYmJnUWtoM1VuTEFESzZ0X2dYWmMzWjc5cVVRdXBYbVR5YWVnX2Q2bDBza3dwR0RoRFVTdw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T18:30:00.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "faa25e3c18c454d7",
+      "title": "Mantendrán misma estrategia en restricción de celulares en escuelas tras decreto federal - El Sol de México",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVjBaTTJ4VDJBd3JUUzFZcDM5bmM4R0VmOGxVWGdmRVZOYkVCeUhBeUxZNzF6NnhiZHJnaXlYajlPZnBwWHhYYjNqR19nV1FnMWN1MUtOaUFQLTBiTW43dHEzd05GMTdUYWp2eFZOS25jZVNyZ2pTdVh4Um8zZWNYRFZnd3lsWEJ2SDgtU1BqbHIxTERPS3RMdUJEeVFnRGpCb0lITWQ5LWRMblRrV0F3ZVgyczEwVG80OWRuYUF6NDRROTZQQ2RrSEM4S0tqMHNDU2kyTGJvVQ?oc=5\" target=\"_blank\">Mantendrán misma estrategia en restricción de celulares en escuelas tras decreto federal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Sol de México</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVjBaTTJ4VDJBd3JUUzFZcDM5bmM4R0VmOGxVWGdmRVZOYkVCeUhBeUxZNzF6NnhiZHJnaXlYajlPZnBwWHhYYjNqR19nV1FnMWN1MUtOaUFQLTBiTW43dHEzd05GMTdUYWp2eFZOS25jZVNyZ2pTdVh4Um8zZWNYRFZnd3lsWEJ2SDgtU1BqbHIxTERPS3RMdUJEeVFnRGpCb0lITWQ5LWRMblRrV0F3ZVgyczEwVG80OWRuYUF6NDRROTZQQ2RrSEM4S0tqMHNDU2kyTGJvVQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T18:19:09.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "91ac070a5b8c2ce4",
+      "title": "Trump rechaza regulación internacional de la inteligencia artificial y propone llamarla “superinteligencia” - Primicias",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQelBORWQ4SDRHdVVfbnhibmZ0eDd6UU5DOW5PcUJHcXFQVVJsQld1d2NURUE1bHRLUnBaTDdjQ2c2OHU5eEVlNm5KWWJEbk9oclJDUEhmeHgzeU5FQnF3Yzd4WFBiQnZmWVlRbnE1M1hldno3aHQwbTlZbHZoc21lNXAwc3d5eGtYbEg2N2k4Y2xYZklUb0gwVC1uRUdaY3E4SFo0NlFtRkN0ZXV0aTBpNDVlVTA2RWY4Y2dSZTQyYjVSekF2TXBWem9yLUVrNTQ?oc=5\" target=\"_blank\">Trump rechaza regulación internacional de la inteligencia artificial y propone llamarla “superinteligencia”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Primicias</font>",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQelBORWQ4SDRHdVVfbnhibmZ0eDd6UU5DOW5PcUJHcXFQVVJsQld1d2NURUE1bHRLUnBaTDdjQ2c2OHU5eEVlNm5KWWJEbk9oclJDUEhmeHgzeU5FQnF3Yzd4WFBiQnZmWVlRbnE1M1hldno3aHQwbTlZbHZoc21lNXAwc3d5eGtYbEg2N2k4Y2xYZklUb0gwVC1uRUdaY3E4SFo0NlFtRkN0ZXV0aTBpNDVlVTA2RWY4Y2dSZTQyYjVSekF2TXBWem9yLUVrNTQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T18:15:12.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "ae460fa7444d0e19",
+      "title": "CATL pone en marcha la producción experimental de celdas de batería en Hungría - Bolsamania",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVktxeUVRMHRfU3VKd0RKYnpNMDI0cXVtUDhfTG5KSnppMWsyNjBobmZ3TERwYVFVdm95T1J0clRlV29EQmdiWXlUanA3aHMxZmNsT29FNndhNXlyd09SOGNkZU81NDM0cXdDMU5SV2NvRTFEZkZkbURISi1VeFlfdTEzR3VoSWlPTlRtQVV3azZNVWdadFN6UGFRNE5XQ20wdW02T3FoUHdMc0VsVl9aSUJxeFZXcW5ROWVJdE9sWFFCOE9zaGxYWWJEdE8tTHlhemFSLVNsRUpzc0Fl0gHiAUFVX3lxTE9pSjVuMTRqR0cyZk94cG5BM0loQ3dRXzFhUEh4YUtiSmNmRWhOaExxajE3M2ZMd2JWWUZ0WDlmNWVmV1ZhNXdnOWcyQVBzLWhEZU9SMzNmWERoMEtNaElrSFVVeVBXaEozMFZ5dlI3TGFFQUttVDlxZUIzUnE0Z1FQU1RHaHc2bFZBUDFxQ3kzYVlsYlV6ZHZyc3JUcDRHQnJ6VHhKajV3YnVWYkZpYlgtT1ZkUGY4dVpZOUg4QnZ3dDdQTHFIcFVmSzlfRGRUdnVIUGhzejJpbTRjbXNYSC1nalE?oc=5\" target=\"_blank\">CATL pone en marcha la producción experimental de celdas de batería en Hungría</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bolsamania</font>",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVktxeUVRMHRfU3VKd0RKYnpNMDI0cXVtUDhfTG5KSnppMWsyNjBobmZ3TERwYVFVdm95T1J0clRlV29EQmdiWXlUanA3aHMxZmNsT29FNndhNXlyd09SOGNkZU81NDM0cXdDMU5SV2NvRTFEZkZkbURISi1VeFlfdTEzR3VoSWlPTlRtQVV3azZNVWdadFN6UGFRNE5XQ20wdW02T3FoUHdMc0VsVl9aSUJxeFZXcW5ROWVJdE9sWFFCOE9zaGxYWWJEdE8tTHlhemFSLVNsRUpzc0Fl0gHiAUFVX3lxTE9pSjVuMTRqR0cyZk94cG5BM0loQ3dRXzFhUEh4YUtiSmNmRWhOaExxajE3M2ZMd2JWWUZ0WDlmNWVmV1ZhNXdnOWcyQVBzLWhEZU9SMzNmWERoMEtNaElrSFVVeVBXaEozMFZ5dlI3TGFFQUttVDlxZUIzUnE0Z1FQU1RHaHc2bFZBUDFxQ3kzYVlsYlV6ZHZyc3JUcDRHQnJ6VHhKajV3YnVWYkZpYlgtT1ZkUGY4dVpZOUg4QnZ3dDdQTHFIcFVmSzlfRGRUdnVIUGhzejJpbTRjbXNYSC1nalE?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T18:15:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "fff479a69c76dfb0",
+      "title": "Hito en transición energética: Latinoamérica supera el millón de vehículos eléctricos - xeva.com.mx",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmlJUWtORXhYdjlUYXFVRWJUOXBaXzEtS3ZFX3BsUzhKbHYyaGFEVFdTZ2hoanFVaXNKb3A0aExOczNPTjZGVmpqakN6V1A0dktpbHM1WGw4b2c4NTV0di12TlVHcmlnWV9TekVubmJFOVdCMlhoWVd6cU5hUklqazh2cU85cVFna0p0QjRWMER0VXpKOExzUDFDcjk3TEFlbTRSLUVGM3RFSko1bF9Uc2E0a2FybkNsZEhFcVFCQ09jUQ?oc=5\" target=\"_blank\">Hito en transición energética: Latinoamérica supera el millón de vehículos eléctricos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">xeva.com.mx</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmlJUWtORXhYdjlUYXFVRWJUOXBaXzEtS3ZFX3BsUzhKbHYyaGFEVFdTZ2hoanFVaXNKb3A0aExOczNPTjZGVmpqakN6V1A0dktpbHM1WGw4b2c4NTV0di12TlVHcmlnWV9TekVubmJFOVdCMlhoWVd6cU5hUklqazh2cU85cVFna0p0QjRWMER0VXpKOExzUDFDcjk3TEFlbTRSLUVGM3RFSko1bF9Uc2E0a2FybkNsZEhFcVFCQ09jUQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T18:09:37.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "663e09171e6b62bd",
+      "title": "Samsung mete chip PUF en 50 millones de baterías Galaxy A - El Ecosistema Startup",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGxmOW9UZjNYNktYZk9BQWJhRkNrNzc4RDdNcjJPeTl0ZDk3ZzRlS2xjZmZvUTdDY0hZQ1hrUDUwUUZyak5YY19ha1YzcS1Yb1RWcWtZM09reUdZNVE2UlFkWmRCOF9QUEVPY1ptSGVud3pVZ19TSUd6N25pcTJWTEx6TzZrd2I3VFBwbG5sSHo2QQ?oc=5\" target=\"_blank\">Samsung mete chip PUF en 50 millones de baterías Galaxy A</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Ecosistema Startup</font>",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGxmOW9UZjNYNktYZk9BQWJhRkNrNzc4RDdNcjJPeTl0ZDk3ZzRlS2xjZmZvUTdDY0hZQ1hrUDUwUUZyak5YY19ha1YzcS1Yb1RWcWtZM09reUdZNVE2UlFkWmRCOF9QUEVPY1ptSGVud3pVZ19TSUd6N25pcTJWTEx6TzZrd2I3VFBwbG5sSHo2QQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T18:03:27.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "0e31d7aa86718665",
+      "title": "Tennessee seeking project applications for EV rapid-charging stations - Local 3 News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX0hJd3NPdkJzdUZyLURoa3AyNDJHT0d6LW00NlEwYWp0Qm5UdjVYTU1TZDBKRktkUURiTDdad3ZTTGRNS1NNV20tY0tLYzFtY3NZR1BhVW1ndUtZRTV6azFXUHo5ZXNIblRYRXg3NmhldW93X2RxcTV1WFBvVVdYUmJZME1fODVNbzhoUDZ2cUhkcG55N29JXzdVR2V6aGgxXzBnYnBYSnRmb2lOd3lUQmNfc0xDbUE3cDFUUHJRbG5CWVU1akN1WmJXXzYyMi00SU9QdzNTUjJzLVVFRzJVd240MVBUZ1RsTVBrLUR3?oc=5\" target=\"_blank\">Tennessee seeking project applications for EV rapid-charging stations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Local 3 News</font>",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX0hJd3NPdkJzdUZyLURoa3AyNDJHT0d6LW00NlEwYWp0Qm5UdjVYTU1TZDBKRktkUURiTDdad3ZTTGRNS1NNV20tY0tLYzFtY3NZR1BhVW1ndUtZRTV6azFXUHo5ZXNIblRYRXg3NmhldW93X2RxcTV1WFBvVVdYUmJZME1fODVNbzhoUDZ2cUhkcG55N29JXzdVR2V6aGgxXzBnYnBYSnRmb2lOd3lUQmNfc0xDbUE3cDFUUHJRbG5CWVU1akN1WmJXXzYyMi00SU9QdzNTUjJzLVVFRzJVd240MVBUZ1RsTVBrLUR3?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T18:00:00.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "4ff79e74dc816ff2",
+      "title": "EV charging, battery swap regulations laid before Parliament – Energy Commission - Ghana News Agency",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMm04SlNsVGlsSWZhU25YaFFRZklaQWJqamEwek5UNjVkc2RFR2txV3VMc1dMYWl4dGxwRjFqOEN3ZVQyZjFvempaU0ZGakhiRUtKUFJNM3Q4YlotbzRFVVlvWERacVJRdTZKSjU2X3NHeU94akM4WERicWJMMVRSM3hFM0gxX0xIZXhNMzk4NmZRYUhmTmJMaFdvN2pBZXIzck5FRi1BM3k?oc=5\" target=\"_blank\">EV charging, battery swap regulations laid before Parliament – Energy Commission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ghana News Agency</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMm04SlNsVGlsSWZhU25YaFFRZklaQWJqamEwek5UNjVkc2RFR2txV3VMc1dMYWl4dGxwRjFqOEN3ZVQyZjFvempaU0ZGakhiRUtKUFJNM3Q4YlotbzRFVVlvWERacVJRdTZKSjU2X3NHeU94akM4WERicWJMMVRSM3hFM0gxX0xIZXhNMzk4NmZRYUhmTmJMaFdvN2pBZXIzck5FRi1BM3k?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T17:56:31.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 40
+    },
+    {
+      "id": "c5f81d1960f1f787",
+      "title": "Crecen los talleres y la formación en mecánica eléctrica en Bogotá ante el aumento de vehículos eléctricos - Pulzo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNSjNTZnBSSGthaXJCT2xza3g1emJzVllfWGkzLVE4WUxRWV9SeXF3RlY4U2I4MHlXa2ZzVEI4dFNJTVVoVzBSWEQtVUQ3ZjFrNHRiOWY1cXZycG1qeGZpVlhySDlGVElJeWJmN1NRWVNDcGxETGpLNklyUVFKZ1ZueEZlQV81OUpjREx1c3hJQU1YLUhHc3phRlpzX1RPR19od096UTBXVjVsTFNUaUI0UGJVTGRaTjhBWWdpLXEwT01YRkpWai1OcjhESk1lTXM?oc=5\" target=\"_blank\">Crecen los talleres y la formación en mecánica eléctrica en Bogotá ante el aumento de vehículos eléctricos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulzo</font>",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSjNTZnBSSGthaXJCT2xza3g1emJzVllfWGkzLVE4WUxRWV9SeXF3RlY4U2I4MHlXa2ZzVEI4dFNJTVVoVzBSWEQtVUQ3ZjFrNHRiOWY1cXZycG1qeGZpVlhySDlGVElJeWJmN1NRWVNDcGxETGpLNklyUVFKZ1ZueEZlQV81OUpjREx1c3hJQU1YLUhHc3phRlpzX1RPR19od096UTBXVjVsTFNUaUI0UGJVTGRaTjhBWWdpLXEwT01YRkpWai1OcjhESk1lTXM?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T17:50:43.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 30
+    },
+    {
+      "id": "c23746fd69666a8c",
+      "title": "Paramount llega a un acuerdo de resolución sobre demandas por prácticas de monopolio y allana el camino para una megafusión con Warner Bros. - Democracy Now!",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVN6dlBWX1pOb0N1cTFPak9wYWowbUxCVUFwcW1PRHJCU1ZJM1pWTmUybUJSV3FhN2NaUnNRQ3hteWFhaTJmU1BkRGptb3BqSzJqeTVPQVB5LVAyTDYtaGJlLWhFd0Z3T3hDelVFaHVNaFdQUlVMamlpX0V4bndBMEpQZG82WTUwLVJHbk0tVVotaE9XS3F4ZkhJNE9vdGhjcGZjQ0g4NkpPcGtkazRHbzk3SE93N0NqeHoyRUtFZE5rZmZPQ0E?oc=5\" target=\"_blank\">Paramount llega a un acuerdo de resolución sobre demandas por prácticas de monopolio y allana el camino para una megafusión con Warner Bros.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Democracy Now!</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVN6dlBWX1pOb0N1cTFPak9wYWowbUxCVUFwcW1PRHJCU1ZJM1pWTmUybUJSV3FhN2NaUnNRQ3hteWFhaTJmU1BkRGptb3BqSzJqeTVPQVB5LVAyTDYtaGJlLWhFd0Z3T3hDelVFaHVNaFdQUlVMamlpX0V4bndBMEpQZG82WTUwLVJHbk0tVVotaE9XS3F4ZkhJNE9vdGhjcGZjQ0g4NkpPcGtkazRHbzk3SE93N0NqeHoyRUtFZE5rZmZPQ0E?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T17:50:02.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "90691ddc26805c6a",
+      "title": "Donald Trump rechaza ante la ONU una regulación internacional de la Inteligencia Artificial - Sistema Mexiquense",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRG9KTExPd0hDOXBSREVaNmdHaU4zNXl2ZThjT0QtN0tNNmNIbjRrNDdMbGJpNEVhOVBmUHE3ajdlZXVzRkVYNzVDRk1wendvZ01hc21kXzU2M0tTeTUza2lCdDhRNkpYLTJRYVV4ZWNnMjBhMmRycWl3X0lJaHlXRzRMelFKTGV0My1BNXNXMWxtTGRQN2R1WTBNQU0tTU9HSXhqSHFPXy0wckFQb24tSGFCSjhlUVk4UDJQM280MUljckFOUGx2VFB1UmRuZW5xS3ZPM0RwRW1lamlpRmcwVTRXa1J1NWVaWHc?oc=5\" target=\"_blank\">Donald Trump rechaza ante la ONU una regulación internacional de la Inteligencia Artificial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sistema Mexiquense</font>",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRG9KTExPd0hDOXBSREVaNmdHaU4zNXl2ZThjT0QtN0tNNmNIbjRrNDdMbGJpNEVhOVBmUHE3ajdlZXVzRkVYNzVDRk1wendvZ01hc21kXzU2M0tTeTUza2lCdDhRNkpYLTJRYVV4ZWNnMjBhMmRycWl3X0lJaHlXRzRMelFKTGV0My1BNXNXMWxtTGRQN2R1WTBNQU0tTU9HSXhqSHFPXy0wckFQb24tSGFCSjhlUVk4UDJQM280MUljckFOUGx2VFB1UmRuZW5xS3ZPM0RwRW1lamlpRmcwVTRXa1J1NWVaWHc?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T17:47:43.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "3ce80107ae457400",
+      "title": "Pylontech inicia la producción en masa de celdas LFP de 588 Ah y 601 Ah para ESS - Bolsamania",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTGpXUTZLUDdHbGVKOGEwb0NWWjBLT1c5VmZVeDNKLTRydEl0cWlreDhrWHM0MHdOTFhGRlU2ellYdnpMWnBqc2N0dURtQkcwaFBFX1hmTlppWVR3TlRoQ0g3ZFdPck1LV3c4SEVRWU9wSEZ0cWhaRDIwX3ZmVmliSlFSd0UwQzNMckpiQUZTOS03UkRqRkVubVJST1E3MkJrVmNDOTQ5Y2JkdFphQ09obHdzV1ROMnN2ODVBbjJhZmw1bGFNNllKQklwcnhnSVhpRTA4cXhUQ0ZLTzgyaGRn0gHkAUFVX3lxTE1WYWw2Q1d5cGJJZGNaVzNKdzVJdFNzYWcxUUx2UTV3UjF4UmdzczRQSlpGYl9CWUVuVUgzZDlNS3ZrNlZubDA2dTN1RHZrMjhRaU1IRE0wQnU0Ti1GTWhMSGhoOGRoUW95OVJ0Vi1jcVdxbk9nLUJJcTdhdWFkU2xrSU5TdE5UakM4OXUtbDVkOXVrQlNLY2J2cE4zVGxINUVRNzdMZGpRVkpWM0dFQkIwaE1rYkNZY0hXSTRlUi1jZ3R4cDRxYkYybFVzQ0hJRTNlWnFzTzdpRjF5WEZKNWhFalREeg?oc=5\" target=\"_blank\">Pylontech inicia la producción en masa de celdas LFP de 588 Ah y 601 Ah para ESS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bolsamania</font>",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTGpXUTZLUDdHbGVKOGEwb0NWWjBLT1c5VmZVeDNKLTRydEl0cWlreDhrWHM0MHdOTFhGRlU2ellYdnpMWnBqc2N0dURtQkcwaFBFX1hmTlppWVR3TlRoQ0g3ZFdPck1LV3c4SEVRWU9wSEZ0cWhaRDIwX3ZmVmliSlFSd0UwQzNMckpiQUZTOS03UkRqRkVubVJST1E3MkJrVmNDOTQ5Y2JkdFphQ09obHdzV1ROMnN2ODVBbjJhZmw1bGFNNllKQklwcnhnSVhpRTA4cXhUQ0ZLTzgyaGRn0gHkAUFVX3lxTE1WYWw2Q1d5cGJJZGNaVzNKdzVJdFNzYWcxUUx2UTV3UjF4UmdzczRQSlpGYl9CWUVuVUgzZDlNS3ZrNlZubDA2dTN1RHZrMjhRaU1IRE0wQnU0Ti1GTWhMSGhoOGRoUW95OVJ0Vi1jcVdxbk9nLUJJcTdhdWFkU2xrSU5TdE5UakM4OXUtbDVkOXVrQlNLY2J2cE4zVGxINUVRNzdMZGpRVkpWM0dFQkIwaE1rYkNZY0hXSTRlUi1jZ3R4cDRxYkYybFVzQ0hJRTNlWnFzTzdpRjF5WEZKNWhFalREeg?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T17:47:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "e7404f822797e92b",
+      "title": "Samsung copia a Apple y prepara una medida para verificar si la batería de tu Galaxy es original - Hipertextual",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBUb0ctU191Qnk1ZG1YMmdqVGZwbzVrcnZ5VGtLbUgwdjlCSXFKMmlHVk1XZkFXMEZ1a21pZGFQLVpSTnFVX1NyM1RFcG83TF9PdE93SmhVRThzZUpMUFgzalVkMFVaMVU5dFFiNVhtTUN5LVBhWS0tUm9wTVhWdw?oc=5\" target=\"_blank\">Samsung copia a Apple y prepara una medida para verificar si la batería de tu Galaxy es original</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hipertextual</font>",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUb0ctU191Qnk1ZG1YMmdqVGZwbzVrcnZ5VGtLbUgwdjlCSXFKMmlHVk1XZkFXMEZ1a21pZGFQLVpSTnFVX1NyM1RFcG83TF9PdE93SmhVRThzZUpMUFgzalVkMFVaMVU5dFFiNVhtTUN5LVBhWS0tUm9wTVhWdw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T17:38:32.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 0
+    },
+    {
+      "id": "546a90870d59d88a",
+      "title": "Microsoft defiende la regulación de la IA pese al temor por el avance de China - DiarioBitcoin",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnpseDF0eVpyN3o4Vjg1WEJJRDdDQVh2YkpxanRVUlEwZzV2R3NUMVU2UHJVVE1yYVMzQjMyYjN5SGhsZXczdXVQcWtVUm0xS2lNSFBqUFZkb0VrUmVOc0pPM2RuR1ZyT3d2eVBDNGlWMXNOc1dzb0o1UkxtcHI5bFdvMFl2T0c4RFAtQ2M2RDN6cUY4d3JFZTBoYlhSZXV1YTNYdC1fMlR2aC1meUdzUHBlQVBUNjUtbERqYw?oc=5\" target=\"_blank\">Microsoft defiende la regulación de la IA pese al temor por el avance de China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DiarioBitcoin</font>",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnpseDF0eVpyN3o4Vjg1WEJJRDdDQVh2YkpxanRVUlEwZzV2R3NUMVU2UHJVVE1yYVMzQjMyYjN5SGhsZXczdXVQcWtVUm0xS2lNSFBqUFZkb0VrUmVOc0pPM2RuR1ZyT3d2eVBDNGlWMXNOc1dzb0o1UkxtcHI5bFdvMFl2T0c4RFAtQ2M2RDN6cUY4d3JFZTBoYlhSZXV1YTNYdC1fMlR2aC1meUdzUHBlQVBUNjUtbERqYw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T17:33:41.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "057627cd43d90e16",
+      "title": "La radio AM vuelve a ser obligatoria en los coches nuevos de EEUU: por qué los eléctricos la habían borrado - Motor16",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNTXRKLTMtZ2w3eXNmb1lvb2x3dGtIakdyRWgxMHlRU2FjdDNDR1FYd2ZtZTJwYjg3Z2RLQjVOcko5Y2w1MGZzMVNjc1MzWWctZ25KTng3OG43Qko4YjZsM1VBUjdUZHpJU1RiNzhGSXh0T1FmS01KTGZ0VVQ0XzNxUnV6cXg?oc=5\" target=\"_blank\">La radio AM vuelve a ser obligatoria en los coches nuevos de EEUU: por qué los eléctricos la habían borrado</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor16</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTXRKLTMtZ2w3eXNmb1lvb2x3dGtIakdyRWgxMHlRU2FjdDNDR1FYd2ZtZTJwYjg3Z2RLQjVOcko5Y2w1MGZzMVNjc1MzWWctZ25KTng3OG43Qko4YjZsM1VBUjdUZHpJU1RiNzhGSXh0T1FmS01KTGZ0VVQ0XzNxUnV6cXg?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T17:30:00.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "9671bcb96922317c",
+      "title": "Trump anuncia que EE.UU. llamará “superinteligencia” a la inteligencia artificial y rechaza regulación internacional - El Comercio Perú",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxPaFRwQXR5WFgxMkVHa0dPZC1sOGE4MUR6cUZ6UU1PSEVjLVZxeDNwc0hEd19VMkg1cnYwWC1KSlZVSTJZbG9iN1lfakR0emFwVUtxMk9Ma2ZTWW9xbDUtU0VGaWVNeUdqNUZmWGM0aXF4bHVsMnRzNFpjODczSEc4WS1iNDhjblhuV3BWUWNHWW1GUVZQMFRNSV9DZkZiQ0p5UVQ0RTQ1MmhvWF9jMDZqM0dmWldrODFUb2dWbWUtcHhROU9ZRzl4NG8xTGJlNGlHbmwtM1ktQVJhSXFXVmFlREZ4UHhxeHpOaE5qZzNLN2tOX205NVBVNGgyOWxoWl83cHdvenBBb05fQzZkNkRRUtIBpAJBVV95cUxNbDdTM2xKcThqbmV6ZzF1bTIxQUdmVDBXZ1NYM2JUVUVrLV9tbHhrOElCblNScjFzZEtJeXk1TW9PWDVwbDQyRjBaVVpZajlJc3Q3VkYxcGVPN1dsRlhGNHUydndRWHp2UlJndGo0eEpUZzg2eGNpQkNrQm5iWnNXbkpUMnV6M1hCWGhaVm9YeUN2Vkg0dnp6ajhVcUxZTU8wQTltekE4aWRNcjdDUWE2WjFMSWhxMHpIWDFweEo2WTBOd0g5c09idW9ieTBsRHhzSDJpMEJJZng0OHhDLW9nQVJLekpHT1JNRU02YllKaThIY1kwTXlNb0tXQVRmQ0NKQlFPb0hnZzVJOGgwbkVERU9NbXVUYzlaY3hQMFBnR3JMV19r?oc=5\" target=\"_blank\">Trump anuncia que EE.UU. llamará “superinteligencia” a la inteligencia artificial y rechaza regulación internacional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Comercio Perú</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPaFRwQXR5WFgxMkVHa0dPZC1sOGE4MUR6cUZ6UU1PSEVjLVZxeDNwc0hEd19VMkg1cnYwWC1KSlZVSTJZbG9iN1lfakR0emFwVUtxMk9Ma2ZTWW9xbDUtU0VGaWVNeUdqNUZmWGM0aXF4bHVsMnRzNFpjODczSEc4WS1iNDhjblhuV3BWUWNHWW1GUVZQMFRNSV9DZkZiQ0p5UVQ0RTQ1MmhvWF9jMDZqM0dmWldrODFUb2dWbWUtcHhROU9ZRzl4NG8xTGJlNGlHbmwtM1ktQVJhSXFXVmFlREZ4UHhxeHpOaE5qZzNLN2tOX205NVBVNGgyOWxoWl83cHdvenBBb05fQzZkNkRRUtIBpAJBVV95cUxNbDdTM2xKcThqbmV6ZzF1bTIxQUdmVDBXZ1NYM2JUVUVrLV9tbHhrOElCblNScjFzZEtJeXk1TW9PWDVwbDQyRjBaVVpZajlJc3Q3VkYxcGVPN1dsRlhGNHUydndRWHp2UlJndGo0eEpUZzg2eGNpQkNrQm5iWnNXbkpUMnV6M1hCWGhaVm9YeUN2Vkg0dnp6ajhVcUxZTU8wQTltekE4aWRNcjdDUWE2WjFMSWhxMHpIWDFweEo2WTBOd0g5c09idW9ieTBsRHhzSDJpMEJJZng0OHhDLW9nQVJLekpHT1JNRU02YllKaThIY1kwTXlNb0tXQVRmQ0NKQlFPb0hnZzVJOGgwbkVERU9NbXVUYzlaY3hQMFBnR3JMV19r?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T17:26:20.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "65c54aabd3aa7ba8",
+      "title": "5 claves que definirán la electromovilidad en México en 2027 - Transporte.mx",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeUk0NTJ3WXVtZWw5dXVNQWhqaFNkOUk4dWlGclRqcmdscXhuTm1lM0ZtM0Q0SUFOdGpJd3lqYWpOTTVsSF9IMzMwQ180ZWtoZEY0MUZ2SlpHQzgxbExWY1pjSzNzZmFJdXlyVnVoc0h4UHBoN2xfeThqa0dBQTVlXzQ1UjBCNk0ydHFj?oc=5\" target=\"_blank\">5 claves que definirán la electromovilidad en México en 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transporte.mx</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeUk0NTJ3WXVtZWw5dXVNQWhqaFNkOUk4dWlGclRqcmdscXhuTm1lM0ZtM0Q0SUFOdGpJd3lqYWpOTTVsSF9IMzMwQ180ZWtoZEY0MUZ2SlpHQzgxbExWY1pjSzNzZmFJdXlyVnVoc0h4UHBoN2xfeThqa0dBQTVlXzQ1UjBCNk0ydHFj?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T17:17:04.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "183ef84457eb77c5",
+      "title": "Gobierno despliega ministros en los departamentos para explicar decreto del diésel - La Razón Digital Bolivia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNRGx0LW55MHl4SkgwQ3o4ZGlMc0VmNWtKOW9Cb2lGWVZ2Zndkc1d3NWNMbUE0VzdYQ3ZiRDlMQ0VEbUtvbmotRVgxMXZFUEtJTjJYdi1wdWtBcW1ZQ0wzOThzQkw5ZDhOSUNrNU15LVJRLUp5aUJQc3phbFZwME1obnRuWU50cHFpTXVjV0ZiTWVXUGtMdzg3REV6X1Zpc1JpdHQ5VV94QnlOTndaN3lDTkMwM3ZwQ295bWViNVo0MA?oc=5\" target=\"_blank\">Gobierno despliega ministros en los departamentos para explicar decreto del diésel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Razón Digital Bolivia</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRGx0LW55MHl4SkgwQ3o4ZGlMc0VmNWtKOW9Cb2lGWVZ2Zndkc1d3NWNMbUE0VzdYQ3ZiRDlMQ0VEbUtvbmotRVgxMXZFUEtJTjJYdi1wdWtBcW1ZQ0wzOThzQkw5ZDhOSUNrNU15LVJRLUp5aUJQc3phbFZwME1obnRuWU50cHFpTXVjV0ZiTWVXUGtMdzg3REV6X1Zpc1JpdHQ5VV94QnlOTndaN3lDTkMwM3ZwQ295bWViNVo0MA?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T17:12:45.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "fbeb0969f3a362a0",
+      "title": "El Gobierno aprueba el Real Decreto que reconoce los derechos de pensión de los pastores evangélicos jubilados - Actualidad Evangélica",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM1VCbGVVZTFXMmsxMERpR29LSGxUQlB2djkwSWRLd3BXVnh2NXYyRzBxS3pVVElUMDcwTnVYRkpwVTJ3RHRxMDdiM3FqdGMySHJtMGhJcS1CVnhCNFRwY0QtYVhPSm5tY2dYY3FfTDBMZGdjd3U0U09SNTlrX3RaNVlEMzZ6RTZha0FXUzNqZUNCS29leTFPVmpWei1WZkNxX2ZuUFRmenlOMWhMUkxGbEVEX1g5NjRiRXVraFBLVG11Y3pPM3Y5Tm45dnhhX2ROQ1BHdTJKLW0zdkU?oc=5\" target=\"_blank\">El Gobierno aprueba el Real Decreto que reconoce los derechos de pensión de los pastores evangélicos jubilados</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Actualidad Evangélica</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM1VCbGVVZTFXMmsxMERpR29LSGxUQlB2djkwSWRLd3BXVnh2NXYyRzBxS3pVVElUMDcwTnVYRkpwVTJ3RHRxMDdiM3FqdGMySHJtMGhJcS1CVnhCNFRwY0QtYVhPSm5tY2dYY3FfTDBMZGdjd3U0U09SNTlrX3RaNVlEMzZ6RTZha0FXUzNqZUNCS29leTFPVmpWei1WZkNxX2ZuUFRmenlOMWhMUkxGbEVEX1g5NjRiRXVraFBLVG11Y3pPM3Y5Tm45dnhhX2ROQ1BHdTJKLW0zdkU?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T17:11:20.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "9481d73ad78672b8",
+      "title": "El mapa mundial de los autos: qué países lideran las ventas y la carrera por los vehículos eléctricos - Ambito",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcVZHNURKWVZ0N0ViLWtxc25IcndvT2pWVjZ6amdPWjE5YVNvMUhLOHNBSGFUakFMTktyYmRBaEVONVZ0Uk0wZi10V1FfQ213aFRXNnN4VENmNTFGa05LajlMcDlKS0hJY0Qyc2JTdkh0Wko1c2IzMkNEbmpjc19veFkza2ZmdDJtakNDREdYVkNLVEd5ZXlza0NXVTYwSzVNdTRTSmxoYXgtNkZ6LTVkLUJTUVhYS0VxWjlDLS1meE1kalHSAcgBQVVfeXFMUHB0Y3J0a2UyU1EtR0JncjJZZXhBRHlCRUs2WkZDeGUwTk9VSEFqV2J5dHpaZ3U1aTE2cVBDR1RlS0w3UHdmc3FzY2FYVlFfNEFIczdBZGlxd0FrbFpaMnpZTEY0TGVJSWJzQmVDWUlJdG1JNHQ5Z2VOY2FnNzZMdl8zeTJfYnNLWVhOX25XNlUzdmZrS1NYUEtiaUJPZExpa09mQzRhel9xcEFxNzh6cTdYQ3E5Sm45MnEyMGRmZkRkY2Z1SlFrbnE?oc=5\" target=\"_blank\">El mapa mundial de los autos: qué países lideran las ventas y la carrera por los vehículos eléctricos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ambito</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcVZHNURKWVZ0N0ViLWtxc25IcndvT2pWVjZ6amdPWjE5YVNvMUhLOHNBSGFUakFMTktyYmRBaEVONVZ0Uk0wZi10V1FfQ213aFRXNnN4VENmNTFGa05LajlMcDlKS0hJY0Qyc2JTdkh0Wko1c2IzMkNEbmpjc19veFkza2ZmdDJtakNDREdYVkNLVEd5ZXlza0NXVTYwSzVNdTRTSmxoYXgtNkZ6LTVkLUJTUVhYS0VxWjlDLS1meE1kalHSAcgBQVVfeXFMUHB0Y3J0a2UyU1EtR0JncjJZZXhBRHlCRUs2WkZDeGUwTk9VSEFqV2J5dHpaZ3U1aTE2cVBDR1RlS0w3UHdmc3FzY2FYVlFfNEFIczdBZGlxd0FrbFpaMnpZTEY0TGVJSWJzQmVDWUlJdG1JNHQ5Z2VOY2FnNzZMdl8zeTJfYnNLWVhOX25XNlUzdmZrS1NYUEtiaUJPZExpa09mQzRhel9xcEFxNzh6cTdYQ3E5Sm45MnEyMGRmZkRkY2Z1SlFrbnE?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T17:10:00.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "e57fda071990aa12",
+      "title": "Provincia extendió hasta el 3 de octubre la consulta pública para regular la gestión de baterías de ácido plomo usadas - lavozdetandil.com.ar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSEpFbnQydVYxZW1OZTZFa1g3MDZhQmpMaGkya0x2NElsd25SV3dhV080elp2RDc3eHlEdWpQMUM4YXlnTEdaNmlDUlpNSF8wQl9ZdWlTTVQxdWVnNjlBNHBkRjBLa0FBc2p3eGRieThNY3lTTG03V0o5UlUxbXJQeTMxaWFRS3puOGtxOHFTbzRaeDlUSERBRTA1NmNzRDh3VDlvMWRCN0MxaFVXUEdzQTZZWldfb2Q4NTlOa1ZiOVE3R2pNbDVjanducVZ6Qk9fanVGLWV0dWxfa3pHZmZ0aFd5OXRDQVp0NTd4Z3cxU2YzSlFoUWc?oc=5\" target=\"_blank\">Provincia extendió hasta el 3 de octubre la consulta pública para regular la gestión de baterías de ácido plomo usadas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lavozdetandil.com.ar</font>",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSEpFbnQydVYxZW1OZTZFa1g3MDZhQmpMaGkya0x2NElsd25SV3dhV080elp2RDc3eHlEdWpQMUM4YXlnTEdaNmlDUlpNSF8wQl9ZdWlTTVQxdWVnNjlBNHBkRjBLa0FBc2p3eGRieThNY3lTTG03V0o5UlUxbXJQeTMxaWFRS3puOGtxOHFTbzRaeDlUSERBRTA1NmNzRDh3VDlvMWRCN0MxaFVXUEdzQTZZWldfb2Q4NTlOa1ZiOVE3R2pNbDVjanducVZ6Qk9fanVGLWV0dWxfa3pHZmZ0aFd5OXRDQVp0NTd4Z3cxU2YzSlFoUWc?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T17:09:00.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "c0307aafe80e11e6",
+      "title": "Vázquez pide que el futuro decreto de listas de espera \"se acuerde con las comunidades y se base en criterios técnicos\" - Tribuna de Salamanca.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNb0NaX1FtOWpRUWVJbzZTWXR1SjRNN21QZEMzN2NpdEh3Q29NQWxrREoyTTM0TE9DUDBKelFwV3hJZnFqZmJEWjV3UDVncC05SmxWWlhobE5EVU1jWnp0dmRrN2tGSEt0WmRlOVNPSGxKcXlhdU1SbXZHX2Nya3RmdXZqYkJ0WmZ6ZzRGT3hRdXptbTk0VnUzd2I5aGs0VGJiVEs3MTVlLURCLU4zZTB0XzFYV1MzbF9JaHJmRVdPUnFrWUVORXRYbkhhRHZYVTBqNHhQQ3ZpdVR0eGNPU2I1RHhGVWhNUEZSMVJSZ29PZVJOVXZQVExqTDBn?oc=5\" target=\"_blank\">Vázquez pide que el futuro decreto de listas de espera \"se acuerde con las comunidades y se base en criterios técnicos\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tribuna de Salamanca.</font>",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNb0NaX1FtOWpRUWVJbzZTWXR1SjRNN21QZEMzN2NpdEh3Q29NQWxrREoyTTM0TE9DUDBKelFwV3hJZnFqZmJEWjV3UDVncC05SmxWWlhobE5EVU1jWnp0dmRrN2tGSEt0WmRlOVNPSGxKcXlhdU1SbXZHX2Nya3RmdXZqYkJ0WmZ6ZzRGT3hRdXptbTk0VnUzd2I5aGs0VGJiVEs3MTVlLURCLU4zZTB0XzFYV1MzbF9JaHJmRVdPUnFrWUVORXRYbkhhRHZYVTBqNHhQQ3ZpdVR0eGNPU2I1RHhGVWhNUEZSMVJSZ29PZVJOVXZQVExqTDBn?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T17:08:24.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "5ee0a8e5576111a1",
+      "title": "Hogar sin tóxicos denuncia la falta de regulación en la UE sobre el uso de cosméticos de adultos por menores - Infosalus",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV0pmNF94M3hrM29rV0g5T19OajNtak5wQ3UyUHhqQjRjMzU0OVQtN1R5OXBiUk5DMnhoeXVMMGM1TjlhcHhlOUJWMUNWM3VpWEdoazlCMDVMbDM4Zks5TnV4ckdLU3p3VGZtUWUzbUJvdHB1S1BlakMta1lDRGRDRElyTEpod1Itb1hNaTRILXc3NjAxUzlHbldXa2g2dHhKMnYwWm1qaVU1OGpCTURnS2lOWF94cFJNcURkUVotUkl2Um0tZkJseGFaeHdFU1h5SW5MaA?oc=5\" target=\"_blank\">Hogar sin tóxicos denuncia la falta de regulación en la UE sobre el uso de cosméticos de adultos por menores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infosalus</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV0pmNF94M3hrM29rV0g5T19OajNtak5wQ3UyUHhqQjRjMzU0OVQtN1R5OXBiUk5DMnhoeXVMMGM1TjlhcHhlOUJWMUNWM3VpWEdoazlCMDVMbDM4Zks5TnV4ckdLU3p3VGZtUWUzbUJvdHB1S1BlakMta1lDRGRDRElyTEpod1Itb1hNaTRILXc3NjAxUzlHbldXa2g2dHhKMnYwWm1qaVU1OGpCTURnS2lOWF94cFJNcURkUVotUkl2Um0tZkJseGFaeHdFU1h5SW5MaA?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T16:58:55.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "813ccb14bac0808e",
+      "title": "Trump rechaza ante la ONU una regulación internacional de la inteligencia artificial - nacion.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcllBbXp1QTY2ekxCWmduYllNTkZIOWJIUnlXbnotd3FNM0pzUmJ5NmRaa3BFX01CcUlGZ1Z3Y3hFSUpHR3lhQkZzUFJDVWJlSzZDN2dKeXVRYTZFUGlrdjZhcUlBZG5NeGctQWVlQmJBS0ZOaTFHVURCVDdoVjJ5VmtEQ1gxXzY1d2RpYkJ3TWJPcDNQN09GazZIVGp6X1h0Wnk3U1Y3LVVPdw?oc=5\" target=\"_blank\">Trump rechaza ante la ONU una regulación internacional de la inteligencia artificial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nacion.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcllBbXp1QTY2ekxCWmduYllNTkZIOWJIUnlXbnotd3FNM0pzUmJ5NmRaa3BFX01CcUlGZ1Z3Y3hFSUpHR3lhQkZzUFJDVWJlSzZDN2dKeXVRYTZFUGlrdjZhcUlBZG5NeGctQWVlQmJBS0ZOaTFHVURCVDdoVjJ5VmtEQ1gxXzY1d2RpYkJ3TWJPcDNQN09GazZIVGp6X1h0Wnk3U1Y3LVVPdw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T16:57:39.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "6b892f2967cb1fc0",
+      "title": "Harán mesa de trabajo para regular scooters y vehículos eléctricos en NL - Quadratín Nuevo León",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0s1eldTZ1plckhMTkNTUEF6TC1aemtTeUhVTGZ3c1FQM1NiZEVaWklTYk9iYlRsZ1dfb0VBOUNOYWY4MktUOGdEQm1tZTdfdFJ5MTFFOGptemF0clZGUjNKRFVyaTJab1pNRTB0d2pfREhsSlB5MnQ0SHlEelY0UzEzMnRBdExLNnJsdlFrM1lubzJNWTgwa2dXd252WWwxbzgzTDNQcFdLQ3FEbTJLaklPUUMxR25YcVE?oc=5\" target=\"_blank\">Harán mesa de trabajo para regular scooters y vehículos eléctricos en NL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quadratín Nuevo León</font>",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0s1eldTZ1plckhMTkNTUEF6TC1aemtTeUhVTGZ3c1FQM1NiZEVaWklTYk9iYlRsZ1dfb0VBOUNOYWY4MktUOGdEQm1tZTdfdFJ5MTFFOGptemF0clZGUjNKRFVyaTJab1pNRTB0d2pfREhsSlB5MnQ0SHlEelY0UzEzMnRBdExLNnJsdlFrM1lubzJNWTgwa2dXd252WWwxbzgzTDNQcFdLQ3FEbTJLaklPUUMxR25YcVE?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T16:46:00.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "8bfa6de2298182ac",
+      "title": "Trump: “Tengo que tomar una decisión muy importante, hacemos un trato o aniquilo a la República Islámica de Irán” - Infobae",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMDdlUnlPdkM1RUlTTlBXckZOdnFENTh6ZndIVUVydGJ6bktNWlRhRzdlYTc3bno3RGdVMXlOdGlzVE5MdnltbGlfMjI0S3ctMXp4WEF2UkpiQ3kxcTY3Qlpsb1l3SU1wSk91N2tCMGxTUERJVlgzNG1pZ3JSNmFRSElheEZHNkdsX3V6NktXbG5XU2x3UmlIRUVRaDl0TzJESmJxTElpT0xReGZySWdkZ3hPVVNHN3lYWnc5SWtoTnVPWU41SUJUYWJMcXUyQWh0dHlxUldtT1M2b2dQS0plVUVtVXYxbzNFNVFBNkdGbkVGZ9IBjAJBVV95cUxPZWpxRC15Vm5tal93NExfZmUzWVNfRURDOVgxaGxmV056ODYxcEVwcVgySkNhVU5XZVRlenlMUEx6VzZSVTNIN0hhUnphdVZWUjZia1JwaVQwd0FZMkdURXRvUElhMVUxUnE1Yk9aaWxSX2hkTUMxVExfNDV6NXdKQTBQaTlDUVFWa2NTeGRBSHFuSWVEOGNodDExY1VxNTg0MmNIS2N6dzJhRHVvM2dUcUJMT1NycUFUbVB1dWVTVVJvVHNoV1ZGdkRhVTN1eTdVNGpqX2taWGVpcWFGSVJldjE5OXpJdzg1RmNGY3pCMVZRNjhuR0VRbTlDZ2VaZTRMQ0czT2o2MmZPTDdi?oc=5\" target=\"_blank\">Trump: “Tengo que tomar una decisión muy importante, hacemos un trato o aniquilo a la República Islámica de Irán”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infobae</font>",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMDdlUnlPdkM1RUlTTlBXckZOdnFENTh6ZndIVUVydGJ6bktNWlRhRzdlYTc3bno3RGdVMXlOdGlzVE5MdnltbGlfMjI0S3ctMXp4WEF2UkpiQ3kxcTY3Qlpsb1l3SU1wSk91N2tCMGxTUERJVlgzNG1pZ3JSNmFRSElheEZHNkdsX3V6NktXbG5XU2x3UmlIRUVRaDl0TzJESmJxTElpT0xReGZySWdkZ3hPVVNHN3lYWnc5SWtoTnVPWU41SUJUYWJMcXUyQWh0dHlxUldtT1M2b2dQS0plVUVtVXYxbzNFNVFBNkdGbkVGZ9IBjAJBVV95cUxPZWpxRC15Vm5tal93NExfZmUzWVNfRURDOVgxaGxmV056ODYxcEVwcVgySkNhVU5XZVRlenlMUEx6VzZSVTNIN0hhUnphdVZWUjZia1JwaVQwd0FZMkdURXRvUElhMVUxUnE1Yk9aaWxSX2hkTUMxVExfNDV6NXdKQTBQaTlDUVFWa2NTeGRBSHFuSWVEOGNodDExY1VxNTg0MmNIS2N6dzJhRHVvM2dUcUJMT1NycUFUbVB1dWVTVVJvVHNoV1ZGdkRhVTN1eTdVNGpqX2taWGVpcWFGSVJldjE5OXpJdzg1RmNGY3pCMVZRNjhuR0VRbTlDZ2VaZTRMQ0czT2o2MmZPTDdi?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T16:28:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 0
+    },
+    {
+      "id": "79762a16167d0714",
+      "title": "Ceer presenta sus primeros vehículos eléctricos en su apuesta por convertirse en una potencia automotriz - Forbes México",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxObWM2akFhRkg2TUZ1djVrRXBGSG9HUGYwN0NzaHY4Z1J2WWw5azAxNWxfSlUzOFdqc04wd0E3R1pMOGttOHpPdmwzZnB5RVRvclNwQW1iQkJNUXc5NV9FTGE0dnhFcFhWT1ZKalF4dG9ndFJnOHNuY19SbzhCODlURXlOaENNR1JmQnJIaWJMZHpzWGRXeHg4ejk5Ykd0WERnZkFZWEhnWERvMzJ1dmVVREdZTkRQTGQ0TmpQYXpIR2ZETGV4NXc?oc=5\" target=\"_blank\">Ceer presenta sus primeros vehículos eléctricos en su apuesta por convertirse en una potencia automotriz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes México</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObWM2akFhRkg2TUZ1djVrRXBGSG9HUGYwN0NzaHY4Z1J2WWw5azAxNWxfSlUzOFdqc04wd0E3R1pMOGttOHpPdmwzZnB5RVRvclNwQW1iQkJNUXc5NV9FTGE0dnhFcFhWT1ZKalF4dG9ndFJnOHNuY19SbzhCODlURXlOaENNR1JmQnJIaWJMZHpzWGRXeHg4ejk5Ykd0WERnZkFZWEhnWERvMzJ1dmVVREdZTkRQTGQ0TmpQYXpIR2ZETGV4NXc?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T16:27:00.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "74cd2e6075b66629",
+      "title": "Andesco solicita revocar Resolución CRA 1040 sobre tarifas de aseo en Colombia: razones y efectos - Pulzo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdlp4NVp4cEFlcWl1UDl0RERFMm5lLXRfMjdPNjJxZkNTTTA3SV9ad1B6d2EtczItYUQ3NnNuUnVNNF9VTGxKVTFvcTQ0TDFoSl9EdUhKTHFQbzB5SUxkNzlzTUlGVVBvZ3dsN2EwVGlXNE9BV2FQWDF3SGdTMlBEcTJ2UlQxMGg1OC0wcHVSWG81blBtSDZlOVBPWVhzX1N1U2pUcXJxSDNNeUR3bUNUVTdONE1ZRGE4bDMtY2FHUmkyLW5ET3NIbWZnZ09yOUp1ZENWYQ?oc=5\" target=\"_blank\">Andesco solicita revocar Resolución CRA 1040 sobre tarifas de aseo en Colombia: razones y efectos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulzo</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdlp4NVp4cEFlcWl1UDl0RERFMm5lLXRfMjdPNjJxZkNTTTA3SV9ad1B6d2EtczItYUQ3NnNuUnVNNF9VTGxKVTFvcTQ0TDFoSl9EdUhKTHFQbzB5SUxkNzlzTUlGVVBvZ3dsN2EwVGlXNE9BV2FQWDF3SGdTMlBEcTJ2UlQxMGg1OC0wcHVSWG81blBtSDZlOVBPWVhzX1N1U2pUcXJxSDNNeUR3bUNUVTdONE1ZRGE4bDMtY2FHUmkyLW5ET3NIbWZnZ09yOUp1ZENWYQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T16:22:34.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "83faa9527f69a980",
+      "title": "Trump rechaza ante la ONU una regulación internacional de la IA - El Observador CR",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPaDRBRnhncTgzYUpKSWxVOWxDaDFMUDJqMzZIZmQwUjJ1dWhZeEV3RzBDcUtzdTNlS1pzTUJqaDBVMVdLYzhKMFoyR1h0YzhIQVhlTTZMTUJHaWZhY1RDMnZKSE5MVFhvLXp0bEpoSkhhVUNFN0Z4VVU0VzBMaEozd3RiV29xdWl6VC12dl9SQQ?oc=5\" target=\"_blank\">Trump rechaza ante la ONU una regulación internacional de la IA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Observador CR</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaDRBRnhncTgzYUpKSWxVOWxDaDFMUDJqMzZIZmQwUjJ1dWhZeEV3RzBDcUtzdTNlS1pzTUJqaDBVMVdLYzhKMFoyR1h0YzhIQVhlTTZMTUJHaWZhY1RDMnZKSE5MVFhvLXp0bEpoSkhhVUNFN0Z4VVU0VzBMaEozd3RiV29xdWl6VC12dl9SQQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T16:17:25.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "709cc9e13e3323df",
+      "title": "Segunda remesa de vehículos eléctricos y de maquinaria para la limpieza viaria - Diario de Ferrol",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQzNOVGNDc1I0X1RBTGU2VG1QX0Z2Y1hEV3JYRkpPNEVON3REQnBIUEJkaTkxZTNSZzdOWjY5S0FCVmR3c0UzSzRUQXBIMnQzOGstb0UxY2hrT1hlZkNBY2RCeVNTS3dXbGRaOHdtS0JQeHl1SXV6U3VIaVJydmV1S2c5djdZaGFJNDBBbnFlR1hYc2xQMVROdTlaNENOamJaeTRJOUZsTF9RTk1UR2phRk9UMy1nX0R3R1Z0akVGUkJjUTYyNUJQbmVZT1NHMnYzb092UXF1T0tYZXNjcVBZS2h5RVA?oc=5\" target=\"_blank\">Segunda remesa de vehículos eléctricos y de maquinaria para la limpieza viaria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Ferrol</font>",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQzNOVGNDc1I0X1RBTGU2VG1QX0Z2Y1hEV3JYRkpPNEVON3REQnBIUEJkaTkxZTNSZzdOWjY5S0FCVmR3c0UzSzRUQXBIMnQzOGstb0UxY2hrT1hlZkNBY2RCeVNTS3dXbGRaOHdtS0JQeHl1SXV6U3VIaVJydmV1S2c5djdZaGFJNDBBbnFlR1hYc2xQMVROdTlaNENOamJaeTRJOUZsTF9RTk1UR2phRk9UMy1nX0R3R1Z0akVGUkJjUTYyNUJQbmVZT1NHMnYzb092UXF1T0tYZXNjcVBZS2h5RVA?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T16:11:53.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "b663cb6ab91a1cdd",
+      "title": "PowerUp America to build four new NEVI fast EV charging sites in North Carolina - Charged EVs",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0RjSmtxaFg1eW5ZLXM1eFlmdERhZnAtVW9SWTVUZ3VVQ2R0MlNZU1Nkd2ptMXpidVRZWDQ5eGpDQ0U2STRzMVM2RFBjSzJUdnZabmZKeXEyYUwwd2g3Q3ZSMFUxc2s0bVNhaFhtblo0d28xRng2N1ZhWVA1NEZscEhQY19fb2hZcDlGVGE0TEMzNXZYdHZqN0h0UU1nYWR6YWJfb2Jlbk9FQ0otOUNPVndR?oc=5\" target=\"_blank\">PowerUp America to build four new NEVI fast EV charging sites in North Carolina</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charged EVs</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0RjSmtxaFg1eW5ZLXM1eFlmdERhZnAtVW9SWTVUZ3VVQ2R0MlNZU1Nkd2ptMXpidVRZWDQ5eGpDQ0U2STRzMVM2RFBjSzJUdnZabmZKeXEyYUwwd2g3Q3ZSMFUxc2s0bVNhaFhtblo0d28xRng2N1ZhWVA1NEZscEhQY19fb2hZcDlGVGE0TEMzNXZYdHZqN0h0UU1nYWR6YWJfb2Jlbk9FQ0otOUNPVndR?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T16:07:30.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "b571f799b0e4892d",
+      "title": "América Latina supera el millón de vehículos electrificados: estos países lideran en autos y buses en circulación - bloomberglinea.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX2VNdVZCak1MVFZlU3VoSXdhZ1ZZZVM4QXhUUGhWRmRBQnZ4UFpoREtrZmdrWHhwLXVPWmVUMkFlQ21fTm5STm40QlJzNFI5TVotNUliU1Z5SUFuNTJLYnNSc3NCdnF2YXNZWmdza1hXeHdpYThxYjhWaWhtNXJma2U2aEtRMUJTV0F1aThPWGg3Rjd1RmpiNlg3bGNEa3QyeV9VVGd6RUNFd0FXTkdjbWl3ZDVEZllQdTFCbEhMVVBRUWFJck5MemVxSHVTaDY5cDZnMkgwdWIyeWxtSm54X2Rua1d5YjBO0gH8AUFVX3lxTE5CM0k1cjdtV0gtWU5IT01JbDdLZ3pkS2xjSm9Jdmt0WXBYTkhrQUFtNDI4bGgzb3hTWndKZGNCbTFvSC1COHlXcjVQT3RIdWFGUHBvdjRlb3QwcndjTlBXdGRpdTNaWEFQcVY1VndPaVp3SjR0WUxBelhfVlN4Ym1kNVFuZDNtZ0lmX2tzM1o5UHNSczY0WEhKTlhBRXJaY2pSaktTbTQ2cklKMzdHRVN6dHdLNkJ5YnVlWkhjc2lwZk5UbnA2SVFSZjdYMlRfekVwSWpyUEFiTDh4STVCQkE0dUtsYVlteG9tbzBnQkV6RUhuZmJlQWhZbW5PZQ?oc=5\" target=\"_blank\">América Latina supera el millón de vehículos electrificados: estos países lideran en autos y buses en circulación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomberglinea.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX2VNdVZCak1MVFZlU3VoSXdhZ1ZZZVM4QXhUUGhWRmRBQnZ4UFpoREtrZmdrWHhwLXVPWmVUMkFlQ21fTm5STm40QlJzNFI5TVotNUliU1Z5SUFuNTJLYnNSc3NCdnF2YXNZWmdza1hXeHdpYThxYjhWaWhtNXJma2U2aEtRMUJTV0F1aThPWGg3Rjd1RmpiNlg3bGNEa3QyeV9VVGd6RUNFd0FXTkdjbWl3ZDVEZllQdTFCbEhMVVBRUWFJck5MemVxSHVTaDY5cDZnMkgwdWIyeWxtSm54X2Rua1d5YjBO0gH8AUFVX3lxTE5CM0k1cjdtV0gtWU5IT01JbDdLZ3pkS2xjSm9Jdmt0WXBYTkhrQUFtNDI4bGgzb3hTWndKZGNCbTFvSC1COHlXcjVQT3RIdWFGUHBvdjRlb3QwcndjTlBXdGRpdTNaWEFQcVY1VndPaVp3SjR0WUxBelhfVlN4Ym1kNVFuZDNtZ0lmX2tzM1o5UHNSczY0WEhKTlhBRXJaY2pSaktTbTQ2cklKMzdHRVN6dHdLNkJ5YnVlWkhjc2lwZk5UbnA2SVFSZjdYMlRfekVwSWpyUEFiTDh4STVCQkE0dUtsYVlteG9tbzBnQkV6RUhuZmJlQWhZbW5PZQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T16:02:45.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "603c76ead7e9ca44",
+      "title": "¿Permite ahorrar dinero el renting de un coche eléctrico en España? - carwow.es",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVFOclNMZWpqNXVxR2dDWWIteVZkaXI0c0J6TlFoNGNlUmVKSnQ0b1VmOEN4RzhxVElyUTVSOWZkRU4xYXJ6TmtvVkZtcGZ2Zk1NT1ljcTdKajZDXzNEa2xlWEdlWFd5dzJUdktLSFFPTWtiampleU51VFFQdHVGeUpKUV9QbzVFTlpxTnRDWnc2Nk9UbGpPTjA4MEhrNDJlVG1ET3NEV1NrSzBoWUJnc0FSQXVIR2E2b3c?oc=5\" target=\"_blank\">¿Permite ahorrar dinero el renting de un coche eléctrico en España?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carwow.es</font>",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVFOclNMZWpqNXVxR2dDWWIteVZkaXI0c0J6TlFoNGNlUmVKSnQ0b1VmOEN4RzhxVElyUTVSOWZkRU4xYXJ6TmtvVkZtcGZ2Zk1NT1ljcTdKajZDXzNEa2xlWEdlWFd5dzJUdktLSFFPTWtiampleU51VFFQdHVGeUpKUV9QbzVFTlpxTnRDWnc2Nk9UbGpPTjA4MEhrNDJlVG1ET3NEV1NrSzBoWUJnc0FSQXVIR2E2b3c?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T16:01:16.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 0
+    },
+    {
+      "id": "1dac57eab84bede3",
+      "title": "Con 8 tomas en 4 puntos de recarga en el sur, Semapa prevé frenar alza de precio de agua de cisternas - Opinión Bolivia",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnk5d1pibkVJWlM4bUxJNlduYVZ2a3hva1d0Zk5HbURkaFZFb2U5LUQ5bFhMaDlxRFowMUZrM0dvRExXczNOMkN2MjE0Mk1jQVEyTWNtVndIRURCOS1VSjJkNUlsRk14SEwybVZoYmJ6ekhRU01kUU5kMTVSa1NaWDh0LURCSk9XdG0yU1lYUlZGbVJWcTdKbDg5TW1UZTh6czJhaTNLbl80Mm51My15YmF3Q2tGcFJ2em9fOXdBN1ZuMnVXX0t0blQxTnN4TmRnZVJpR0RR0gHbAUFVX3lxTE1ONTFKc1M0SVg4eEgyOUZ5TV85YzRHYUVPbE11Y3VseTRGbXduZVhJLTNWenVNOF9tQWVlb1JSN1plOFpqeWNYN0ZvU0tJV29UQWh6RFU2NDF4aWd0cXNFTU44cGlINkgzVzRfUkVaMm1qcXNwa1I5TGIxd2R2dUh0RGxqdGpyOHo0LVdsTl9YaHltcE11dHVDSnh0cDdhNFNSai1ST2VDVEpRaTJBcDNHa0lvWXpidnY2eFU4RlBFYWh2eDBrTjRKVmtSRnQ4bVE4TWRGTjBRTEs0Zw?oc=5\" target=\"_blank\">Con 8 tomas en 4 puntos de recarga en el sur, Semapa prevé frenar alza de precio de agua de cisternas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Opinión Bolivia</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnk5d1pibkVJWlM4bUxJNlduYVZ2a3hva1d0Zk5HbURkaFZFb2U5LUQ5bFhMaDlxRFowMUZrM0dvRExXczNOMkN2MjE0Mk1jQVEyTWNtVndIRURCOS1VSjJkNUlsRk14SEwybVZoYmJ6ekhRU01kUU5kMTVSa1NaWDh0LURCSk9XdG0yU1lYUlZGbVJWcTdKbDg5TW1UZTh6czJhaTNLbl80Mm51My15YmF3Q2tGcFJ2em9fOXdBN1ZuMnVXX0t0blQxTnN4TmRnZVJpR0RR0gHbAUFVX3lxTE1ONTFKc1M0SVg4eEgyOUZ5TV85YzRHYUVPbE11Y3VseTRGbXduZVhJLTNWenVNOF9tQWVlb1JSN1plOFpqeWNYN0ZvU0tJV29UQWh6RFU2NDF4aWd0cXNFTU44cGlINkgzVzRfUkVaMm1qcXNwa1I5TGIxd2R2dUh0RGxqdGpyOHo0LVdsTl9YaHltcE11dHVDSnh0cDdhNFNSai1ST2VDVEpRaTJBcDNHa0lvWXpidnY2eFU4RlBFYWh2eDBrTjRKVmtSRnQ4bVE4TWRGTjBRTEs0Zw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T16:00:51.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "a0fc8619d2c631da",
+      "title": "Trump rechaza ante la ONU una regulación internacional de la IA - clarin.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ1dzSkljQmJkZWJNQVpoMnZhcEhiR1BOYVBOQ25aYkg2elB2SEtXbFhMM2VJVm9BRkZOQWJjTy1ZSWkwYnUzb09ISTRSWG5sSkJFS2NfVTdZT2E5Z3VqaW1pMEdJSkZTRkNYd1pvVjJPYTUtTmRvd2lqQXJGRzdibnZFV3RNWl9MVzhzdmxfS1pPWmtRMzdiVzRoVXZBVHRuWGx3VW54QmZab0hXa3phZ2Z3MzR6VGVPc2pV?oc=5\" target=\"_blank\">Trump rechaza ante la ONU una regulación internacional de la IA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">clarin.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ1dzSkljQmJkZWJNQVpoMnZhcEhiR1BOYVBOQ25aYkg2elB2SEtXbFhMM2VJVm9BRkZOQWJjTy1ZSWkwYnUzb09ISTRSWG5sSkJFS2NfVTdZT2E5Z3VqaW1pMEdJSkZTRkNYd1pvVjJPYTUtTmRvd2lqQXJGRzdibnZFV3RNWl9MVzhzdmxfS1pPWmtRMzdiVzRoVXZBVHRuWGx3VW54QmZab0hXa3phZ2Z3MzR6VGVPc2pV?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T16:00:23.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "22a9b89562cea031",
+      "title": "Latinoamérica supera el millón de automóviles eléctricos y crecen 39.1 % a julio - www.revistaeyn.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd0JUaHpsZkZkUGw4ZkJ5a0NPdHJabDBBYkRUcUczREQ1V1YyMS1lMEw4UzRuc0pySzNEZE1pYUR5VWNJMnhQUWs4RVlkend6bUNiVnY1ckxEdV9oZHh6MHlYSDN2QnEzR1YxZjR2djN1X3ZaSDY4LXBHb2Z4UFZHNnVhZks5VUY3SmRSQ2pLUEJ0dEEtZXU3eHNmQXdURV9DZGZvV05UaDdHLU5tcWdSdUpFZHZ3bUR2cENURWU4bUFteWJ0Zjd6OTZVWU5tTmli?oc=5\" target=\"_blank\">Latinoamérica supera el millón de automóviles eléctricos y crecen 39.1 % a julio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.revistaeyn.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd0JUaHpsZkZkUGw4ZkJ5a0NPdHJabDBBYkRUcUczREQ1V1YyMS1lMEw4UzRuc0pySzNEZE1pYUR5VWNJMnhQUWs4RVlkend6bUNiVnY1ckxEdV9oZHh6MHlYSDN2QnEzR1YxZjR2djN1X3ZaSDY4LXBHb2Z4UFZHNnVhZks5VUY3SmRSQ2pLUEJ0dEEtZXU3eHNmQXdURV9DZGZvV05UaDdHLU5tcWdSdUpFZHZ3bUR2cENURWU4bUFteWJ0Zjd6OTZVWU5tTmli?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T16:00:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "df9e76046b27f29e",
+      "title": "EnBW opens flagship charging site with XCharge hardware - electrive.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONVV1M3ZkVG9WQThYTzZXZFo2bUIwU2UweG50dmppdlZKTVhKMFRDLV81X3BxMW1Sb21oUVBsN01jLVpkNGVIUUZCa2JiVEE1TzZnZllMOW1NelpQNVNsbHNpQ0V2NkoyWmJtNFBHbFBqc2lQWFV2RkpHbzZHTklXTlBtQ1BOOG1JV01lS052VWNRSVZ5M2Z4Mg?oc=5\" target=\"_blank\">EnBW opens flagship charging site with XCharge hardware</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">electrive.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVV1M3ZkVG9WQThYTzZXZFo2bUIwU2UweG50dmppdlZKTVhKMFRDLV81X3BxMW1Sb21oUVBsN01jLVpkNGVIUUZCa2JiVEE1TzZnZllMOW1NelpQNVNsbHNpQ0V2NkoyWmJtNFBHbFBqc2lQWFV2RkpHbzZHTklXTlBtQ1BOOG1JV01lS052VWNRSVZ5M2Z4Mg?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T16:00:00.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "69147ef9ad042dbf",
+      "title": "UGT reclama actualizar la normativa de prevención ante la precarización de la salud en los centros de trabajo - UGT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzVzb0hNM2ExTEtWalllaVJwQWE3azByVklMSGxuMWU0NjB2R0pYal93NkNhempqLXJKZElFS3pNSGJCS0FoY2szeFhQVWlSUmU3VmhjWWd3R3FBR0x2bFNRMmJrU19BRTIyd0xtMmxwS0FSZVJzWFJUY2M1dmNFTXdoYzY5RE9VRUx5Y1JGWHlhQW8wM1RWNVNzN0M4dmUtOGg2WV9PckZjRGJhTXo5cy1CZzQ3QWFu?oc=5\" target=\"_blank\">UGT reclama actualizar la normativa de prevención ante la precarización de la salud en los centros de trabajo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UGT</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzVzb0hNM2ExTEtWalllaVJwQWE3azByVklMSGxuMWU0NjB2R0pYal93NkNhempqLXJKZElFS3pNSGJCS0FoY2szeFhQVWlSUmU3VmhjWWd3R3FBR0x2bFNRMmJrU19BRTIyd0xtMmxwS0FSZVJzWFJUY2M1dmNFTXdoYzY5RE9VRUx5Y1JGWHlhQW8wM1RWNVNzN0M4dmUtOGg2WV9PckZjRGJhTXo5cy1CZzQ3QWFu?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:54:04.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "9551f3471f6235f0",
+      "title": "Scania homologa su camión eléctrico de 720 km de autonomía con baterías MP20 tras la cabina - Motor16",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHRLa3l2eGdVYUFsWmtkZDZmWG1jSUh1ZC0yYVhoUlBhUlhzWVlhS2h0YTUwNTdGV3JVN3RxTTVITG11NUNUU2JsSTJaQkpqbjhOYWtEeEx1QzNlYk8xRk9ad3liSUVnb3p0Z0ozRGlyZHZCWWZ1WjN2VEhuMDZEMjZEcUpKOXNzVTBF?oc=5\" target=\"_blank\">Scania homologa su camión eléctrico de 720 km de autonomía con baterías MP20 tras la cabina</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor16</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHRLa3l2eGdVYUFsWmtkZDZmWG1jSUh1ZC0yYVhoUlBhUlhzWVlhS2h0YTUwNTdGV3JVN3RxTTVITG11NUNUU2JsSTJaQkpqbjhOYWtEeEx1QzNlYk8xRk9ad3liSUVnb3p0Z0ozRGlyZHZCWWZ1WjN2VEhuMDZEMjZEcUpKOXNzVTBF?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:50:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "b7cf29916a72fccd",
+      "title": "CATL inicia la producción de prueba de celdas de batería en Hungría - prnewswire.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTFTVlhLQ3JMV2J3VGZIQUpOMXFuRHpOYTFSMWhWYVN2WlRUWHNiQmMxUE9mTGRNOTF3Sk1kbHdicHFYczc1MU1FTmQ4dTNHNlJxUjVPMTRuRGg1SzdDQmlVQVM5Wnk0dWFxYUFnWXZCWFkwcmlSSFVQTGZNLUtNTU1GdWs5cXhRUjBnaEdod3EyQ1F0WmRFY0JQaDNGZ2ktdXhRdGU1eGdpRDdIMS1MRVBlZWJlaXpvUmpJSU9XMDA?oc=5\" target=\"_blank\">CATL inicia la producción de prueba de celdas de batería en Hungría</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">prnewswire.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTFTVlhLQ3JMV2J3VGZIQUpOMXFuRHpOYTFSMWhWYVN2WlRUWHNiQmMxUE9mTGRNOTF3Sk1kbHdicHFYczc1MU1FTmQ4dTNHNlJxUjVPMTRuRGg1SzdDQmlVQVM5Wnk0dWFxYUFnWXZCWFkwcmlSSFVQTGZNLUtNTU1GdWs5cXhRUjBnaEdod3EyQ1F0WmRFY0JQaDNGZ2ktdXhRdGU1eGdpRDdIMS1MRVBlZWJlaXpvUmpJSU9XMDA?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:46:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "06dd7d26227c0eb0",
+      "title": "CATL inicia la producción en pruebas de su nueva fábrica de celdas de baterías en Debrecen, Hungría - MarketScreener España",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMGVqZXVydk9CVkxMb2dXT2pVTDlieUhpdW15V3AwZ0lFYTFhVU5qQ2JaZnM1dDZUTzNxZ1QwLTJpdi04eXJMTU1neGxlOG5BSVFCRFpkRk4yMzdBRGVtbFRENEdMXzNQak1ZODVSWF9TMTluZ3l6bEk0anJsbUpQUW9Td2pCbFVzYTRablkwWm56Q0ZnR1VIUXNBbE9WbWVMRVZLQmh6OVU5RXdGWm5mdkltU2FMckpObnVMMXpBaEpxUWY3SDdUVzYxakZVdkx2ZUlJOEd2WVR3QkpjUUQwUTFVWWIwb0s4cmc?oc=5\" target=\"_blank\">CATL inicia la producción en pruebas de su nueva fábrica de celdas de baterías en Debrecen, Hungría</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMGVqZXVydk9CVkxMb2dXT2pVTDlieUhpdW15V3AwZ0lFYTFhVU5qQ2JaZnM1dDZUTzNxZ1QwLTJpdi04eXJMTU1neGxlOG5BSVFCRFpkRk4yMzdBRGVtbFRENEdMXzNQak1ZODVSWF9TMTluZ3l6bEk0anJsbUpQUW9Td2pCbFVzYTRablkwWm56Q0ZnR1VIUXNBbE9WbWVMRVZLQmh6OVU5RXdGWm5mdkltU2FMckpObnVMMXpBaEpxUWY3SDdUVzYxakZVdkx2ZUlJOEd2WVR3QkpjUUQwUTFVWWIwb0s4cmc?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:42:24.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "b21cceb02d7cef8e",
+      "title": "Rock Tech y Siemens avanzan en convertidor de litio Red Rock - Rumbo Minero",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWTFuXzN2bW5TRjducGxQWlJkNFRfbUg2c1VUQmxLOEMwVnM4RVJELU83ZFU3Yzg5ZHBqbWRZNU1uVzA3ZWZFV2ZrRVlDOEZTMXcycURTbU8xYUZrWXhxbGdwVEVicHBkcnAtVnEwOV9yWW5qSlZDNkE0UnpuekthU2VFRVZtYlBvby1IX291UTNpbFduYTRVSV9wX2lFSnI0RXpBVWd5QU1JY2dDeWVDU0VMeXRBY0w0Ymk4?oc=5\" target=\"_blank\">Rock Tech y Siemens avanzan en convertidor de litio Red Rock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rumbo Minero</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWTFuXzN2bW5TRjducGxQWlJkNFRfbUg2c1VUQmxLOEMwVnM4RVJELU83ZFU3Yzg5ZHBqbWRZNU1uVzA3ZWZFV2ZrRVlDOEZTMXcycURTbU8xYUZrWXhxbGdwVEVicHBkcnAtVnEwOV9yWW5qSlZDNkE0UnpuekthU2VFRVZtYlBvby1IX291UTNpbFduYTRVSV9wX2lFSnI0RXpBVWd5QU1JY2dDeWVDU0VMeXRBY0w0Ymk4?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:38:02.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "6f955bf85918ae53",
+      "title": "La producción de vehículos cae un 1,8% hasta agosto en el Estado - Diari de Tarragona",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWx3MjBmRHBQMUo3Vlp3Z2pnV2dVdVFyVGhLaEVhbHQ3N3RQcjlCYkVTTG5kUjB1MHBpYTQxaHBiZFhWMm1kbGdGd2ZnY0RtQkw5WHdER2p4bXlLVk9lTXB4UDdVRzQ4Uzl2YWFrcnFQbjV2SXYxU1ZTSzJablVCUFU3cjRHdVl6bUlkODJ5cGc5b0nSAZgBQVVfeXFMUDlULWs3UlN5cmlZekVNRHhGWnBaUEtRMjd3VEZSVWR2Ykp1d2JmRzNKaDhWNGcyQTN0LXpEQkdwUHFMU0E5dHVpNjcwSHFEbUViX0p4WkZtSnllaWZzLVZmYm1PdE4yRlhqSS04RWRqWXR6Z191S295WHM5YURMcXBQTE9jSjdTTjhKcVU2QUxMdEw0c2VVUzA?oc=5\" target=\"_blank\">La producción de vehículos cae un 1,8% hasta agosto en el Estado</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diari de Tarragona</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWx3MjBmRHBQMUo3Vlp3Z2pnV2dVdVFyVGhLaEVhbHQ3N3RQcjlCYkVTTG5kUjB1MHBpYTQxaHBiZFhWMm1kbGdGd2ZnY0RtQkw5WHdER2p4bXlLVk9lTXB4UDdVRzQ4Uzl2YWFrcnFQbjV2SXYxU1ZTSzJablVCUFU3cjRHdVl6bUlkODJ5cGc5b0nSAZgBQVVfeXFMUDlULWs3UlN5cmlZekVNRHhGWnBaUEtRMjd3VEZSVWR2Ykp1d2JmRzNKaDhWNGcyQTN0LXpEQkdwUHFMU0E5dHVpNjcwSHFEbUViX0p4WkZtSnllaWZzLVZmYm1PdE4yRlhqSS04RWRqWXR6Z191S295WHM5YURMcXBQTE9jSjdTTjhKcVU2QUxMdEw0c2VVUzA?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:34:01.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "7fabe8d9a9eaee43",
+      "title": "Los requisitos de origen de la UE para las baterías podrían añadir 2.100 euros al precio de un vehículo eléctrico, advierte Bruegel - Informat.ro",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT0FqaE91NTk4RW9TdEFuZDdYdklIVnFlTVYwc2hhWUNmTlE4Z1pUY210UGxPQVJhUzVMOTdfUHo1UjhFSHRXa0JxZVRUUHFTMFd3NWctRjhDVjQzcEx0QXBoTTcyWnc3T2pDZGo2M29DNXlaR194MFVoNklqeURhTTBrTnlZcVpIN21sU2hXTERHSXJJZGdjZG84bUN1TVY2dnRSbWpYOEZlLWtwbHRvNldwY1FOUGwzMGxiYXQ5Xzh0LUs1SjdsUGxoOWdVOE50WHc?oc=5\" target=\"_blank\">Los requisitos de origen de la UE para las baterías podrían añadir 2.100 euros al precio de un vehículo eléctrico, advierte Bruegel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Informat.ro</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT0FqaE91NTk4RW9TdEFuZDdYdklIVnFlTVYwc2hhWUNmTlE4Z1pUY210UGxPQVJhUzVMOTdfUHo1UjhFSHRXa0JxZVRUUHFTMFd3NWctRjhDVjQzcEx0QXBoTTcyWnc3T2pDZGo2M29DNXlaR194MFVoNklqeURhTTBrTnlZcVpIN21sU2hXTERHSXJJZGdjZG84bUN1TVY2dnRSbWpYOEZlLWtwbHRvNldwY1FOUGwzMGxiYXQ5Xzh0LUs1SjdsUGxoOWdVOE50WHc?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:33:59.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "da6ba53b56e828f9",
+      "title": "New EV Battery Adds 62 Miles of Range Every Minute - Gadget Review",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFlRSnptYnpoNW5rUGRHRHlkOV9QU2hhdWdONThUbEVKSF9UZkZCcWVhRnJLUDdWZ0l3MWpsVWYyd3RVbmVMN2VHSU5fRjVlN2lIdmpWYy1XeVhsS2luZlRMWXotZTAyUUtkdXZLOEVfTFJjOW01dTZYNVJoT1RpRFRUd0JsQQ?oc=5\" target=\"_blank\">New EV Battery Adds 62 Miles of Range Every Minute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gadget Review</font>",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFlRSnptYnpoNW5rUGRHRHlkOV9QU2hhdWdONThUbEVKSF9UZkZCcWVhRnJLUDdWZ0l3MWpsVWYyd3RVbmVMN2VHSU5fRjVlN2lIdmpWYy1XeVhsS2luZlRMWXotZTAyUUtkdXZLOEVfTFJjOW01dTZYNVJoT1RpRFRUd0JsQQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:23:03.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "7326ab9806881c45",
+      "title": "“La resolución del servicio militar de Lee Hyun-joong también alegró a Japón... ¿Por qué hasta este tipo de elogios? La razón por la que incluso Japón felicitó a Corea por su medalla de oro [Aichi Nagoya AG]” - starnewskorea.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBrRGhzY3VWSWVCeWo2SzZReWhldDRUeUlsZ1FhVllSLXZrcHpXQnpQaFU2b0VYSklFZk5lVktxOEdvTGlFVmJTNjNrX1lxSXNfejVrb0dKbHpvNkt0Q21ZMVVWTmQtc25BT2kzbzNpbWVNTVQyRllqM1Bn?oc=5\" target=\"_blank\">“La resolución del servicio militar de Lee Hyun-joong también alegró a Japón... ¿Por qué hasta este tipo de elogios? La razón por la que incluso Japón felicitó a Corea por su medalla de oro [Aichi Nagoya AG]”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">starnewskorea.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrRGhzY3VWSWVCeWo2SzZReWhldDRUeUlsZ1FhVllSLXZrcHpXQnpQaFU2b0VYSklFZk5lVktxOEdvTGlFVmJTNjNrX1lxSXNfejVrb0dKbHpvNkt0Q21ZMVVWTmQtc25BT2kzbzNpbWVNTVQyRllqM1Bn?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:22:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "98fe8c18566a4012",
+      "title": "Forestalia pide que la regulación de centros de datos garantice la seguridad jurídica de los proyectos - heraldo.es",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVmd3bFFjT1BZTTRHSTk2NlA4aXRHOVJFY1hfbXk2MEtmaDVrSTR4TDFfbk01dlRlUTdCLS1oMVBHdUx2MUVZNlNaRHdPRVJqb0JqYk94eWRFWGQxSUZsazRfY1plNkhTb19SVEVmVGUyZHkza01Zck53ZnBIZ0hBSFhUeWN3QmFSSC11aDJLYkI0NGZZWGI4aUVFbTlUcTY3cWRFUXMzSnBCX3JjWW5ZbnAtQWdibVNodXR5d0dXNmI4SEtNTGlxeDhqd0haM2o4RFl3Uzl4cmw5MWJEWUZfNnVKS1LSAeoBQVVfeXFMTW9mY1cwOWZ0eGVrU2xqWDRTSmNzcTE0VWZIZmpOSmdjRFRkb2xPNGhVNmFWYVMyQzlwbUxDYmg1RG43NThENzdQWF95MnZVTnVmSVQ4UTVOam1PVWJWbHhGTjNjTExIaWlKejVuNGlOQVcwU1lKbHlzcG53U1FHY1AtMnNZUEpIcTNtTzg2TWpiTUk1ODZrQTFHbzBrRFlsM2NDeDE0UmJ6M2FpOU5mNW90aE5yZ2Jfd1RWUENReFpjTlJQQ3Z2RDk0alJneXdWQ2FaNDR5U250d29hbVB5RUxVRmNNbGY4cW5R?oc=5\" target=\"_blank\">Forestalia pide que la regulación de centros de datos garantice la seguridad jurídica de los proyectos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">heraldo.es</font>",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVmd3bFFjT1BZTTRHSTk2NlA4aXRHOVJFY1hfbXk2MEtmaDVrSTR4TDFfbk01dlRlUTdCLS1oMVBHdUx2MUVZNlNaRHdPRVJqb0JqYk94eWRFWGQxSUZsazRfY1plNkhTb19SVEVmVGUyZHkza01Zck53ZnBIZ0hBSFhUeWN3QmFSSC11aDJLYkI0NGZZWGI4aUVFbTlUcTY3cWRFUXMzSnBCX3JjWW5ZbnAtQWdibVNodXR5d0dXNmI4SEtNTGlxeDhqd0haM2o4RFl3Uzl4cmw5MWJEWUZfNnVKS1LSAeoBQVVfeXFMTW9mY1cwOWZ0eGVrU2xqWDRTSmNzcTE0VWZIZmpOSmdjRFRkb2xPNGhVNmFWYVMyQzlwbUxDYmg1RG43NThENzdQWF95MnZVTnVmSVQ4UTVOam1PVWJWbHhGTjNjTExIaWlKejVuNGlOQVcwU1lKbHlzcG53U1FHY1AtMnNZUEpIcTNtTzg2TWpiTUk1ODZrQTFHbzBrRFlsM2NDeDE0UmJ6M2FpOU5mNW90aE5yZ2Jfd1RWUENReFpjTlJQQ3Z2RDk0alJneXdWQ2FaNDR5U250d29hbVB5RUxVRmNNbGY4cW5R?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:17:38.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "e2738455b691c6d0",
+      "title": "Regulación de celulares requiere claridad en protocolos: Marco Fernández - Imagen Radio",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNWEV1SWN6Ri1qbTdjdHJRaEF6azBLV1lVemZhTmZMUC0weFUtNjRKZEh5QmRYTE9mOFlnM2lZeS0yZG1lZmlaZXdFNE1TSTFNSlFNMU1yeXZHbUo5WllMOTJHYVJobk84Qy1qOFRKUzU1aTN3ZHV3V1Z3QzdTMldoVWRva3B0SU1JcG54UzludExqTTk1Z3JTOGUwOWNpbU9UZFlrYS1PT2VEWFBISHpQeGR6Zkp5elpCcXNTRXdB0gHDAUFVX3lxTE9WTG45clBHRV9fYzdqRGRuNU5oclIwYnl5UmNZZzZydnY4a054MkhoUTBINHVDQW1ySmJKZE9qYmJfNmhCWnRkcXJYcnN0Qll2ek1VNkxHU2Q2NmxRZFNQV1hIR0hKTFpxWFBvVWlfZURXZ1NrZ0lQUzVQX2F6bVJvODY1WXhpZ3FFRkxVcG9xWElxV0lYeTFEeElPdzVRd2Jzenh1WXpISFlwWTRrLW5UYWt3T2R1Q0IydllzcGpNTjM5cw?oc=5\" target=\"_blank\">Regulación de celulares requiere claridad en protocolos: Marco Fernández</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Imagen Radio</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWEV1SWN6Ri1qbTdjdHJRaEF6azBLV1lVemZhTmZMUC0weFUtNjRKZEh5QmRYTE9mOFlnM2lZeS0yZG1lZmlaZXdFNE1TSTFNSlFNMU1yeXZHbUo5WllMOTJHYVJobk84Qy1qOFRKUzU1aTN3ZHV3V1Z3QzdTMldoVWRva3B0SU1JcG54UzludExqTTk1Z3JTOGUwOWNpbU9UZFlrYS1PT2VEWFBISHpQeGR6Zkp5elpCcXNTRXdB0gHDAUFVX3lxTE9WTG45clBHRV9fYzdqRGRuNU5oclIwYnl5UmNZZzZydnY4a054MkhoUTBINHVDQW1ySmJKZE9qYmJfNmhCWnRkcXJYcnN0Qll2ek1VNkxHU2Q2NmxRZFNQV1hIR0hKTFpxWFBvVWlfZURXZ1NrZ0lQUzVQX2F6bVJvODY1WXhpZ3FFRkxVcG9xWElxV0lYeTFEeElPdzVRd2Jzenh1WXpISFlwWTRrLW5UYWt3T2R1Q0IydllzcGpNTjM5cw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:17:20.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "ea429dde3e00b05a",
+      "title": "Este monitor gaming de AOC con panel QD-OLED y resolución QHD cae a precio mínimo histórico - profesionalreview.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcnBzeWlNcFJPT0xiZEVGUzFHWU5ZOExxdXVBQW9MYjVNZUZPYlUtX29zRkpmZ25fZHpSSlV5VFAzMHZLZE5BMnJjcW1zbVJ1VEE4eVVNOW9nbHhaNzRBTVVkOU1PZ0VKU080dWlObXJ1Q2REUDFHNTc2bDVBYXBOU3FwUGFfMWs4Wkt4bHVnUUhYV2ZHaG1kWHNOcnRNRHc2ZGhvRkozbHliVVptNWI2b0IyVFFIRGhWNVVubThwNTBQQkFxNmtPTjdYczEwekNCaHZZ0gHYAUFVX3lxTE83Yk4wNU9UMEs2T2tkNm80MnhkdGRXNDJUTWpZRWtvQU9qU1J5a19Tc1lfbDR3T3pnc0Rka3ZoUXhMUEhtcGtpZkJEelo0V3UtNXlzYWNqVnE1c281RjEzQlZ3MVZrbnBMZ2ROT3R5QktLT0FlVFMzSWdtc2VEcXNURFluWHVMWl9fNmNjRkoxWm1QeE1walZtaDJtU2p3NFZfUGhoSWJsM2ZULTQ2R1JDU1EtR1VITDFmYzF3c1ZFcGhVZGVyX1NZanBkVmVJdW90dkVlSTNMUg?oc=5\" target=\"_blank\">Este monitor gaming de AOC con panel QD-OLED y resolución QHD cae a precio mínimo histórico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">profesionalreview.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcnBzeWlNcFJPT0xiZEVGUzFHWU5ZOExxdXVBQW9MYjVNZUZPYlUtX29zRkpmZ25fZHpSSlV5VFAzMHZLZE5BMnJjcW1zbVJ1VEE4eVVNOW9nbHhaNzRBTVVkOU1PZ0VKU080dWlObXJ1Q2REUDFHNTc2bDVBYXBOU3FwUGFfMWs4Wkt4bHVnUUhYV2ZHaG1kWHNOcnRNRHc2ZGhvRkozbHliVVptNWI2b0IyVFFIRGhWNVVubThwNTBQQkFxNmtPTjdYczEwekNCaHZZ0gHYAUFVX3lxTE83Yk4wNU9UMEs2T2tkNm80MnhkdGRXNDJUTWpZRWtvQU9qU1J5a19Tc1lfbDR3T3pnc0Rka3ZoUXhMUEhtcGtpZkJEelo0V3UtNXlzYWNqVnE1c281RjEzQlZ3MVZrbnBMZ2ROT3R5QktLT0FlVFMzSWdtc2VEcXNURFluWHVMWl9fNmNjRkoxWm1QeE1walZtaDJtU2p3NFZfUGhoSWJsM2ZULTQ2R1JDU1EtR1VITDFmYzF3c1ZFcGhVZGVyX1NZanBkVmVJdW90dkVlSTNMUg?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:14:42.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "f2c41199d15b1fb8",
+      "title": "López-Valverde, sobre el real decreto del Gobierno para los centros de datos: \"Es un ataque frontal a todo el sector digital\" - elespanol.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxObkpCa1R4NzBwSXA0eUxISm9DandfMVJvZWdva0NlbWhkLWpYYzFIcXBXd3JfNXpGVWd4OFdBa1dOeEw0dWI1Q1dOMHJKVXJCdUJwMWdfY1VIRm10UlExZjFUMld6NnhBR1BFUmtWVG54R0ZwTXFQMk5iVWpGbHFQbWpMSXZIdG9IV2Z3UzJPMjJ3aTJUdmd6b3dBZHc2RlJCU3V6TzNhNllkMnN0YUw4SDVESVRjY0xMcGRXZWVGRk9uZ25hZU1JYXZJa1JkY0hlUHFpdHNBXzdwdnItNjBQS0o1TEF6WmtMcU1ueGRXYVJ6S1lQUmJDRmdsejVvdjlKTEZpXzgwVnZLcDhGbnRR0gGUAkFVX3lxTE5pcDhham9wNWhlVWNMLXJLbzJlbnRWSWVoaGNoOGRuUFFkZWlWQ0pEM2dyWmV2U3JCb1hNVHg1TlpUT0tDSFJXbG84aG9xUlMwYlZmQ1ZvTktyX3NFb09obFZHV0NwR3o1eWVhV181ekVfRVZkZktZVG9aTkJrOW9IaGN2QnJnMUZfcUZBVFR3RUo0UnhwMEtOSzVpNGhlQWFvcHozeEdNUzZVRlZxM3BIVjRkQk9HXzFraWtrMERTU3Y4LXJXaFZiUEZHMWdOTnNvbFpfdWFYMS1GU0w3dWpPb0QzMTYzMEhpOHRMbHVDSHJPeFo1UVBJNXJqMjhmVzhkQllwcHQ4WWJfdklhNTZjMmRTdw?oc=5\" target=\"_blank\">López-Valverde, sobre el real decreto del Gobierno para los centros de datos: \"Es un ataque frontal a todo el sector digital\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elespanol.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObkpCa1R4NzBwSXA0eUxISm9DandfMVJvZWdva0NlbWhkLWpYYzFIcXBXd3JfNXpGVWd4OFdBa1dOeEw0dWI1Q1dOMHJKVXJCdUJwMWdfY1VIRm10UlExZjFUMld6NnhBR1BFUmtWVG54R0ZwTXFQMk5iVWpGbHFQbWpMSXZIdG9IV2Z3UzJPMjJ3aTJUdmd6b3dBZHc2RlJCU3V6TzNhNllkMnN0YUw4SDVESVRjY0xMcGRXZWVGRk9uZ25hZU1JYXZJa1JkY0hlUHFpdHNBXzdwdnItNjBQS0o1TEF6WmtMcU1ueGRXYVJ6S1lQUmJDRmdsejVvdjlKTEZpXzgwVnZLcDhGbnRR0gGUAkFVX3lxTE5pcDhham9wNWhlVWNMLXJLbzJlbnRWSWVoaGNoOGRuUFFkZWlWQ0pEM2dyWmV2U3JCb1hNVHg1TlpUT0tDSFJXbG84aG9xUlMwYlZmQ1ZvTktyX3NFb09obFZHV0NwR3o1eWVhV181ekVfRVZkZktZVG9aTkJrOW9IaGN2QnJnMUZfcUZBVFR3RUo0UnhwMEtOSzVpNGhlQWFvcHozeEdNUzZVRlZxM3BIVjRkQk9HXzFraWtrMERTU3Y4LXJXaFZiUEZHMWdOTnNvbFpfdWFYMS1GU0w3dWpPb0QzMTYzMEhpOHRMbHVDSHJPeFo1UVBJNXJqMjhmVzhkQllwcHQ4WWJfdklhNTZjMmRTdw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:10:45.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "de510bf283e63367",
+      "title": "Asturias le da una segunda vida a las baterías de vehículos eléctricos - energynews.es",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQdV9tc2gzeHl0Y1k5OVJJVl9YdTNkV1Zjbi1jNlJaVS1SeWtWZVBFR1BYUW0zNzRQeHI2bGt0cjAzbjB0NHVjbUlkZ2tqZVZjUzF0VXlsWnFsd2JaLVZsaVF5blFhZEstNndMNTI0ZDJSVEVJZFAxQl9XZVY1bUtlNG9LdF9PYVRFeHc?oc=5\" target=\"_blank\">Asturias le da una segunda vida a las baterías de vehículos eléctricos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">energynews.es</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdV9tc2gzeHl0Y1k5OVJJVl9YdTNkV1Zjbi1jNlJaVS1SeWtWZVBFR1BYUW0zNzRQeHI2bGt0cjAzbjB0NHVjbUlkZ2tqZVZjUzF0VXlsWnFsd2JaLVZsaVF5blFhZEstNndMNTI0ZDJSVEVJZFAxQl9XZVY1bUtlNG9LdF9PYVRFeHc?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:08:04.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 30
+    },
+    {
+      "id": "8d7e13bc819700a5",
+      "title": "UNA RESOLUCIÓN QUE INCUMPLE EN PARTE EL PRINCIPIO DE RACIONALIZACIÓN (C211L22) - csif-agca-canarias.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPZWVRS1NkYzhIbVJtX0gtMUJxeG83UTg2UHViYnRNeGJIaEp0aEtJT3dfRVJiZDZQcnAtTzlnbG0xMHJUeURZdG14NzdZWkVKclpZVW4wT24tZnl0Y1FQTlV0TnZBd0Vna2h6Y1RPWER2RS1vLUhjdkp0R0pidGJDaTZJRlQxSF8wS0d4Q2RGTEs0bDRTMGprMVVJVXJPUnRuVTNrNm9GcUktd2YxWEVlOUN3?oc=5\" target=\"_blank\">UNA RESOLUCIÓN QUE INCUMPLE EN PARTE EL PRINCIPIO DE RACIONALIZACIÓN (C211L22)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">csif-agca-canarias.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZWVRS1NkYzhIbVJtX0gtMUJxeG83UTg2UHViYnRNeGJIaEp0aEtJT3dfRVJiZDZQcnAtTzlnbG0xMHJUeURZdG14NzdZWkVKclpZVW4wT24tZnl0Y1FQTlV0TnZBd0Vna2h6Y1RPWER2RS1vLUhjdkp0R0pidGJDaTZJRlQxSF8wS0d4Q2RGTEs0bDRTMGprMVVJVXJPUnRuVTNrNm9GcUktd2YxWEVlOUN3?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:07:11.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "dfaee485978a9d79",
+      "title": "The world's first X-Energy 1MW megawatt flash charging station, jointly built by Halo Energy and XPENG, officially opened today - 巴士的報",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQZmlXQkc4OU5vMjVyOEVnTzJuUzFSZUIzdUg1YUxGX0oxRVg5ZnRlOU9oQ09ZMlIzdHV2cUFRclFIMmlKUkRUamctWnl6R1BDZ2RiNklIR0RfNlY1VWpWOVJGcXNNR3ZiYzJGeFVFTGxMeF9Bd3FmaVR6bGdrZnNzcndDMllmelFZM0FXVnY4czI3V2xydmszaUxNcE1JcnVjcUk2WVZfVEl0RUVLSERFckFBQzFXSXFkZlVJVWl5bTBNOG1IZGEtY2tOc2RhRHRjdVpfX1Q0WVdpZWlHNXo4amJJTDJnV2JjcE94NmlSTDB6VEFLZWRWcHRvcHR6LXFRMXd3ZDY0SQ?oc=5\" target=\"_blank\">The world's first X-Energy 1MW megawatt flash charging station, jointly built by Halo Energy and XPENG, officially opened today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">巴士的報</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZmlXQkc4OU5vMjVyOEVnTzJuUzFSZUIzdUg1YUxGX0oxRVg5ZnRlOU9oQ09ZMlIzdHV2cUFRclFIMmlKUkRUamctWnl6R1BDZ2RiNklIR0RfNlY1VWpWOVJGcXNNR3ZiYzJGeFVFTGxMeF9Bd3FmaVR6bGdrZnNzcndDMllmelFZM0FXVnY4czI3V2xydmszaUxNcE1JcnVjcUk2WVZfVEl0RUVLSERFckFBQzFXSXFkZlVJVWl5bTBNOG1IZGEtY2tOc2RhRHRjdVpfX1Q0WVdpZWlHNXo4amJJTDJnV2JjcE94NmlSTDB6VEFLZWRWcHRvcHR6LXFRMXd3ZDY0SQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:05:04.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "5d93e7a7b7908d57",
+      "title": "Sungrow presenta en Madrid sus nuevos inversores, baterías y soluciones de recarga - Energías Renovables, el periodismo de las energías limpias.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVERaNE8xa2I0MVZYbkVCWk1OLVpLX1JIa3NrR21JNWZBV1N5NTFGaW5fMXVHeTQ4WTVsYVkycTFKUFFWNlVoaVl4UkpJOG9zNHZLS083eHl3ZElIaWt0UklPM2VIUUNBa1RYd0pHUzRmWkctTWRLZF9TRlJLNlhIWUdCX2JpR1BkU2hHM0lfQzdtMkwwVW95NURkRElvWnp6enR4WTZrWG5YQQ?oc=5\" target=\"_blank\">Sungrow presenta en Madrid sus nuevos inversores, baterías y soluciones de recarga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energías Renovables, el periodismo de las energías limpias.</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVERaNE8xa2I0MVZYbkVCWk1OLVpLX1JIa3NrR21JNWZBV1N5NTFGaW5fMXVHeTQ4WTVsYVkycTFKUFFWNlVoaVl4UkpJOG9zNHZLS083eHl3ZElIaWt0UklPM2VIUUNBa1RYd0pHUzRmWkctTWRLZF9TRlJLNlhIWUdCX2JpR1BkU2hHM0lfQzdtMkwwVW95NURkRElvWnp6enR4WTZrWG5YQQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:02:53.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "6563cc85d1f0b4d6",
+      "title": "Arabia Saudita apuesta por los vehículos eléctricos: Ceer presenta el SUV y el sedán EXOBOT. - Root-Nation.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQQzhtcy13M0E4dUxlM3hmQXZIZEFBbEg3Y05qVmtvUnhmbkVfYUJiTGQtelY1S3c1RVFVM2tVZzdRZTgtdmVQYk10ZUZqcFJPYWkwbk5sUTNBUjFIbU5jc3FiUDd1anJUbC1RQV9HZ2VxVzRFV1dIRTMyLVZXelVubWxDQnZJRmstSjF5MFBGVjFyWlJ4THA5NGREdDk?oc=5\" target=\"_blank\">Arabia Saudita apuesta por los vehículos eléctricos: Ceer presenta el SUV y el sedán EXOBOT.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Root-Nation.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQzhtcy13M0E4dUxlM3hmQXZIZEFBbEg3Y05qVmtvUnhmbkVfYUJiTGQtelY1S3c1RVFVM2tVZzdRZTgtdmVQYk10ZUZqcFJPYWkwbk5sUTNBUjFIbU5jc3FiUDd1anJUbC1RQV9HZ2VxVzRFV1dIRTMyLVZXelVubWxDQnZJRmstSjF5MFBGVjFyWlJ4THA5NGREdDk?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T15:02:11.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "ecc015b8b9cb9fa7",
+      "title": "Australia anticipa cómo los vehículos eléctricos chinos podrían transformar el mercado canadiense - frequencynews.ca",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQazM5M1UwYUVpamlmLWNkUlJkY2l3aW14cXVRUWFhQS1rMDZCZXVURzJNRkczZHMtZkhhZldRc0V0dmk2RWdMTWlqSkdXT2d3SW5YZ3JSVlhmcWV0eXBTMnpkN2hZZ2o2TmtvVjZOTm5EY0hRa1I5UWZmbnhiWlJINVlFRWFuZlZ4ckFTa1lhWnUyM0I3UG9Yb0h5OVBCaTJ0OXVWWE5JbjlLbEw2WUFKNHg5M2o5YnFHa1FuV0VlMnp1NTJjTmNjWXFNTmc?oc=5\" target=\"_blank\">Australia anticipa cómo los vehículos eléctricos chinos podrían transformar el mercado canadiense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">frequencynews.ca</font>",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQazM5M1UwYUVpamlmLWNkUlJkY2l3aW14cXVRUWFhQS1rMDZCZXVURzJNRkczZHMtZkhhZldRc0V0dmk2RWdMTWlqSkdXT2d3SW5YZ3JSVlhmcWV0eXBTMnpkN2hZZ2o2TmtvVjZOTm5EY0hRa1I5UWZmbnhiWlJINVlFRWFuZlZ4ckFTa1lhWnUyM0I3UG9Yb0h5OVBCaTJ0OXVWWE5JbjlLbEw2WUFKNHg5M2o5YnFHa1FuV0VlMnp1NTJjTmNjWXFNTmc?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:55:44.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "c724fdc5e0ce97ae",
+      "title": "El primer fabricante de automóviles de Arabia Saudí presenta vehículos eléctricos de 1.111 hp con una enorme pantalla de 8K - Notebookcheck.org",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTEVIQWFQMTZRRHI1X09JYkxNWE8xc3RJWUxZdFZrTm9xeEJ5eHZiSW50VHlhUDV5ekZEb1hzSlNHZUJsVG5jb0N5U29Qa181elFPT19fZTdFYTBaaTVjaXhhWm5YZXZpZEtmSGQ3Um11MmwtQ2owQWFRWXhlazlnQ3QyREtnS2J2emMtbEFCSXFRdnBNQWExVjh5REdsUGZkcTBaelpVVnA2UWpzOWRQVDdZb1NUUjM5R2lLOFZpaFJoX3B4VWtLLUFvYU92N3pTN2JacWRucV9OdUJuWl91V2lEYVJFXzNwblIydjhGVXlmNF9jaWdlY1ZfbDU?oc=5\" target=\"_blank\">El primer fabricante de automóviles de Arabia Saudí presenta vehículos eléctricos de 1.111 hp con una enorme pantalla de 8K</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Notebookcheck.org</font>",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTEVIQWFQMTZRRHI1X09JYkxNWE8xc3RJWUxZdFZrTm9xeEJ5eHZiSW50VHlhUDV5ekZEb1hzSlNHZUJsVG5jb0N5U29Qa181elFPT19fZTdFYTBaaTVjaXhhWm5YZXZpZEtmSGQ3Um11MmwtQ2owQWFRWXhlazlnQ3QyREtnS2J2emMtbEFCSXFRdnBNQWExVjh5REdsUGZkcTBaelpVVnA2UWpzOWRQVDdZb1NUUjM5R2lLOFZpaFJoX3B4VWtLLUFvYU92N3pTN2JacWRucV9OdUJuWl91V2lEYVJFXzNwblIydjhGVXlmNF9jaWdlY1ZfbDU?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:55:00.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "2bc234bc84733680",
+      "title": "La CNV eleva los estándares de transparencia, supervisión y protección al inversor en las colocaciones primarias de valores negociables. Regulación final - Argentina.gob.ar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFdaZUZTWFBtX1J5empqbC1aQVZIQWIxT2FublRQeXNZUDBHZE5FSUVmUFdzY29KOEhCREk3elE2ZzYwMFk3czlnM2pFdG5ydTNMVDl1eTFNS05DU1FUVlNPb3NYSjRubzVWQ2hjaEFiamRsWVlZbzRfTGppQmlKS1FEcGpjWDJZeHFkVWQyMUFWSVVUcFJETmxRX3FUZ2dQZWtwZEw3NjRRbS10Yzhud0IyazZIay1GNV8tYVRKMS00ZGJjRGo4?oc=5\" target=\"_blank\">La CNV eleva los estándares de transparencia, supervisión y protección al inversor en las colocaciones primarias de valores negociables. Regulación final</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Argentina.gob.ar</font>",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFdaZUZTWFBtX1J5empqbC1aQVZIQWIxT2FublRQeXNZUDBHZE5FSUVmUFdzY29KOEhCREk3elE2ZzYwMFk3czlnM2pFdG5ydTNMVDl1eTFNS05DU1FUVlNPb3NYSjRubzVWQ2hjaEFiamRsWVlZbzRfTGppQmlKS1FEcGpjWDJZeHFkVWQyMUFWSVVUcFJETmxRX3FUZ2dQZWtwZEw3NjRRbS10Yzhud0IyazZIay1GNV8tYVRKMS00ZGJjRGo4?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:48:59.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "f6f801663f0a7541",
+      "title": "Perales del Puerto y Cilleros contarán con vehículos eléctricos de uso gratuito - Radio Interior",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG1IYTZvSWFMcjRtazZmQlRDeHZVU2plVGpqeGI3cXI5RUU5Q2J4QUk3MXZfQWFEd1FYT1JQaHVFcmtCclJnVjU4bVczdnA5NW1URl83eXBWT2t0cnByczhJaWd1ckd5bjQ4akRrM1JYdWtTRGtiaDdFc2k2SFVGZ3JmaWd2MVBvNkFaT255d3p5TjlKLXBSNzhBbVZ0Z3o1VFZOc2JTZWZxX2dIb1hmUHNJWTEyYzcwTW5fTg?oc=5\" target=\"_blank\">Perales del Puerto y Cilleros contarán con vehículos eléctricos de uso gratuito</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Interior</font>",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG1IYTZvSWFMcjRtazZmQlRDeHZVU2plVGpqeGI3cXI5RUU5Q2J4QUk3MXZfQWFEd1FYT1JQaHVFcmtCclJnVjU4bVczdnA5NW1URl83eXBWT2t0cnByczhJaWd1ckd5bjQ4akRrM1JYdWtTRGtiaDdFc2k2SFVGZ3JmaWd2MVBvNkFaT255d3p5TjlKLXBSNzhBbVZ0Z3o1VFZOc2JTZWZxX2dIb1hmUHNJWTEyYzcwTW5fTg?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:47:00.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "41a42d0e1e4d6cc8",
+      "title": "Electrifican comunidades aisladas de Venezuela con 48 sistemas que hibridan solar, eólica y BESS - pv magazine Latinoamérica",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd2lrQVFraUM5eEZVS0NqV05yZmNOVUpMS0tVaDdzeVVQVm1yQnhIc196bmJjSnlwUV9FSjlUOUhJVU92V2ZSM0lnTklPQTJwbkpNWnQ4bGdWaFc5Rk4tN3J0RG96WFVIbnZYQ0JDOG1NRUtHZ0dGLUppbTBxVm9wSkNTMF9JZ2g5SjViZnBuazRLTENTdXZKNDNDRzN0RmhsS0N6LXFGeE5FaWxsRXgyenpkaXFVd2d0cEdOMVRSNUJMdEhfa2JoSlNqX1BHSEFaS01BZFNOZDQ?oc=5\" target=\"_blank\">Electrifican comunidades aisladas de Venezuela con 48 sistemas que hibridan solar, eólica y BESS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine Latinoamérica</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd2lrQVFraUM5eEZVS0NqV05yZmNOVUpMS0tVaDdzeVVQVm1yQnhIc196bmJjSnlwUV9FSjlUOUhJVU92V2ZSM0lnTklPQTJwbkpNWnQ4bGdWaFc5Rk4tN3J0RG96WFVIbnZYQ0JDOG1NRUtHZ0dGLUppbTBxVm9wSkNTMF9JZ2g5SjViZnBuazRLTENTdXZKNDNDRzN0RmhsS0N6LXFGeE5FaWxsRXgyenpkaXFVd2d0cEdOMVRSNUJMdEhfa2JoSlNqX1BHSEFaS01BZFNOZDQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:45:15.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 0
+    },
+    {
+      "id": "398d2b9b1756a1fc",
+      "title": "Uruguay entre líderes en autos eléctricos en la región: creció 151% en ventas en 2026 - Montevideo Portal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkNYeFRNanYxZ0NTbDZrejIwcmRfUDYta1UwdTNMSWlkcVBqVk9iejI2NWw3SG1oVWhFSGFJUE15STA4T2kzNDk5cEo0MWk5RFZZeHJGOG5ZVmRoRDBMbHByQTdfVkQ4UU41aDZJelVDTjFLY1lUUFRKNXEtbnpkVGVOc1dwZm5MUHVNRHExVUR1SS1jQVlzLUI1UTlzeEVPRklLNEI0N3U1bEEtOFRyakM3eVBpR2FWcXZ4dzBUSFVYSW55dGF6cw?oc=5\" target=\"_blank\">Uruguay entre líderes en autos eléctricos en la región: creció 151% en ventas en 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Montevideo Portal</font>",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkNYeFRNanYxZ0NTbDZrejIwcmRfUDYta1UwdTNMSWlkcVBqVk9iejI2NWw3SG1oVWhFSGFJUE15STA4T2kzNDk5cEo0MWk5RFZZeHJGOG5ZVmRoRDBMbHByQTdfVkQ4UU41aDZJelVDTjFLY1lUUFRKNXEtbnpkVGVOc1dwZm5MUHVNRHExVUR1SS1jQVlzLUI1UTlzeEVPRklLNEI0N3U1bEEtOFRyakM3eVBpR2FWcXZ4dzBUSFVYSW55dGF6cw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:45:00.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "a4351652293c2f86",
+      "title": "Kenya rewrites EV charging tariff amid surge in electric mobility - Citizen Digital",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM3c1UXhiT2JxREhGeTg5LWxCV3lRWUZvUTMyXzZJRFFEODNDTE43OUwwS3c4U0VXLWppRTM0NFBVeFJzQUNoM3UtT0dSOWNJMmlXXzFxWDZoTmh5SnEzOGdXMkppRmtNWXoycGJkampUSHgyejBPZ1VfUjc0cnFad0xaSTViQVdlR0piQkZfR2d5RmZ3cGN5OXRJRWVLdThaTHlxQ1E0bkk?oc=5\" target=\"_blank\">Kenya rewrites EV charging tariff amid surge in electric mobility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Citizen Digital</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM3c1UXhiT2JxREhGeTg5LWxCV3lRWUZvUTMyXzZJRFFEODNDTE43OUwwS3c4U0VXLWppRTM0NFBVeFJzQUNoM3UtT0dSOWNJMmlXXzFxWDZoTmh5SnEzOGdXMkppRmtNWXoycGJkampUSHgyejBPZ1VfUjc0cnFad0xaSTViQVdlR0piQkZfR2d5RmZ3cGN5OXRJRWVLdThaTHlxQ1E0bkk?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:42:11.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 30
+    },
+    {
+      "id": "3c5b711c11805b3c",
+      "title": "El número de matriculaciones de coches eléctricos nuevos ha alcanzado un máximo histórico en la Unión Europea. - Vietnam.vn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlp4QmpsODBMQjVwQ3N0eDM1VGwzUGM1V0l2cDJPdE92eVd4R0JfY0dRX2gzT3dOM2ZkNGt3Y1FTWUJTT08wUERSUlBCWi01bkxFcHhRUG9yQ1ptaEZTczlCWklHVU4zRFZla1BXYTlQNi1yNkZ5MUJLU3FZZjN5X3lFcDVOaXVzbnhZOHBR?oc=5\" target=\"_blank\">El número de matriculaciones de coches eléctricos nuevos ha alcanzado un máximo histórico en la Unión Europea.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlp4QmpsODBMQjVwQ3N0eDM1VGwzUGM1V0l2cDJPdE92eVd4R0JfY0dRX2gzT3dOM2ZkNGt3Y1FTWUJTT08wUERSUlBCWi01bkxFcHhRUG9yQ1ptaEZTczlCWklHVU4zRFZla1BXYTlQNi1yNkZ5MUJLU3FZZjN5X3lFcDVOaXVzbnhZOHBR?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:41:09.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "8c531d0be4d798ac",
+      "title": "A US Lamppost EV Charging Station Startup Eyes Rapid Scale-Up - CleanTechnica",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2NHUmprOWZueGlPRUZ0Ry00SGplY3djb0NRNDgyTUpUN2xUa2ZmdDZyVHpyMGMzcHNkbUdkOS1pMzVTeHBHNEZfM1ZfVlJ6V1VDaEVVbzdzUWU4bXNHczlUOVAwSGY0LThOR1dFcE9XLWxDZ3BnSXVQUXhSQi1tVHduN1hhU0RwUVN4WWdEWUhZWDZRaU9UbE9B?oc=5\" target=\"_blank\">A US Lamppost EV Charging Station Startup Eyes Rapid Scale-Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CleanTechnica</font>",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2NHUmprOWZueGlPRUZ0Ry00SGplY3djb0NRNDgyTUpUN2xUa2ZmdDZyVHpyMGMzcHNkbUdkOS1pMzVTeHBHNEZfM1ZfVlJ6V1VDaEVVbzdzUWU4bXNHczlUOVAwSGY0LThOR1dFcE9XLWxDZ3BnSXVQUXhSQi1tVHduN1hhU0RwUVN4WWdEWUhZWDZRaU9UbE9B?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:39:55.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "83a5463cf3726fc0",
+      "title": "Enko Capital backs Ivorian EV charging startup EV.Tech in strategic deal - Dealroom",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2NxSXVnVDZ1R0VUU3hSTi05cW9PWFdFY0hpSVluRmdYQWY4MlFtb1hKMXVfbmtCZ3lTWkNzWTBOdnlWQS1nUEMyMS00Q2stZVM3UGd3ejc4OTFheGJObEtsald2c0FwZmFpb2JxQld3WkpRblNTZzRNNzN2Zk9qN0FBU2ZneldaQ2FXb2JzWkc2QlNVX29uTjNRVXBBcEFqeDJ1LTNscUJJdw?oc=5\" target=\"_blank\">Enko Capital backs Ivorian EV charging startup EV.Tech in strategic deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dealroom</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2NxSXVnVDZ1R0VUU3hSTi05cW9PWFdFY0hpSVluRmdYQWY4MlFtb1hKMXVfbmtCZ3lTWkNzWTBOdnlWQS1nUEMyMS00Q2stZVM3UGd3ejc4OTFheGJObEtsald2c0FwZmFpb2JxQld3WkpRblNTZzRNNzN2Zk9qN0FBU2ZneldaQ2FXb2JzWkc2QlNVX29uTjNRVXBBcEFqeDJ1LTNscUJJdw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:39:04.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "0e08822481e3e8f0",
+      "title": "Presupuesto 2027: Gobierno rechaza más de 600 proposiciones de congresistas y podría expedir el proyecto por - Valora Analitik",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNXVubWlzaUxfendvcU9nOVNORllkbzgyeElBcm44c2dWam9ZRk5pN0ppWWlRNW1vLVZyUDJudVRLMlVWbzJWSlhsWTRoenNsN0lVT3JIY2hHTUc4NTdsRENkOGZabWFSODd6RlVsZW0tNWQtNmE5UHR2aXo0bnJYOVdUalZUQnBfTHNoQWV2X2s0ZGpkNEdpaDZKdjBIc3FSZDlTeWt1SzVlc3FzT3JwVEVoQldJNHF1VDhQX1ZTVldpOTJrX085aE44SG1jemNQandzX2hncDRfVVpvVVJkONIB5gFBVV95cUxOaWgwTEw2R0ZPWTRfV3hsakwtLVgtV2dlQW9yQ2cwYlZzVnh4RFRycHhrblVwMDBxeG5sTnFmMWh3RWEwdy05a3lUajlhZE5vVGZHenVRWGVZX3owdGNIekxYRnZKUFk1MTdIWk96VnQ4Z2lDMk1GamhkU3JVQTBvUi1wZFBvajdZZXo4c0tEa3p2MTZVVU9IVHB0S2ZBYXNQVGRVMVVzYXBfTHhsdE40VWRmeFJpOEVSTndneTcxdFBoa19BQk1XVFUxeHNTQzA2ZXo0NG1GRUpFTVpFdnBNOXB6REk4dw?oc=5\" target=\"_blank\">Presupuesto 2027: Gobierno rechaza más de 600 proposiciones de congresistas y podría expedir el proyecto por</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Valora Analitik</font>",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNXVubWlzaUxfendvcU9nOVNORllkbzgyeElBcm44c2dWam9ZRk5pN0ppWWlRNW1vLVZyUDJudVRLMlVWbzJWSlhsWTRoenNsN0lVT3JIY2hHTUc4NTdsRENkOGZabWFSODd6RlVsZW0tNWQtNmE5UHR2aXo0bnJYOVdUalZUQnBfTHNoQWV2X2s0ZGpkNEdpaDZKdjBIc3FSZDlTeWt1SzVlc3FzT3JwVEVoQldJNHF1VDhQX1ZTVldpOTJrX085aE44SG1jemNQandzX2hncDRfVVpvVVJkONIB5gFBVV95cUxOaWgwTEw2R0ZPWTRfV3hsakwtLVgtV2dlQW9yQ2cwYlZzVnh4RFRycHhrblVwMDBxeG5sTnFmMWh3RWEwdy05a3lUajlhZE5vVGZHenVRWGVZX3owdGNIekxYRnZKUFk1MTdIWk96VnQ4Z2lDMk1GamhkU3JVQTBvUi1wZFBvajdZZXo4c0tEa3p2MTZVVU9IVHB0S2ZBYXNQVGRVMVVzYXBfTHhsdE40VWRmeFJpOEVSTndneTcxdFBoa19BQk1XVFUxeHNTQzA2ZXo0NG1GRUpFTVpFdnBNOXB6REk4dw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:35:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 0
+    },
+    {
+      "id": "27d799530f43b0f2",
+      "title": "Autos eléctricos demandan 139% más cobre y abren nuevas oportunidades para la minería de Chile - Rumbo Minero",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOeTlRMTFQcVFsTXlZSy1XTmpNRG1lYXNGMUxybjJNZHd4XzJaUWlHOE5CdWVqa1hJVEhmZ2RUOExrTjhZWGRpdHh6N1JURl83T05SOWVHLXgzVy1MV0dQWnh6VW93WUdnaUJTNXYwbXdGejdTYXlaUHpMSno0OGhzMGJTU3A5elhiZnd1WUN5TEVRVF9qcXpZMXNFeU5hRzhyM1podnFvYU10RHZPUFZhcHc4Mmg4TE8tZGhzdHM3aXJUcFRGVHdj?oc=5\" target=\"_blank\">Autos eléctricos demandan 139% más cobre y abren nuevas oportunidades para la minería de Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rumbo Minero</font>",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeTlRMTFQcVFsTXlZSy1XTmpNRG1lYXNGMUxybjJNZHd4XzJaUWlHOE5CdWVqa1hJVEhmZ2RUOExrTjhZWGRpdHh6N1JURl83T05SOWVHLXgzVy1MV0dQWnh6VW93WUdnaUJTNXYwbXdGejdTYXlaUHpMSno0OGhzMGJTU3A5elhiZnd1WUN5TEVRVF9qcXpZMXNFeU5hRzhyM1podnFvYU10RHZPUFZhcHc4Mmg4TE8tZGhzdHM3aXJUcFRGVHdj?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:34:08.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "5aada281f9cfb95c",
+      "title": "De funcionario de Macri a vendedor de autos eléctricos: Guillermo Dietrich salió a buscar a los taxistas - urgente24.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQWm9WeVRRU3RCUFc1elZnU2VHNm9UMXhDdGJYd1BSdUNKdzlCc1k2QWV1UlJfMVY2cE9jel85QTZaeGljejhkMndzMm9XUVBKZlhJeUVHTHRzY2pRa2xvcnJOemV1RE1Va0M4UjdhNFdKTkMzMkRqUm8teTlSU0hyby1ZQTlteXctZlhYSkJkeHlpZl9lSGduV01CRmswNHlRck1ZaUtTZ3RXYWxjV2R0Yk03MkwyaVZJRThBR2VUWnNvN2VXR08w0gHMAUFVX3lxTE5pUEFKQ0JoNGg4UjNUMG1NNmlCUVZNaVFkWFpHZ2JnOGZTeXc5N1M1SHBKazFxOXBhSjF0WF9Tdy1RbFhnUUtQSmY2Uk5lQV9rMldkWUpnNHZ5RzhWbUI3aklxazNtX3FwVUZobkRLdDJvTVF6Y3lqSzlBVEt6RzQ0dC03T0lvLVZIZTBNQmhnMExxNndnb3dhM1BqbFY1U2d1NF93Sm1WaXlMZDR3UXlqTzUyY2JIOW9Zc3YzUG1BTVhsczVTNjZpMHpibA?oc=5\" target=\"_blank\">De funcionario de Macri a vendedor de autos eléctricos: Guillermo Dietrich salió a buscar a los taxistas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">urgente24.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWm9WeVRRU3RCUFc1elZnU2VHNm9UMXhDdGJYd1BSdUNKdzlCc1k2QWV1UlJfMVY2cE9jel85QTZaeGljejhkMndzMm9XUVBKZlhJeUVHTHRzY2pRa2xvcnJOemV1RE1Va0M4UjdhNFdKTkMzMkRqUm8teTlSU0hyby1ZQTlteXctZlhYSkJkeHlpZl9lSGduV01CRmswNHlRck1ZaUtTZ3RXYWxjV2R0Yk03MkwyaVZJRThBR2VUWnNvN2VXR08w0gHMAUFVX3lxTE5pUEFKQ0JoNGg4UjNUMG1NNmlCUVZNaVFkWFpHZ2JnOGZTeXc5N1M1SHBKazFxOXBhSjF0WF9Tdy1RbFhnUUtQSmY2Uk5lQV9rMldkWUpnNHZ5RzhWbUI3aklxazNtX3FwVUZobkRLdDJvTVF6Y3lqSzlBVEt6RzQ0dC03T0lvLVZIZTBNQmhnMExxNndnb3dhM1BqbFY1U2d1NF93Sm1WaXlMZDR3UXlqTzUyY2JIOW9Zc3YzUG1BTVhsczVTNjZpMHpibA?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:30:00.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "4e83f321b76c7381",
+      "title": "El Congreso debate el decreto ley que da más margen de inversión a las CCAA y ayudas para el sector primario en La Palma - Newtral",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOMzJRZ1ZFaHl4dkFxb1dmV1ZucjNUbjloZGNiY3NIQXoxNnc3SGtrWXZHbkRkNUlyNXdJeHkxcExwRlFTSk1yS0ZMOVVYVkJfNkp1d0FhV0w3bEtRUy1jOUdzc0xhZExIbk1TTHVNSkZJQjFNSjdxN0FSbjEzbnFiaFFraTdPd9IBiwFBVV95cUxOWDR0ZnJYQ3ZjMnNFel9FUlN2bFdZUlBCMjZGV0lGR0FHcDVLVkM3dWNkVEhVYTJPUUlYZ0NQclR4T2VPLVF4MlJiT0Z1YTdkRWg2VjUyejAzcGJCRG1iX2xGZWE2ODYzNEhCcm42MGhhdjFSV0NHc29Hd1VBUmtvZnFyNWRZbUw0RVcw?oc=5\" target=\"_blank\">El Congreso debate el decreto ley que da más margen de inversión a las CCAA y ayudas para el sector primario en La Palma</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newtral</font>",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMzJRZ1ZFaHl4dkFxb1dmV1ZucjNUbjloZGNiY3NIQXoxNnc3SGtrWXZHbkRkNUlyNXdJeHkxcExwRlFTSk1yS0ZMOVVYVkJfNkp1d0FhV0w3bEtRUy1jOUdzc0xhZExIbk1TTHVNSkZJQjFNSjdxN0FSbjEzbnFiaFFraTdPd9IBiwFBVV95cUxOWDR0ZnJYQ3ZjMnNFel9FUlN2bFdZUlBCMjZGV0lGR0FHcDVLVkM3dWNkVEhVYTJPUUlYZ0NQclR4T2VPLVF4MlJiT0Z1YTdkRWg2VjUyejAzcGJCRG1iX2xGZWE2ODYzNEhCcm42MGhhdjFSV0NHc29Hd1VBUmtvZnFyNWRZbUw0RVcw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:26:21.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "833bb1eea4e56d28",
+      "title": "Latinoamérica supera el millón de automóviles eléctricos, con más de la mitad en Brasil - Noticias SIN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGZzRXJwdFpQYWdkSTVJNzRWeENEQ0piS0p0SUVYeUVRc3l5ZlRRTHIwbTJIWEhoWEkxcVB1MXFjTUlObWcyVW9GWjBlekh5U0JwSGVyZnZ3WDZ3SFJ4SzVpQjdmbG5yU1RxLWg1TkdwcW9hSGE2WjN6YlVYZkdOV00yNG5lc2tEOXNmQnc1NFNYV1pwN2ZWR2huRU9YY1hIY0psNnY0dTRTSmZ3eVpLd9IBuAFBVV95cUxNR3dmNUlPV2tFMHJadDR3SW5lRHdLcFF0SFRZVVhFNnRWQ0l4NkJ6LUg0WkpJSTVYZzhSN0ppc08tUUwwT1VSaGVDVUpQcGRJVUVGWDNiS3huZE1seENQQl9YQnRicFUzZHBVNGZRb09HajZtd2tjdXlVdk5vbk5QMnhBWDBjeUx3bURKbm5paE0tMmVONTJOSHdMbUM3YU5WZWxkYzVfUGZaYUVXSkNLTlVxV2VZaDFW?oc=5\" target=\"_blank\">Latinoamérica supera el millón de automóviles eléctricos, con más de la mitad en Brasil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Noticias SIN</font>",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGZzRXJwdFpQYWdkSTVJNzRWeENEQ0piS0p0SUVYeUVRc3l5ZlRRTHIwbTJIWEhoWEkxcVB1MXFjTUlObWcyVW9GWjBlekh5U0JwSGVyZnZ3WDZ3SFJ4SzVpQjdmbG5yU1RxLWg1TkdwcW9hSGE2WjN6YlVYZkdOV00yNG5lc2tEOXNmQnc1NFNYV1pwN2ZWR2huRU9YY1hIY0psNnY0dTRTSmZ3eVpLd9IBuAFBVV95cUxNR3dmNUlPV2tFMHJadDR3SW5lRHdLcFF0SFRZVVhFNnRWQ0l4NkJ6LUg0WkpJSTVYZzhSN0ppc08tUUwwT1VSaGVDVUpQcGRJVUVGWDNiS3huZE1seENQQl9YQnRicFUzZHBVNGZRb09HajZtd2tjdXlVdk5vbk5QMnhBWDBjeUx3bURKbm5paE0tMmVONTJOSHdMbUM3YU5WZWxkYzVfUGZaYUVXSkNLTlVxV2VZaDFW?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:23:01.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "f29bec8739a9f084",
+      "title": "Latinoamérica supera el millón de vehículos eléctricos, con más de la mitad en Brasil - Forbes México",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFRIZ21xakhOTTU4b2NiakpWOGZwTHVzTHEweWg2cU9wYklzakRuYUFvUG5jS0VocE1HSEdYYVFiUHAxcUlNSVdVallWM2tMdE1BNDVlNUVyODZTbFNxSXNDLURBYS1pZXNoYXJ4QThKTmFjV0dvdFI2UjFCYkd0eS0taklnRkVQcnBBOFJ2MUZyZGdOT3FsOVBzNGtRaTk5N19UWnZfaGtCdms?oc=5\" target=\"_blank\">Latinoamérica supera el millón de vehículos eléctricos, con más de la mitad en Brasil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes México</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFRIZ21xakhOTTU4b2NiakpWOGZwTHVzTHEweWg2cU9wYklzakRuYUFvUG5jS0VocE1HSEdYYVFiUHAxcUlNSVdVallWM2tMdE1BNDVlNUVyODZTbFNxSXNDLURBYS1pZXNoYXJ4QThKTmFjV0dvdFI2UjFCYkd0eS0taklnRkVQcnBBOFJ2MUZyZGdOT3FsOVBzNGtRaTk5N19UWnZfaGtCdms?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:19:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "9473be53b7d22ff3",
+      "title": "Gobierno frena a taxistas: deberán cumplir con normativa que había sido eliminada - Blu Radio",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUm5zQTQySEYxMEZsZzhyQkgybDlET3M0LXhiVi1VTEV0a1hwOTlMbU9VWXRFeFVReXZ2eFB3bGQxWEpuUHNfMG1VWE9jc2F3ZzB1NVAydF9pZXl5cHpRYURTZ2NqNlAxZmRqWEJYRk8tY1RxUEt5dUxXVlVKZkh0VTNsQTlTWTJLMU0tUkdINDAzSzdZOTRmVDBwUnFLUHFRdmVXWWNZWXpUNm9BbXotTnppenVKSVMt0gHGAUFVX3lxTE1qZVJvaFdNUjFNUlpRYXNESXdXeDdRb25ub1JaUEJIdnA5TVlVaXFjRmRPNUJkUWZIZTBzeTY4UDNxamlRZXFvQVJYUUZ3bzFHR3ozbHVzZExnSDNiQ05jUnY1YzBHZkRmTHgxWk1DX2JzVDViMHJKLTFmaG9iN3RQamp1NWNsSEtONWJPYTlibklWZ1Z2VEVkRkFGV0NCUHBQb3VnMjR0Y3pVQkY1aFhFTUVpc3lObHBXd1haanhxWFFGa0t1QQ?oc=5\" target=\"_blank\">Gobierno frena a taxistas: deberán cumplir con normativa que había sido eliminada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blu Radio</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUm5zQTQySEYxMEZsZzhyQkgybDlET3M0LXhiVi1VTEV0a1hwOTlMbU9VWXRFeFVReXZ2eFB3bGQxWEpuUHNfMG1VWE9jc2F3ZzB1NVAydF9pZXl5cHpRYURTZ2NqNlAxZmRqWEJYRk8tY1RxUEt5dUxXVlVKZkh0VTNsQTlTWTJLMU0tUkdINDAzSzdZOTRmVDBwUnFLUHFRdmVXWWNZWXpUNm9BbXotTnppenVKSVMt0gHGAUFVX3lxTE1qZVJvaFdNUjFNUlpRYXNESXdXeDdRb25ub1JaUEJIdnA5TVlVaXFjRmRPNUJkUWZIZTBzeTY4UDNxamlRZXFvQVJYUUZ3bzFHR3ozbHVzZExnSDNiQ05jUnY1YzBHZkRmTHgxWk1DX2JzVDViMHJKLTFmaG9iN3RQamp1NWNsSEtONWJPYTlibklWZ1Z2VEVkRkFGV0NCUHBQb3VnMjR0Y3pVQkY1aFhFTUVpc3lObHBXd1haanhxWFFGa0t1QQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T14:02:37.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "e67c0ba1d665bf44",
+      "title": "Amber recauda $78,5 millones para expandir baterías domésticas - Inspenet",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9YaW8xWlEyUmUwNzdTdmw3NkF3a1J3dEgzMTdoVWRCajV3RmtZaFZ2RENFZWpaNGJ0NEJLUFZhcHBjVTFLZVlMN3Q0U0ZkSjJRbWRpSlUwb091ajhyaUxYdkFNLWhMZW5faTJVYndaX21NeG9kNGdQNWFB?oc=5\" target=\"_blank\">Amber recauda $78,5 millones para expandir baterías domésticas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inspenet</font>",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YaW8xWlEyUmUwNzdTdmw3NkF3a1J3dEgzMTdoVWRCajV3RmtZaFZ2RENFZWpaNGJ0NEJLUFZhcHBjVTFLZVlMN3Q0U0ZkSjJRbWRpSlUwb091ajhyaUxYdkFNLWhMZW5faTJVYndaX21NeG9kNGdQNWFB?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T13:58:01.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "494dff99c17c15b3",
+      "title": "Esto está pasando con el precio del litio, mientras se prevé la llegada de un superávit - BioBioChile",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSnQ4RVRLeGJHRDljNVd0elNvVFNNSEEydEROdzJRZWt4MmthcjVnU2VKZm9uYnFNZ0JhVWtkV1h3SHBxZFF4N0NETGhPY08tb0NZYzhwcDFqV1hYRm9Xenp5aC1lLW5QREFEak4zODdxVFAwTll0R3Z3Z19BX29yTDJBTndFWUxxODU4Q21JVEFRSEZ6VldVMFVzR0dfSjRHOGRHTVdmZE1XVkRlNnBGRk1vR2ZYUnJrUm15V3p6Y0p0R0JpOGg1RWRPUkY0QlpMdVpsZFZCX0hISWFRbThBNXJnMndfWVQ0RTNEbkg2QUtTb2hVUWpjcE5Hbklmdw?oc=5\" target=\"_blank\">Esto está pasando con el precio del litio, mientras se prevé la llegada de un superávit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioBioChile</font>",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSnQ4RVRLeGJHRDljNVd0elNvVFNNSEEydEROdzJRZWt4MmthcjVnU2VKZm9uYnFNZ0JhVWtkV1h3SHBxZFF4N0NETGhPY08tb0NZYzhwcDFqV1hYRm9Xenp5aC1lLW5QREFEak4zODdxVFAwTll0R3Z3Z19BX29yTDJBTndFWUxxODU4Q21JVEFRSEZ6VldVMFVzR0dfSjRHOGRHTVdmZE1XVkRlNnBGRk1vR2ZYUnJrUm15V3p6Y0p0R0JpOGg1RWRPUkY0QlpMdVpsZFZCX0hISWFRbThBNXJnMndfWVQ0RTNEbkg2QUtTb2hVUWpjcE5Hbklmdw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T13:53:15.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
     {
       "id": "bd382d422b4ee3ae",
       "title": "Aumentan las ventas de coches eléctricos y de segunda mano frente a la continua subida del precio de los carburantes - telecinco.es",
@@ -11,6 +825,28 @@
       "source": "news.google.com",
       "datePublished": "2026-09-22T13:51:16.000Z",
       "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "bc957783eca3c3b7",
+      "title": "OpenAI plantea un liderazgo de Estados Unidos en la regulación internacional de la IA - Infobae",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNQU5NR3A4T1NSV3JxdzBOSFNFVGNudHU3bTNscHcwcUpxaHlHaXo5WlB6eUNRWXZOUEhxUU5KU3ZpMUxaeXVzN3dWbkRXLXQ3UmJCZmhub1dQeEdKODlrbzlHNFV2RWJGem0yQjF1a3ZMVWtKN3ZqR0pQWGMtMTBOem9oaS1kcEltbVVybXBTLXpxbUtJUTkzNUNueDk0V0l4YzJXQW1IQTZQcG1TeHMyR3VPakNRdHdHbGpyRklzdi11ODJfYnfSAeABQVVfeXFMTm1TVmdjTndJcFpnZWRQY1F6ZThrbWpJazdYc3VkeWtvS08teWtFY1FoQ0lKZlVERm5LU1FJZVlQRGxXXy01am5oUllLdHUxcjE3dWRSYzUxeUhWTFkwVWZrM3dVNVpwR3JaS0JRdi1iMWJMYkVlRmdZSUYwOUNfa2lyTGpNZk1OTFBVZkxJaXFpSHpyUGdsbzdCM2lTa1hfc0FGUDBWQy1UdDcweXhoMy13TVU0UWc4S2tYREZBel94R0tmcThhMjFhUERBb0ZKRjc0QXdqMkN1WXdJRTBpcEY?oc=5\" target=\"_blank\">OpenAI plantea un liderazgo de Estados Unidos en la regulación internacional de la IA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infobae</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQU5NR3A4T1NSV3JxdzBOSFNFVGNudHU3bTNscHcwcUpxaHlHaXo5WlB6eUNRWXZOUEhxUU5KU3ZpMUxaeXVzN3dWbkRXLXQ3UmJCZmhub1dQeEdKODlrbzlHNFV2RWJGem0yQjF1a3ZMVWtKN3ZqR0pQWGMtMTBOem9oaS1kcEltbVVybXBTLXpxbUtJUTkzNUNueDk0V0l4YzJXQW1IQTZQcG1TeHMyR3VPakNRdHdHbGpyRklzdi11ODJfYnfSAeABQVVfeXFMTm1TVmdjTndJcFpnZWRQY1F6ZThrbWpJazdYc3VkeWtvS08teWtFY1FoQ0lKZlVERm5LU1FJZVlQRGxXXy01am5oUllLdHUxcjE3dWRSYzUxeUhWTFkwVWZrM3dVNVpwR3JaS0JRdi1iMWJMYkVlRmdZSUYwOUNfa2lyTGpNZk1OTFBVZkxJaXFpSHpyUGdsbzdCM2lTa1hfc0FGUDBWQy1UdDcweXhoMy13TVU0UWc4S2tYREZBel94R0tmcThhMjFhUERBb0ZKRjc0QXdqMkN1WXdJRTBpcEY?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T13:48:17.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "5eb1c6f58ca82a5e",
+      "title": "Último día de descanso para un Real Murcia que recarga fuerzas y recupera efectivos - cadenaser.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX0ZBR0t3Mml0NDVvTXhtZEY1WjY5YVQ4ZUFaOXVoeVNRbVpPQzRHcmhKM3AxNFZFeFNzb3RsZllzeDFfY1pZWm9TTnhaX2M2Xy1zckFlNjVudmJ2YXZCQzBGczg2bVB3MzdUcEl6aTZzdVRLX1RwSkk2Uy1CcE8yQ3RFS0g2X2hXXzFqSUkwbmE1S3hqS0YzRU1VSHFuRzRGMUE0WXRfWUFnVUV2dTctQ252R0NQMVYwcU1oaDlweHNGY0tyS3RabDBYS0VkeExUaWVJ0gHnAUFVX3lxTE1mRjVNUkZxbVd0NVdrRV9udEVLaGE4eVRwRi1peGNpX0RpbnpRbGhXQmJ4NG9CUjhzN0JuNVBjd0ZVOWxOQThZenlrTDZEQ2tQZU1TRE9WWXVqQ0w3c0Z2RWtNbTVJRGcteHoyQUxETV9mMTNlN292N3RnUk1nWXdkamFrNDVrS29LUnRmX3Nna1htT0g1SWVNRGFXb2t3OHJxMHBoRDNFbVFyMURXWGw0S2JRSjhWSkJqdGZLYXNQRTEzS0RUYTZFZGk5T2ZENDJoN1FzV05NTlVrREpqVlNhMDk0M2UxTQ?oc=5\" target=\"_blank\">Último día de descanso para un Real Murcia que recarga fuerzas y recupera efectivos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cadenaser.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX0ZBR0t3Mml0NDVvTXhtZEY1WjY5YVQ4ZUFaOXVoeVNRbVpPQzRHcmhKM3AxNFZFeFNzb3RsZllzeDFfY1pZWm9TTnhaX2M2Xy1zckFlNjVudmJ2YXZCQzBGczg2bVB3MzdUcEl6aTZzdVRLX1RwSkk2Uy1CcE8yQ3RFS0g2X2hXXzFqSUkwbmE1S3hqS0YzRU1VSHFuRzRGMUE0WXRfWUFnVUV2dTctQ252R0NQMVYwcU1oaDlweHNGY0tyS3RabDBYS0VkeExUaWVJ0gHnAUFVX3lxTE1mRjVNUkZxbVd0NVdrRV9udEVLaGE4eVRwRi1peGNpX0RpbnpRbGhXQmJ4NG9CUjhzN0JuNVBjd0ZVOWxOQThZenlrTDZEQ2tQZU1TRE9WWXVqQ0w3c0Z2RWtNbTVJRGcteHoyQUxETV9mMTNlN292N3RnUk1nWXdkamFrNDVrS29LUnRmX3Nna1htT0g1SWVNRGFXb2t3OHJxMHBoRDNFbVFyMURXWGw0S2JRSjhWSkJqdGZLYXNQRTEzS0RUYTZFZGk5T2ZENDJoN1FzV05NTlVrREpqVlNhMDk0M2UxTQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T13:30:00.000Z",
+      "region": "CO",
       "topics": [],
       "score": 10
     },
@@ -37,15 +873,15 @@
       "score": 10
     },
     {
-      "id": "bc957783eca3c3b7",
-      "title": "OpenAI plantea un liderazgo de Estados Unidos en la regulación internacional de la IA - Infobae",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNQU5NR3A4T1NSV3JxdzBOSFNFVGNudHU3bTNscHcwcUpxaHlHaXo5WlB6eUNRWXZOUEhxUU5KU3ZpMUxaeXVzN3dWbkRXLXQ3UmJCZmhub1dQeEdKODlrbzlHNFV2RWJGem0yQjF1a3ZMVWtKN3ZqR0pQWGMtMTBOem9oaS1kcEltbVVybXBTLXpxbUtJUTkzNUNueDk0V0l4YzJXQW1IQTZQcG1TeHMyR3VPakNRdHdHbGpyRklzdi11ODJfYnfSAeABQVVfeXFMTm1TVmdjTndJcFpnZWRQY1F6ZThrbWpJazdYc3VkeWtvS08teWtFY1FoQ0lKZlVERm5LU1FJZVlQRGxXXy01am5oUllLdHUxcjE3dWRSYzUxeUhWTFkwVWZrM3dVNVpwR3JaS0JRdi1iMWJMYkVlRmdZSUYwOUNfa2lyTGpNZk1OTFBVZkxJaXFpSHpyUGdsbzdCM2lTa1hfc0FGUDBWQy1UdDcweXhoMy13TVU0UWc4S2tYREZBel94R0tmcThhMjFhUERBb0ZKRjc0QXdqMkN1WXdJRTBpcEY?oc=5\" target=\"_blank\">OpenAI plantea un liderazgo de Estados Unidos en la regulación internacional de la IA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infobae</font>",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQU5NR3A4T1NSV3JxdzBOSFNFVGNudHU3bTNscHcwcUpxaHlHaXo5WlB6eUNRWXZOUEhxUU5KU3ZpMUxaeXVzN3dWbkRXLXQ3UmJCZmhub1dQeEdKODlrbzlHNFV2RWJGem0yQjF1a3ZMVWtKN3ZqR0pQWGMtMTBOem9oaS1kcEltbVVybXBTLXpxbUtJUTkzNUNueDk0V0l4YzJXQW1IQTZQcG1TeHMyR3VPakNRdHdHbGpyRklzdi11ODJfYnfSAeABQVVfeXFMTm1TVmdjTndJcFpnZWRQY1F6ZThrbWpJazdYc3VkeWtvS08teWtFY1FoQ0lKZlVERm5LU1FJZVlQRGxXXy01am5oUllLdHUxcjE3dWRSYzUxeUhWTFkwVWZrM3dVNVpwR3JaS0JRdi1iMWJMYkVlRmdZSUYwOUNfa2lyTGpNZk1OTFBVZkxJaXFpSHpyUGdsbzdCM2lTa1hfc0FGUDBWQy1UdDcweXhoMy13TVU0UWc4S2tYREZBel94R0tmcThhMjFhUERBb0ZKRjc0QXdqMkN1WXdJRTBpcEY?oc=5",
+      "id": "5d49727167d9d4aa",
+      "title": "Mercado de sellantes estructurales de poliuretano hasta 2035: la demanda de electrónica y baterías de vehículos eléctricos impulsa el crecimiento - Noticias y Estadísticas - IndexBox",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcTVBNVBOY2N1TjdPNGdXbUxjNlZzUXZXSmJoRjhFQkpmNUE4YWNPT3lUc2hGdHlkYV9CWTBHTU5QXzZKeFpKVUowclJjanpEdDNuMENXeTFfU3YwUWMtbVd5Z1Z0cGl3SV9ZM0tfbUFOd1E4cHdFUG15cDhyb1VSNXFlZFc1VDFoQXlDQUQ4VFVidVBQel9UNk5Ec1hqVnVZaGJ2cHVGOE15UldvSC1JZDF6WExtOUQtTFo5NE0xMWo0QjhGdFpRbkM1UVBJZW5wVGNv?oc=5\" target=\"_blank\">Mercado de sellantes estructurales de poliuretano hasta 2035: la demanda de electrónica y baterías de vehículos eléctricos impulsa el crecimiento - Noticias y Estadísticas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcTVBNVBOY2N1TjdPNGdXbUxjNlZzUXZXSmJoRjhFQkpmNUE4YWNPT3lUc2hGdHlkYV9CWTBHTU5QXzZKeFpKVUowclJjanpEdDNuMENXeTFfU3YwUWMtbVd5Z1Z0cGl3SV9ZM0tfbUFOd1E4cHdFUG15cDhyb1VSNXFlZFc1VDFoQXlDQUQ4VFVidVBQel9UNk5Ec1hqVnVZaGJ2cHVGOE15UldvSC1JZDF6WExtOUQtTFo5NE0xMWo0QjhGdFpRbkM1UVBJZW5wVGNv?oc=5",
       "source": "news.google.com",
-      "datePublished": "2026-09-22T13:18:19.000Z",
-      "region": "CO",
+      "datePublished": "2026-09-22T13:21:22.000Z",
+      "region": "LATAM",
       "topics": [],
-      "score": 10
+      "score": 30
     },
     {
       "id": "7d2e08170b8ac962",
@@ -125,6 +961,17 @@
       "score": 10
     },
     {
+      "id": "e23a8d9d50543981",
+      "title": "Ecovidrio centraliza en una nueva web todos los trámites de la normativa de envases - IndustriAmbiente",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNM1dwcG5mOERDVkx2MTZZeHVlbWwxNkFhdEJ5NHU2QUFoRWFlQW91YVlzeTBic3hQUjJJcFZ4anJGU2s4Ymo5VW5zUG9XdUZlSVByTkd4bGRTVzAtLTQybzBrSWRWVTJ3TGtJd1BhODVPTE9pUGIxSFRhTUx0djUxVlVLLTE3YW9IcVZjcENLTWluRjN5ZWdyYm5pODVIMl9lWVBPWlhWc0pocDNORXlkUnhTRTRsUGtHNURWWEN3?oc=5\" target=\"_blank\">Ecovidrio centraliza en una nueva web todos los trámites de la normativa de envases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndustriAmbiente</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM1dwcG5mOERDVkx2MTZZeHVlbWwxNkFhdEJ5NHU2QUFoRWFlQW91YVlzeTBic3hQUjJJcFZ4anJGU2s4Ymo5VW5zUG9XdUZlSVByTkd4bGRTVzAtLTQybzBrSWRWVTJ3TGtJd1BhODVPTE9pUGIxSFRhTUx0djUxVlVLLTE3YW9IcVZjcENLTWluRjN5ZWdyYm5pODVIMl9lWVBPWlhWc0pocDNORXlkUnhTRTRsUGtHNURWWEN3?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T12:57:44.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
       "id": "4bad6fa14b478967",
       "title": "Autos eléctricos apoyan traslado de pasajeros - Trabajadores.cu",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnUtN3ZSX0Q4MklWWTQxOC03NXNKaUsxSjZjWGtReW5kT2J0TzhhVEJ5UDM1WWJUQzJINUhVVUxXX2FNZ0NLYl9pSGduTkVybHkzZl92MU85Wlc3cVpNM3EwbW0tZkd6djZCOVhCQlJOQVVVQldFQ1FKaG93a0twaTdrT0xOYVhFdWI40gGLAUFVX3lxTE1ydS03dlJfRDgySVZZNDE4LTc1c0ppSzFKNmNYa1F5bmRPYnRPOGFUQnlQMzVZYlRDMkg1SFVVTFdfYU1nQ0tiX2lIZ25ORXJseTNmX3YxTzlaVzdxWk0zcTBtbS1mR3p2NkI5WEJCUk5BVVVCV0VDUUpob3drS3BpN2tPTE5hWEV1Yjg?oc=5\" target=\"_blank\">Autos eléctricos apoyan traslado de pasajeros</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trabajadores.cu</font>",
@@ -134,6 +981,28 @@
       "region": "LATAM",
       "topics": [],
       "score": 10
+    },
+    {
+      "id": "82b2c672dd21c788",
+      "title": "Ugreen's 300-Watt Nexode Pro 8-in-1 Charging Station Is Back Down to Its $170 Low Ahead of Prime Day - cnet.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNM0k3LXFxVUNNSWFFampEUFhnTHpibzhUcDJ3RzAwRThSR3A3RkFBb1hDdy00ZVpyMTh1ZVlXMFZDTUFiUHFpV0tCS2dQcnJUR0RXMnpScUZzN2VjanVGb3dmWlFiUzJFX1gzR2wzZERuWjBQZ2hLTV9oQUZzRFpXT1NTQTNCUQ?oc=5\" target=\"_blank\">Ugreen's 300-Watt Nexode Pro 8-in-1 Charging Station Is Back Down to Its $170 Low Ahead of Prime Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnet.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM0k3LXFxVUNNSWFFampEUFhnTHpibzhUcDJ3RzAwRThSR3A3RkFBb1hDdy00ZVpyMTh1ZVlXMFZDTUFiUHFpV0tCS2dQcnJUR0RXMnpScUZzN2VjanVGb3dmWlFiUzJFX1gzR2wzZERuWjBQZ2hLTV9oQUZzRFpXT1NTQTNCUQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T12:53:20.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 10
+    },
+    {
+      "id": "7bf8b69cb96243f3",
+      "title": "Intendencias unificaron regulación para monopatines y otros vehículos eléctricos - Diario Cambio Salto",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQclp6T1dZZDBQekw5aDVNclg2eU9YZnNSbGkzak9nVTRLZ09EcFpPWUw4LXRIUnYzcUh3ZUVfa3hfNEt2YnBIbkRTcFBmcmRHNEhKMkVIenZ2RHZzbnZrS0FqbjQyUUtxVE1IOGFXRE4zbWQ2eFZhbWdzLXpKaDFVUGsyT3pmQkVDWE1UbmRZYmZqMm9RWHliNlVTS3cya21kMjRvdjFxVU1na2VY?oc=5\" target=\"_blank\">Intendencias unificaron regulación para monopatines y otros vehículos eléctricos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Cambio Salto</font>",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQclp6T1dZZDBQekw5aDVNclg2eU9YZnNSbGkzak9nVTRLZ09EcFpPWUw4LXRIUnYzcUh3ZUVfa3hfNEt2YnBIbkRTcFBmcmRHNEhKMkVIenZ2RHZzbnZrS0FqbjQyUUtxVE1IOGFXRE4zbWQ2eFZhbWdzLXpKaDFVUGsyT3pmQkVDWE1UbmRZYmZqMm9RWHliNlVTS3cya21kMjRvdjFxVU1na2VY?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T12:53:16.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 30
     },
     {
       "id": "fa279ae0275f6041",
@@ -235,23 +1104,23 @@
       "score": 10
     },
     {
+      "id": "e2d76aac134c887b",
+      "title": "Plan IA360: el Gobierno presenta una nueva estructura normativa para la inteligencia artificial en España - Economist & Jurist",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdHk5ZENjcmNxalRLWFV2RnlvbjltUjNTRzBqV2c4VUFwLWloVlk5cEJRLVpSZDREeDAzOUptMHFXSkQwMG1QMWQ3RjNkRWFITFFyVl8xSUdhUHN1VTM2ZlFaVWduYjFqS3ZxS1Jva0RsR3lEOHFZaTRRV2REcnVfMUZjNWhzclg4NDBQRDc0YnNEdHlfTVpsNUVUcFhlYVEzYnVpek1XbFdIVXFQN1Zyd2k0SzhnSVlYc1pEazNWdmk3ejNPbTRLUXotT1hVRFZRZUthVmhaS3k0Y0RER3k4cUoxUmVWSmw2Tk51S1JYS3VlS0NqbVlpVFJEdkY?oc=5\" target=\"_blank\">Plan IA360: el Gobierno presenta una nueva estructura normativa para la inteligencia artificial en España</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economist & Jurist</font>",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdHk5ZENjcmNxalRLWFV2RnlvbjltUjNTRzBqV2c4VUFwLWloVlk5cEJRLVpSZDREeDAzOUptMHFXSkQwMG1QMWQ3RjNkRWFITFFyVl8xSUdhUHN1VTM2ZlFaVWduYjFqS3ZxS1Jva0RsR3lEOHFZaTRRV2REcnVfMUZjNWhzclg4NDBQRDc0YnNEdHlfTVpsNUVUcFhlYVEzYnVpek1XbFdIVXFQN1Zyd2k0SzhnSVlYc1pEazNWdmk3ejNPbTRLUXotT1hVRFZRZUthVmhaS3k0Y0RER3k4cUoxUmVWSmw2Tk51S1JYS3VlS0NqbVlpVFJEdkY?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T12:23:49.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
       "id": "50eef2ebfd42c145",
       "title": "Los motoristas «conquistan» el arcén: el 95% apoya la nueva regulación que permite su uso para evitar congestiones - ABC",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxObXBVWWlwYWRBanVfSUZmdm5Ec2kwMFBvMjI5SDRwT3hfbzMwZHRvRmx0ay1uWFBSQldtaHRKeEhCbmdnYXU1eXVGOTI1T0ZnSkpWOWl0M2UxY1o3dWVOcWZRVHBVZDRmcktBV3VhNUh3RHNnaEszYWdMS2tUN2VsZklaMXVqUkVrQzFjYV9uVjBEaDczTzc1MEtBNXcxcGQ2S3N3WFlBVU5sZUR2T1k4ZjBR0gG3AUFVX3lxTE83Y3Zza2g5TmctbnBmTmt2OVplLUJnTkk5MUN2MDM2bWl1dV9EeEtaRVAwaFN6cFdtbXNUcU9MWGZsbTFRTjVQMlpEWUNpbXllcXpXZkJkTnluOFlSUHZQMDJhZXM3dzFaMm9HT3dfbmlYYThiQTVBa0h6cW8tNnozMF85U3ptcVYxQUdKRWUzTC1WSU4yWUhlTkpESzF6WkMxRXVEYjRIcXlMcnliV083aGNuRVlmMA?oc=5\" target=\"_blank\">Los motoristas «conquistan» el arcén: el 95% apoya la nueva regulación que permite su uso para evitar congestiones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC</font>",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXBVWWlwYWRBanVfSUZmdm5Ec2kwMFBvMjI5SDRwT3hfbzMwZHRvRmx0ay1uWFBSQldtaHRKeEhCbmdnYXU1eXVGOTI1T0ZnSkpWOWl0M2UxY1o3dWVOcWZRVHBVZDRmcktBV3VhNUh3RHNnaEszYWdMS2tUN2VsZklaMXVqUkVrQzFjYV9uVjBEaDczTzc1MEtBNXcxcGQ2S3N3WFlBVU5sZUR2T1k4ZjBR0gG3AUFVX3lxTE83Y3Zza2g5TmctbnBmTmt2OVplLUJnTkk5MUN2MDM2bWl1dV9EeEtaRVAwaFN6cFdtbXNUcU9MWGZsbTFRTjVQMlpEWUNpbXllcXpXZkJkTnluOFlSUHZQMDJhZXM3dzFaMm9HT3dfbmlYYThiQTVBa0h6cW8tNnozMF85U3ptcVYxQUdKRWUzTC1WSU4yWUhlTkpESzF6WkMxRXVEYjRIcXlMcnliV083aGNuRVlmMA?oc=5",
       "source": "news.google.com",
       "datePublished": "2026-09-22T12:23:21.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "e2d76aac134c887b",
-      "title": "Plan IA360: el Gobierno presenta una nueva estructura normativa para la inteligencia artificial en España - Economist & Jurist",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdHk5ZENjcmNxalRLWFV2RnlvbjltUjNTRzBqV2c4VUFwLWloVlk5cEJRLVpSZDREeDAzOUptMHFXSkQwMG1QMWQ3RjNkRWFITFFyVl8xSUdhUHN1VTM2ZlFaVWduYjFqS3ZxS1Jva0RsR3lEOHFZaTRRV2REcnVfMUZjNWhzclg4NDBQRDc0YnNEdHlfTVpsNUVUcFhlYVEzYnVpek1XbFdIVXFQN1Zyd2k0SzhnSVlYc1pEazNWdmk3ejNPbTRLUXotT1hVRFZRZUthVmhaS3k0Y0RER3k4cUoxUmVWSmw2Tk51S1JYS3VlS0NqbVlpVFJEdkY?oc=5\" target=\"_blank\">Plan IA360: el Gobierno presenta una nueva estructura normativa para la inteligencia artificial en España</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economist & Jurist</font>",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdHk5ZENjcmNxalRLWFV2RnlvbjltUjNTRzBqV2c4VUFwLWloVlk5cEJRLVpSZDREeDAzOUptMHFXSkQwMG1QMWQ3RjNkRWFITFFyVl8xSUdhUHN1VTM2ZlFaVWduYjFqS3ZxS1Jva0RsR3lEOHFZaTRRV2REcnVfMUZjNWhzclg4NDBQRDc0YnNEdHlfTVpsNUVUcFhlYVEzYnVpek1XbFdIVXFQN1Zyd2k0SzhnSVlYc1pEazNWdmk3ejNPbTRLUXotT1hVRFZRZUthVmhaS3k0Y0RER3k4cUoxUmVWSmw2Tk51S1JYS3VlS0NqbVlpVFJEdkY?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-09-22T12:17:40.000Z",
       "region": "CO",
       "topics": [],
       "score": 10
@@ -266,6 +1135,17 @@
       "region": "CO",
       "topics": [],
       "score": 0
+    },
+    {
+      "id": "69ea6a046fdc2884",
+      "title": "Zaragoza enchufa el futuro: crecen los cargadores para coches eléctricos en los garajes comunitarios - cadenaser.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd1lOX0pJWmNiWHl6NjhFNzA0c2Zld1J6cDBWTFBfVGtMSERjMko1V29OOGZMbkwyamotSk82LUJPekR1WVI4eUxaaUFtNDdRWXZqSkxXR1pMMDlrUXRabmpXeE5BTjBJTXM2WFBfSGZuTk55ODROZnl4V1VXY3UtNU5adXk2MVJidHBMNi1UMEdCWUZ1ZlNxSmszbmNxTkNJRGJjZnNZSkRoY3gzM0NBdkt1SkdpS1N4aGdYLU91UUZSaVRIbGNOcy1sRTRmSFZ2dGxlTk1KZ0tZczR0QVQ2M1V5N3dLSy0wVTVj0gH_AUFVX3lxTE9QZ1pPZjZhN2xSOWlkWng3RjdTbEVGcEJlMF9XdzBHV3p6aGg0VWhuNTIySW1sZ00yNFRkUzRkR1ljbzZsU2pobmM4TmlteWVIemRZazBaQV9Gd2NiNmlsQjc4ZWxTT1ZXSVJtXzBlbmh5eGtIQmtfX2NTWXpWWmRydlRFTVdXRTNGc21SNkNLZUhmcWkyMHVjQWZsX2J3RDg1RHZaa0V3UlJhM2xpZldDMDhwaHJLN2l6dUhSVG52aldScVJGdHJTbmhRR1hCcDBZZWFQUDBjaXJCeE1zelozQjd6QnczVHV3bE9RWExITUZRLWVENXpSZUZfcHJ6RQ?oc=5\" target=\"_blank\">Zaragoza enchufa el futuro: crecen los cargadores para coches eléctricos en los garajes comunitarios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cadenaser.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd1lOX0pJWmNiWHl6NjhFNzA0c2Zld1J6cDBWTFBfVGtMSERjMko1V29OOGZMbkwyamotSk82LUJPekR1WVI4eUxaaUFtNDdRWXZqSkxXR1pMMDlrUXRabmpXeE5BTjBJTXM2WFBfSGZuTk55ODROZnl4V1VXY3UtNU5adXk2MVJidHBMNi1UMEdCWUZ1ZlNxSmszbmNxTkNJRGJjZnNZSkRoY3gzM0NBdkt1SkdpS1N4aGdYLU91UUZSaVRIbGNOcy1sRTRmSFZ2dGxlTk1KZ0tZczR0QVQ2M1V5N3dLSy0wVTVj0gH_AUFVX3lxTE9QZ1pPZjZhN2xSOWlkWng3RjdTbEVGcEJlMF9XdzBHV3p6aGg0VWhuNTIySW1sZ00yNFRkUzRkR1ljbzZsU2pobmM4TmlteWVIemRZazBaQV9Gd2NiNmlsQjc4ZWxTT1ZXSVJtXzBlbmh5eGtIQmtfX2NTWXpWWmRydlRFTVdXRTNGc21SNkNLZUhmcWkyMHVjQWZsX2J3RDg1RHZaa0V3UlJhM2xpZldDMDhwaHJLN2l6dUhSVG52aldScVJGdHJTbmhRR1hCcDBZZWFQUDBjaXJCeE1zelozQjd6QnczVHV3bE9RWExITUZRLWVENXpSZUZfcHJ6RQ?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T12:16:14.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 20
     },
     {
       "id": "bb3ced8c0003f79a",
@@ -290,15 +1170,15 @@
       "score": 20
     },
     {
-      "id": "69ea6a046fdc2884",
-      "title": "Zaragoza enchufa el futuro: crecen los cargadores para coches eléctricos en los garajes comunitarios - Cadena SER",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd1lOX0pJWmNiWHl6NjhFNzA0c2Zld1J6cDBWTFBfVGtMSERjMko1V29OOGZMbkwyamotSk82LUJPekR1WVI4eUxaaUFtNDdRWXZqSkxXR1pMMDlrUXRabmpXeE5BTjBJTXM2WFBfSGZuTk55ODROZnl4V1VXY3UtNU5adXk2MVJidHBMNi1UMEdCWUZ1ZlNxSmszbmNxTkNJRGJjZnNZSkRoY3gzM0NBdkt1SkdpS1N4aGdYLU91UUZSaVRIbGNOcy1sRTRmSFZ2dGxlTk1KZ0tZczR0QVQ2M1V5N3dLSy0wVTVj0gH_AUFVX3lxTE9QZ1pPZjZhN2xSOWlkWng3RjdTbEVGcEJlMF9XdzBHV3p6aGg0VWhuNTIySW1sZ00yNFRkUzRkR1ljbzZsU2pobmM4TmlteWVIemRZazBaQV9Gd2NiNmlsQjc4ZWxTT1ZXSVJtXzBlbmh5eGtIQmtfX2NTWXpWWmRydlRFTVdXRTNGc21SNkNLZUhmcWkyMHVjQWZsX2J3RDg1RHZaa0V3UlJhM2xpZldDMDhwaHJLN2l6dUhSVG52aldScVJGdHJTbmhRR1hCcDBZZWFQUDBjaXJCeE1zelozQjd6QnczVHV3bE9RWExITUZRLWVENXpSZUZfcHJ6RQ?oc=5\" target=\"_blank\">Zaragoza enchufa el futuro: crecen los cargadores para coches eléctricos en los garajes comunitarios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena SER</font>",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd1lOX0pJWmNiWHl6NjhFNzA0c2Zld1J6cDBWTFBfVGtMSERjMko1V29OOGZMbkwyamotSk82LUJPekR1WVI4eUxaaUFtNDdRWXZqSkxXR1pMMDlrUXRabmpXeE5BTjBJTXM2WFBfSGZuTk55ODROZnl4V1VXY3UtNU5adXk2MVJidHBMNi1UMEdCWUZ1ZlNxSmszbmNxTkNJRGJjZnNZSkRoY3gzM0NBdkt1SkdpS1N4aGdYLU91UUZSaVRIbGNOcy1sRTRmSFZ2dGxlTk1KZ0tZczR0QVQ2M1V5N3dLSy0wVTVj0gH_AUFVX3lxTE9QZ1pPZjZhN2xSOWlkWng3RjdTbEVGcEJlMF9XdzBHV3p6aGg0VWhuNTIySW1sZ00yNFRkUzRkR1ljbzZsU2pobmM4TmlteWVIemRZazBaQV9Gd2NiNmlsQjc4ZWxTT1ZXSVJtXzBlbmh5eGtIQmtfX2NTWXpWWmRydlRFTVdXRTNGc21SNkNLZUhmcWkyMHVjQWZsX2J3RDg1RHZaa0V3UlJhM2xpZldDMDhwaHJLN2l6dUhSVG52aldScVJGdHJTbmhRR1hCcDBZZWFQUDBjaXJCeE1zelozQjd6QnczVHV3bE9RWExITUZRLWVENXpSZUZfcHJ6RQ?oc=5",
+      "id": "cb7b48d504c21742",
+      "title": "El Gobierno prevé aprobar en octubre el Real Decreto de centros de datos - Data Center Dynamics",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWUtBVzlEbkNhekJFUEVXRjR4c3c4TGVwcUJndE0weWxYcTVhX3BxUEtpdFhWcGRkbHhpd2FJdXZMWnFFUFRFSW5DeDNPbEdRUUdjaFJsVTF5N0xGbkhhSWYyUF9GdXI0b29wOERUQ0p1Z19zaEg2eTdBQnlNYjNXNzVsclIwbmEwQlZ3V1BBX0hSa09UcGhic1Q2TkRmbjZsdVZXMm5iVEt2YW5wamNFS1lQYTRzaFpWZWxOR0lFbm9iVDA?oc=5\" target=\"_blank\">El Gobierno prevé aprobar en octubre el Real Decreto de centros de datos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWUtBVzlEbkNhekJFUEVXRjR4c3c4TGVwcUJndE0weWxYcTVhX3BxUEtpdFhWcGRkbHhpd2FJdXZMWnFFUFRFSW5DeDNPbEdRUUdjaFJsVTF5N0xGbkhhSWYyUF9GdXI0b29wOERUQ0p1Z19zaEg2eTdBQnlNYjNXNzVsclIwbmEwQlZ3V1BBX0hSa09UcGhic1Q2TkRmbjZsdVZXMm5iVEt2YW5wamNFS1lQYTRzaFpWZWxOR0lFbm9iVDA?oc=5",
       "source": "news.google.com",
-      "datePublished": "2026-09-22T12:00:00.000Z",
+      "datePublished": "2026-09-22T11:58:20.000Z",
       "region": "CO",
       "topics": [],
-      "score": 20
+      "score": 10
     },
     {
       "id": "d92ac766144fbdc9",
@@ -310,6 +1190,28 @@
       "region": "LATAM",
       "topics": [],
       "score": 10
+    },
+    {
+      "id": "c2d15570b7cb45b8",
+      "title": "La Ley de Propiedad Horizontal es contundente: si hay cámaras de un vecino en zonas comunes, la comunidad puede pedir su retirada - Infobae",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQLS1SZ1lWWDViM2FCcUhyNVR1V2JMM2l2SmJ1VlhCS1BPcVAzZTJiT05NVHlrdUl5Tlg4VXRzdUo0MW1EWUwzLWZDVzMzOXBxMEwtWjd5YXZhdlREZ0xDU2h6aTVGRU1tY0dEdjV2Z2NRVlhZNGVIMXdTaGhHR2ZLa3Q5ajZQbERZZ09PbFBBSEJGMWpOMlBGU0ljblBDNHRsSGxOZDZ3YnZNTTVFXzZVUnFQQ0VoSGRJLXBIVjV2RWhaTl9tMV9NdUV1eTVrclIzZzQzS1k5WHFTUHRnaTJZcDZlUnpqeVAxLUVqeWk2cDZOT0k1Rk1sRXpVaF8tMW_SAZoCQVVfeXFMTlNWZFB4TmNjM1FnRmU4MWQteUdyOXVpcTYtMEtoUlNRSWxRX0tKelpkdThSUXA3T1VGaDNQek5GZXJuN1FWbWRneUE0dTNtM05na013RTU5NnJTYlp4WHoyUGxUczhGaXpzOTdYaGtLT0RXZi0tcmcxZFNUSlllbXFrbTZYcDc5UUpYZ09WUURMMlA1ZWpwSjZyaWZNb0xpdWkySHh5LVQzamFpdEUzZGpqNGVBcGktZ2Zia3RKVm93MmV4bzc5U0FRQzJqVUJTak5vaDJtcGJrZHZkdm9obEFLOUhiR0k1aThMUXNFc1BmdG9Sd3dGY2ZudTczT1lJajdNZFJFOGtpd0s5enV0UzFKa3hnMHJwQ0R3?oc=5\" target=\"_blank\">La Ley de Propiedad Horizontal es contundente: si hay cámaras de un vecino en zonas comunes, la comunidad puede pedir su retirada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infobae</font>",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQLS1SZ1lWWDViM2FCcUhyNVR1V2JMM2l2SmJ1VlhCS1BPcVAzZTJiT05NVHlrdUl5Tlg4VXRzdUo0MW1EWUwzLWZDVzMzOXBxMEwtWjd5YXZhdlREZ0xDU2h6aTVGRU1tY0dEdjV2Z2NRVlhZNGVIMXdTaGhHR2ZLa3Q5ajZQbERZZ09PbFBBSEJGMWpOMlBGU0ljblBDNHRsSGxOZDZ3YnZNTTVFXzZVUnFQQ0VoSGRJLXBIVjV2RWhaTl9tMV9NdUV1eTVrclIzZzQzS1k5WHFTUHRnaTJZcDZlUnpqeVAxLUVqeWk2cDZOT0k1Rk1sRXpVaF8tMW_SAZoCQVVfeXFMTlNWZFB4TmNjM1FnRmU4MWQteUdyOXVpcTYtMEtoUlNRSWxRX0tKelpkdThSUXA3T1VGaDNQek5GZXJuN1FWbWRneUE0dTNtM05na013RTU5NnJTYlp4WHoyUGxUczhGaXpzOTdYaGtLT0RXZi0tcmcxZFNUSlllbXFrbTZYcDc5UUpYZ09WUURMMlA1ZWpwSjZyaWZNb0xpdWkySHh5LVQzamFpdEUzZGpqNGVBcGktZ2Zia3RKVm93MmV4bzc5U0FRQzJqVUJTak5vaDJtcGJrZHZkdm9obEFLOUhiR0k1aThMUXNFc1BmdG9Sd3dGY2ZudTczT1lJajdNZFJFOGtpd0s5enV0UzFKa3hnMHJwQ0R3?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T11:49:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 0
+    },
+    {
+      "id": "cfef8db1a405e6aa",
+      "title": "California signs six bills to speed EV adoption, charging - Automotive World",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSFJSY2w4WS05Z0JWVV9BNlZ4Z3lpYW1MVHhyRzJHUEpMbWhUaHBuTUxGVFJrQV9TNG9MeWFtbGFEdmVkcUoxd3FBZlhGNzNiVDhabVA5TzRXcUdyaXhsRmREc045aU1VUUJfOWpLeFRUbmhycU42bzYwdmFlS0tXN3NpdEpiSVB3TjNFOUdLT2lJU092ejVTaU9R?oc=5\" target=\"_blank\">California signs six bills to speed EV adoption, charging</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Automotive World</font>",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSFJSY2w4WS05Z0JWVV9BNlZ4Z3lpYW1MVHhyRzJHUEpMbWhUaHBuTUxGVFJrQV9TNG9MeWFtbGFEdmVkcUoxd3FBZlhGNzNiVDhabVA5TzRXcUdyaXhsRmREc045aU1VUUJfOWpLeFRUbmhycU42bzYwdmFlS0tXN3NpdEpiSVB3TjNFOUdLT2lJU092ejVTaU9R?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T11:48:11.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 20
     },
     {
       "id": "e5408359a1861d56",
@@ -400,6 +1302,17 @@
       "score": 20
     },
     {
+      "id": "970536d46d8ca343",
+      "title": "Solo 1,754 vehículos eléctricos han sido registrados en CDMX; plazo vence el 20 de noviembre - oem.com.mx",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTGkwNmlJMFp3RXM2dVVLZmtnbEJJYXRTVTVsUmMyYVNfX3BTOGdJbDlYc0I5R2xJM1FaZGs5akpMeDFYRFJ1V3A3NGJ4am5VTzNmX1FmY3J0UFliRm9PTTFpUEVXazA5cmZKVDNmb2p4c0ZTTUFUVlNDVWQwT3E4bERFVjl4d3dBR0UyRUpadmx0OWJVYjd3RWFsYXY4cmc3NllKOWVyYTVFdXhLYUhnT0N3LWdMMkFSamF5ZzVvVlNGc1pIbW1LSm5SaURwNjhlX3NGY01B?oc=5\" target=\"_blank\">Solo 1,754 vehículos eléctricos han sido registrados en CDMX; plazo vence el 20 de noviembre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">oem.com.mx</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTGkwNmlJMFp3RXM2dVVLZmtnbEJJYXRTVTVsUmMyYVNfX3BTOGdJbDlYc0I5R2xJM1FaZGs5akpMeDFYRFJ1V3A3NGJ4am5VTzNmX1FmY3J0UFliRm9PTTFpUEVXazA5cmZKVDNmb2p4c0ZTTUFUVlNDVWQwT3E4bERFVjl4d3dBR0UyRUpadmx0OWJVYjd3RWFsYXY4cmc3NllKOWVyYTVFdXhLYUhnT0N3LWdMMkFSamF5ZzVvVlNGc1pIbW1LSm5SaURwNjhlX3NGY01B?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T11:18:39.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 20
+    },
+    {
       "id": "0a45ff05bcf9d30b",
       "title": "A Holistic Approach for Equitable EV Infrastructure Development - UConn Today",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZUpLYnBMRE9LREpIc1J6cGJwQVVLTUlmWTM5QTRUQkE0WmhrOGJBbE5US2NRTWVYVUVIWlBaeXhiQzhOdmNsNmtJa3ZQU041MmQyU1JySFAxdTNwZzNJZEpOUFB3Wm5GZEZDZ1ozY2l0aFRXVVg1R0JzdWtvcHpmbFN6OFNpU0ZvUFAyV0RsZEhzZV8wMk9aUVNxTFE?oc=5\" target=\"_blank\">A Holistic Approach for Equitable EV Infrastructure Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UConn Today</font>",
@@ -433,23 +1346,23 @@
       "score": 10
     },
     {
+      "id": "47b8e9dd89437fd5",
+      "title": "Forestalia responde al decreto del Gobierno central sobre los centros de datos y avisa de que puede cambiar \"las condiciones técnicas y económicas\" de los proyectos - El Periódico de Aragón",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGJMRldxcHNMRWlEUHdDajB2bzh5OTU1aU9NUUwxYUp0eEFTS2ZaYWhHUDUzdXJIUmFIXzktbkFzUlBrWkp1YXhQUXZpVDRUaUdrNk9raDloS1NpQzY4cl9TLTdac2FaTDBuWE56X0l2WGVqTDkxQTh1eEx6RXRhTHFQZnR4em00RVR6M2N5NnlwMGw4WGhzZGo0MmRXTzVCVl9ZUWdSb0RadEVVTllQV2ZXb9IBuAFBVV95cUxPTWZsd2NFOEJOV1gxUzVjOVFIMlFyQlpBNjBTcHhBZ2pkVHVmVjhTUDFsVy1UWExzUzhCOWhNS1ZBNHRZblliQ1JPZUxzNG5OYUJJUHFwT3IwWVBPQVNwQzVvbm9vME9tdEVKR0p4blFyeGhSOFpKZmkyM2lZZ0hOZGVsSV9nRXMtOV9vN0VsWWwtNjNIODREWnZjNUxIa0VWRHhiYmN1RHRkZ0hlZWRUcTRqbldscEt0?oc=5\" target=\"_blank\">Forestalia responde al decreto del Gobierno central sobre los centros de datos y avisa de que puede cambiar \"las condiciones técnicas y económicas\" de los proyectos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Periódico de Aragón</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGJMRldxcHNMRWlEUHdDajB2bzh5OTU1aU9NUUwxYUp0eEFTS2ZaYWhHUDUzdXJIUmFIXzktbkFzUlBrWkp1YXhQUXZpVDRUaUdrNk9raDloS1NpQzY4cl9TLTdac2FaTDBuWE56X0l2WGVqTDkxQTh1eEx6RXRhTHFQZnR4em00RVR6M2N5NnlwMGw4WGhzZGo0MmRXTzVCVl9ZUWdSb0RadEVVTllQV2ZXb9IBuAFBVV95cUxPTWZsd2NFOEJOV1gxUzVjOVFIMlFyQlpBNjBTcHhBZ2pkVHVmVjhTUDFsVy1UWExzUzhCOWhNS1ZBNHRZblliQ1JPZUxzNG5OYUJJUHFwT3IwWVBPQVNwQzVvbm9vME9tdEVKR0p4blFyeGhSOFpKZmkyM2lZZ0hOZGVsSV9nRXMtOV9vN0VsWWwtNjNIODREWnZjNUxIa0VWRHhiYmN1RHRkZ0hlZWRUcTRqbldscEt0?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T11:15:56.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
       "id": "be23b6f0115208f6",
       "title": "Extremadura viaja a Pekín para seducir al capital chino con su potencial en renovables y baterías - El Economista",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNLUJ6QXZqM1Z5UlZ3THN0NElfV2s0R1hwV3Y5bnQtY1E4ZWFCd0VVUFY2ZkZ2bHEzVWNfVVBfTk9ZV1N6THo4WWhFMlhRbC05Z3l2eVllcnlFekhrd2VWMlNiaTRpSDRKLUpPckQ1bG5EQ2pPTXB1dUNPRHV6Qkx4TE9XN2NVbUZTdlNGdjBtcE9Qd2ZIYWc0TVgwZHQtUFhpQVVIQ1Z1SjNNcGNmR3VJMlgybUw5RkxGNXZSQ0k4SjJ6dHBYaEluZWxxck1rNEpvVDBDd3FVRjRYOXl4YUVndWtteEVzQjhBeXcxWEI2WVhfOXNwNVE?oc=5\" target=\"_blank\">Extremadura viaja a Pekín para seducir al capital chino con su potencial en renovables y baterías</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Economista</font>",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNLUJ6QXZqM1Z5UlZ3THN0NElfV2s0R1hwV3Y5bnQtY1E4ZWFCd0VVUFY2ZkZ2bHEzVWNfVVBfTk9ZV1N6THo4WWhFMlhRbC05Z3l2eVllcnlFekhrd2VWMlNiaTRpSDRKLUpPckQ1bG5EQ2pPTXB1dUNPRHV6Qkx4TE9XN2NVbUZTdlNGdjBtcE9Qd2ZIYWc0TVgwZHQtUFhpQVVIQ1Z1SjNNcGNmR3VJMlgybUw5RkxGNXZSQ0k4SjJ6dHBYaEluZWxxck1rNEpvVDBDd3FVRjRYOXl4YUVndWtteEVzQjhBeXcxWEI2WVhfOXNwNVE?oc=5",
       "source": "news.google.com",
       "datePublished": "2026-09-22T11:12:03.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "c0307aafe80e11e6",
-      "title": "Vázquez pide que el futuro decreto de listas de espera \"se acuerde con las comunidades y se base en criterios técnicos\" - Tribuna de Salamanca.",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNb0NaX1FtOWpRUWVJbzZTWXR1SjRNN21QZEMzN2NpdEh3Q29NQWxrREoyTTM0TE9DUDBKelFwV3hJZnFqZmJEWjV3UDVncC05SmxWWlhobE5EVU1jWnp0dmRrN2tGSEt0WmRlOVNPSGxKcXlhdU1SbXZHX2Nya3RmdXZqYkJ0WmZ6ZzRGT3hRdXptbTk0VnUzd2I5aGs0VGJiVEs3MTVlLURCLU4zZTB0XzFYV1MzbF9JaHJmRVdPUnFrWUVORXRYbkhhRHZYVTBqNHhQQ3ZpdVR0eGNPU2I1RHhGVWhNUEZSMVJSZ29PZVJOVXZQVExqTDBn?oc=5\" target=\"_blank\">Vázquez pide que el futuro decreto de listas de espera \"se acuerde con las comunidades y se base en criterios técnicos\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tribuna de Salamanca.</font>",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNb0NaX1FtOWpRUWVJbzZTWXR1SjRNN21QZEMzN2NpdEh3Q29NQWxrREoyTTM0TE9DUDBKelFwV3hJZnFqZmJEWjV3UDVncC05SmxWWlhobE5EVU1jWnp0dmRrN2tGSEt0WmRlOVNPSGxKcXlhdU1SbXZHX2Nya3RmdXZqYkJ0WmZ6ZzRGT3hRdXptbTk0VnUzd2I5aGs0VGJiVEs3MTVlLURCLU4zZTB0XzFYV1MzbF9JaHJmRVdPUnFrWUVORXRYbkhhRHZYVTBqNHhQQ3ZpdVR0eGNPU2I1RHhGVWhNUEZSMVJSZ29PZVJOVXZQVExqTDBn?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-09-22T11:08:23.000Z",
       "region": "CO",
       "topics": [],
       "score": 10
@@ -471,21 +1384,21 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeU9jOHBpNVdhSzZYY0hOakdQRF96bHlEUVc1b1dFTDNCbkVHSUxoelFxcml3NUNEYWRCVnZpQUFCejJjc3V3M1I1QUprR2NaWW1CWmVVbGpmX2d3ZWk0Y280SGxCZl9MZHJQMGhVT241aUFoOXVPaE5VMUFVRVhuMFZTT3BwTF9Pc21TaXBUYmZITlQyWHltdV9WcEs0UldYdWQtdFhZbW9ZUjZVNU9JZnlkc0JoaXQzWUhENWptVXdJSHhfQXlOdDN6cVllcVI5MWhPUEpMTWxpMTRsSUMtNWg5T0NzVzdI?oc=5\" target=\"_blank\">Confirmado: las baterías de coches eléctricos aguantan mucho más de lo esperado</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Movilidad Eléctrica</font>",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeU9jOHBpNVdhSzZYY0hOakdQRF96bHlEUVc1b1dFTDNCbkVHSUxoelFxcml3NUNEYWRCVnZpQUFCejJjc3V3M1I1QUprR2NaWW1CWmVVbGpmX2d3ZWk0Y280SGxCZl9MZHJQMGhVT241aUFoOXVPaE5VMUFVRVhuMFZTT3BwTF9Pc21TaXBUYmZITlQyWHltdV9WcEs0UldYdWQtdFhZbW9ZUjZVNU9JZnlkc0JoaXQzWUhENWptVXdJSHhfQXlOdDN6cVllcVI5MWhPUEpMTWxpMTRsSUMtNWg5T0NzVzdI?oc=5",
       "source": "news.google.com",
-      "datePublished": "2026-09-22T11:04:41.000Z",
+      "datePublished": "2026-09-22T11:06:57.000Z",
       "region": "CO",
       "topics": [],
       "score": 40
     },
     {
-      "id": "970536d46d8ca343",
-      "title": "Solo 1,754 vehículos eléctricos han sido registrados en CDMX; plazo vence el 20 de noviembre - El Sol de México",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTGkwNmlJMFp3RXM2dVVLZmtnbEJJYXRTVTVsUmMyYVNfX3BTOGdJbDlYc0I5R2xJM1FaZGs5akpMeDFYRFJ1V3A3NGJ4am5VTzNmX1FmY3J0UFliRm9PTTFpUEVXazA5cmZKVDNmb2p4c0ZTTUFUVlNDVWQwT3E4bERFVjl4d3dBR0UyRUpadmx0OWJVYjd3RWFsYXY4cmc3NllKOWVyYTVFdXhLYUhnT0N3LWdMMkFSamF5ZzVvVlNGc1pIbW1LSm5SaURwNjhlX3NGY01B?oc=5\" target=\"_blank\">Solo 1,754 vehículos eléctricos han sido registrados en CDMX; plazo vence el 20 de noviembre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Sol de México</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTGkwNmlJMFp3RXM2dVVLZmtnbEJJYXRTVTVsUmMyYVNfX3BTOGdJbDlYc0I5R2xJM1FaZGs5akpMeDFYRFJ1V3A3NGJ4am5VTzNmX1FmY3J0UFliRm9PTTFpUEVXazA5cmZKVDNmb2p4c0ZTTUFUVlNDVWQwT3E4bERFVjl4d3dBR0UyRUpadmx0OWJVYjd3RWFsYXY4cmc3NllKOWVyYTVFdXhLYUhnT0N3LWdMMkFSamF5ZzVvVlNGc1pIbW1LSm5SaURwNjhlX3NGY01B?oc=5",
+      "id": "3c2377017f54a5e4",
+      "title": "CircularTec y Duoc UC concretan exitoso traslado interregional de baterías de vehículos eléctricos en desuso - Tour Innovación",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPakpTYmZoc0ZIREQ1Z1VNMFZROWhFbzVXMXhseFJNMDF6Z0VvWFViTmg0WmVzYTh4aGNMY3NqZTREdnBYdjVnWWpsbDJqZEV5RkFXLVp1V3dIdlRPbXBVc2FVc0UxZHN5NVBtZ3l1T3MyblBscnhPZ3l3SnVYMTdyMlpVR1NWLV9sRkpKb21meFFhNFc1aEpQdm5NQkN0MUp5ZHlNYlFfOXNDY1oyYW5pVnJBSVM1SEFFT2VtRzlXY2JtWnprem9FY05fQUJmZTh3WmxiR19aWVZQRUdMOGhiMGdiLW5ZN2ItWEpn?oc=5\" target=\"_blank\">CircularTec y Duoc UC concretan exitoso traslado interregional de baterías de vehículos eléctricos en desuso</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tour Innovación</font>",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPakpTYmZoc0ZIREQ1Z1VNMFZROWhFbzVXMXhseFJNMDF6Z0VvWFViTmg0WmVzYTh4aGNMY3NqZTREdnBYdjVnWWpsbDJqZEV5RkFXLVp1V3dIdlRPbXBVc2FVc0UxZHN5NVBtZ3l1T3MyblBscnhPZ3l3SnVYMTdyMlpVR1NWLV9sRkpKb21meFFhNFc1aEpQdm5NQkN0MUp5ZHlNYlFfOXNDY1oyYW5pVnJBSVM1SEFFT2VtRzlXY2JtWnprem9FY05fQUJmZTh3WmxiR19aWVZQRUdMOGhiMGdiLW5ZN2ItWEpn?oc=5",
       "source": "news.google.com",
-      "datePublished": "2026-09-22T11:04:27.000Z",
+      "datePublished": "2026-09-22T11:05:50.000Z",
       "region": "CO",
       "topics": [],
-      "score": 20
+      "score": 30
     },
     {
       "id": "ff77b4e244994e7b",
@@ -510,17 +1423,6 @@
       "score": 10
     },
     {
-      "id": "3c2377017f54a5e4",
-      "title": "CircularTec y Duoc UC concretan exitoso traslado interregional de baterías de vehículos eléctricos en desuso - Tour Innovación",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPakpTYmZoc0ZIREQ1Z1VNMFZROWhFbzVXMXhseFJNMDF6Z0VvWFViTmg0WmVzYTh4aGNMY3NqZTREdnBYdjVnWWpsbDJqZEV5RkFXLVp1V3dIdlRPbXBVc2FVc0UxZHN5NVBtZ3l1T3MyblBscnhPZ3l3SnVYMTdyMlpVR1NWLV9sRkpKb21meFFhNFc1aEpQdm5NQkN0MUp5ZHlNYlFfOXNDY1oyYW5pVnJBSVM1SEFFT2VtRzlXY2JtWnprem9FY05fQUJmZTh3WmxiR19aWVZQRUdMOGhiMGdiLW5ZN2ItWEpn?oc=5\" target=\"_blank\">CircularTec y Duoc UC concretan exitoso traslado interregional de baterías de vehículos eléctricos en desuso</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tour Innovación</font>",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPakpTYmZoc0ZIREQ1Z1VNMFZROWhFbzVXMXhseFJNMDF6Z0VvWFViTmg0WmVzYTh4aGNMY3NqZTREdnBYdjVnWWpsbDJqZEV5RkFXLVp1V3dIdlRPbXBVc2FVc0UxZHN5NVBtZ3l1T3MyblBscnhPZ3l3SnVYMTdyMlpVR1NWLV9sRkpKb21meFFhNFc1aEpQdm5NQkN0MUp5ZHlNYlFfOXNDY1oyYW5pVnJBSVM1SEFFT2VtRzlXY2JtWnprem9FY05fQUJmZTh3WmxiR19aWVZQRUdMOGhiMGdiLW5ZN2ItWEpn?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-09-22T11:02:27.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 30
-    },
-    {
       "id": "059c7ef4cce2d678",
       "title": "DiDi apunta a incorporar 100.000 vehículos eléctricos en México hacia 2030 - China en las Américas",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOdngzblhBNVhTN3ViTHAteXE0SXZNZERQSU10eFhYMnpCdnBUVm1Ya3haZkFiODFEb3k4QkNyNmNUM2dDMm50QkNWU0w4MzFfTXVJRy12OEQxU1JfbVliQUNfZ1QxNEJ3aFE4TnZSZzNKaVZuQ001Tm1mNzVJbU41VHVmSHhkYm96Y2RwWnM1VmJ2dFRNb0MxUG80RmpDd2FHM2pGT0J0dFBWcEVqYmpPZDJnc2ctUQ?oc=5\" target=\"_blank\">DiDi apunta a incorporar 100.000 vehículos eléctricos en México hacia 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">China en las Américas</font>",
@@ -543,15 +1445,15 @@
       "score": 10
     },
     {
-      "id": "c2d15570b7cb45b8",
-      "title": "La Ley de Propiedad Horizontal es contundente: si hay cámaras de un vecino en zonas comunes, la comunidad puede pedir su retirada - Infobae",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQLS1SZ1lWWDViM2FCcUhyNVR1V2JMM2l2SmJ1VlhCS1BPcVAzZTJiT05NVHlrdUl5Tlg4VXRzdUo0MW1EWUwzLWZDVzMzOXBxMEwtWjd5YXZhdlREZ0xDU2h6aTVGRU1tY0dEdjV2Z2NRVlhZNGVIMXdTaGhHR2ZLa3Q5ajZQbERZZ09PbFBBSEJGMWpOMlBGU0ljblBDNHRsSGxOZDZ3YnZNTTVFXzZVUnFQQ0VoSGRJLXBIVjV2RWhaTl9tMV9NdUV1eTVrclIzZzQzS1k5WHFTUHRnaTJZcDZlUnpqeVAxLUVqeWk2cDZOT0k1Rk1sRXpVaF8tMW_SAZoCQVVfeXFMTlNWZFB4TmNjM1FnRmU4MWQteUdyOXVpcTYtMEtoUlNRSWxRX0tKelpkdThSUXA3T1VGaDNQek5GZXJuN1FWbWRneUE0dTNtM05na013RTU5NnJTYlp4WHoyUGxUczhGaXpzOTdYaGtLT0RXZi0tcmcxZFNUSlllbXFrbTZYcDc5UUpYZ09WUURMMlA1ZWpwSjZyaWZNb0xpdWkySHh5LVQzamFpdEUzZGpqNGVBcGktZ2Zia3RKVm93MmV4bzc5U0FRQzJqVUJTak5vaDJtcGJrZHZkdm9obEFLOUhiR0k1aThMUXNFc1BmdG9Sd3dGY2ZudTczT1lJajdNZFJFOGtpd0s5enV0UzFKa3hnMHJwQ0R3?oc=5\" target=\"_blank\">La Ley de Propiedad Horizontal es contundente: si hay cámaras de un vecino en zonas comunes, la comunidad puede pedir su retirada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infobae</font>",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQLS1SZ1lWWDViM2FCcUhyNVR1V2JMM2l2SmJ1VlhCS1BPcVAzZTJiT05NVHlrdUl5Tlg4VXRzdUo0MW1EWUwzLWZDVzMzOXBxMEwtWjd5YXZhdlREZ0xDU2h6aTVGRU1tY0dEdjV2Z2NRVlhZNGVIMXdTaGhHR2ZLa3Q5ajZQbERZZ09PbFBBSEJGMWpOMlBGU0ljblBDNHRsSGxOZDZ3YnZNTTVFXzZVUnFQQ0VoSGRJLXBIVjV2RWhaTl9tMV9NdUV1eTVrclIzZzQzS1k5WHFTUHRnaTJZcDZlUnpqeVAxLUVqeWk2cDZOT0k1Rk1sRXpVaF8tMW_SAZoCQVVfeXFMTlNWZFB4TmNjM1FnRmU4MWQteUdyOXVpcTYtMEtoUlNRSWxRX0tKelpkdThSUXA3T1VGaDNQek5GZXJuN1FWbWRneUE0dTNtM05na013RTU5NnJTYlp4WHoyUGxUczhGaXpzOTdYaGtLT0RXZi0tcmcxZFNUSlllbXFrbTZYcDc5UUpYZ09WUURMMlA1ZWpwSjZyaWZNb0xpdWkySHh5LVQzamFpdEUzZGpqNGVBcGktZ2Zia3RKVm93MmV4bzc5U0FRQzJqVUJTak5vaDJtcGJrZHZkdm9obEFLOUhiR0k1aThMUXNFc1BmdG9Sd3dGY2ZudTczT1lJajdNZFJFOGtpd0s5enV0UzFKa3hnMHJwQ0R3?oc=5",
+      "id": "70947924a318c6d7",
+      "title": "Jujuy apuesta al litio para ampliar el desarrollo productivo - Agroempresario",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQldSbGtNOHpjT3d5MzBkQTZuT1U0Rm5IcGxQNmdXenJqaE0ydkRIckFwV0pQT2NYNElGTFJJZzd0T1VPSjB3RzFLUkFVU3pIc1I0azhhYVYtU3c1UTQyZ2V3X2g2RjAzNXhLd083TEtlWnBvb1MwVWRlaW1nU3cwVEl6dXpGa1RrV2h2TExray1ZRDZjUWV3eHpLMkxrNzh1Mkp0V2dhMXhHekk?oc=5\" target=\"_blank\">Jujuy apuesta al litio para ampliar el desarrollo productivo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Agroempresario</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQldSbGtNOHpjT3d5MzBkQTZuT1U0Rm5IcGxQNmdXenJqaE0ydkRIckFwV0pQT2NYNElGTFJJZzd0T1VPSjB3RzFLUkFVU3pIc1I0azhhYVYtU3c1UTQyZ2V3X2g2RjAzNXhLd083TEtlWnBvb1MwVWRlaW1nU3cwVEl6dXpGa1RrV2h2TExray1ZRDZjUWV3eHpLMkxrNzh1Mkp0V2dhMXhHekk?oc=5",
       "source": "news.google.com",
-      "datePublished": "2026-09-22T10:54:22.000Z",
-      "region": "CO",
+      "datePublished": "2026-09-22T11:00:00.000Z",
+      "region": "LATAM",
       "topics": [],
-      "score": 0
+      "score": 10
     },
     {
       "id": "98c3063b5164877d",
@@ -609,6 +1511,17 @@
       "score": 10
     },
     {
+      "id": "0fc6b06e845d265b",
+      "title": "Most Missouri cannabis operators opted out of DEA registration. Was it a mistake? - MJBizDaily",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZmJMcWN0Y0h2MHV5aDF0Zno5VVhwRGNna0tQM2xhb3VraUFEcE45dDhzbzVQcnhkQmc5MEx1TTM0VWJzRnJ6bnVvaHhVcHRpdGhqcmxVZ3Y4eU5OSG1wYU51eGNSbjItY0NCX3VGcFY3RmZQeFZhbmlZRmI2aEhPV2NyVmVCaDZrZFdockZOV3NMY1BGdFNBMG8yYXVnWl9kWlJfUFNXZGlBNXlIcmFTa2Nwa2U4Zw?oc=5\" target=\"_blank\">Most Missouri cannabis operators opted out of DEA registration. Was it a mistake?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MJBizDaily</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZmJMcWN0Y0h2MHV5aDF0Zno5VVhwRGNna0tQM2xhb3VraUFEcE45dDhzbzVQcnhkQmc5MEx1TTM0VWJzRnJ6bnVvaHhVcHRpdGhqcmxVZ3Y4eU5OSG1wYU51eGNSbjItY0NCX3VGcFY3RmZQeFZhbmlZRmI2aEhPV2NyVmVCaDZrZFdockZOV3NMY1BGdFNBMG8yYXVnWl9kWlJfUFNXZGlBNXlIcmFTa2Nwa2U4Zw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T10:35:12.000Z",
+      "region": "US",
+      "topics": [],
+      "score": 0
+    },
+    {
       "id": "9edb0374b78174c3",
       "title": "El coche electrificado acelera en las fábricas españolas: ya es uno de cada cinco vehículos producidos - El Economista",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNW45QWZvQk43Z3ZEcGFGcEU1UkExaVl5TFV3alJaWnlPRXhRbzFNdEJ3VHRER1REcXVId3Q0MGRqVE9BXzhXQnNyN2VUbkNzaUpnR0pXNjhTNU9PVlBmX1RDMkM2SjVHTVRGV1hGd2NDbFQ4MG1JamQyVHFBdXVmR0YzQUJSYnRzZ05QUzlMQTNVbHJqZEdZQkp1RVNYNV83LXdrUlBmRlROYWVwbEZhS0Z5ZkZTQVliRmRLN3BkdzlIYUpJTjB3QVdEQXZiOUlHbXRlY2tmX1dQRUFWbmpxWWNOWUpzSWU4VFdjZ3pzZ0FIUC14VmVn0gHiAUFVX3lxTE5zWk5PTTNJbEg4YnlHQVJkd0t4REl2WTlaWDRPb0k2dlpQR29zRDFOcnRKbk9VZ3dWeFdRUWlyY1liT0J3Qm02elZGSGtHeXpKeGk3NWU1WnZSQ2NtWEo0TXcwTE50akFlLTA0LW9YTlJheUI2MkVJRVhobWNoYUlBQm5qd0RRNVp2V1lNZlJfZHJPZkN2MnZxZl82dTNTZGhXUGlFM0dqWFNJRTFqQU8yUFVvSUhVZzR0MFlEcEhwblhfeDl6elFUQ3JXNXZISW5lZi1RbTRoMm56S1lVTXdBbUE?oc=5\" target=\"_blank\">El coche electrificado acelera en las fábricas españolas: ya es uno de cada cinco vehículos producidos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Economista</font>",
@@ -618,6 +1531,17 @@
       "region": "LATAM",
       "topics": [],
       "score": 10
+    },
+    {
+      "id": "0694ab954feec31a",
+      "title": "Titan Lithium adquirirá Global Lithium Resources por 333 millones de dólares australianos - IndexBox",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNbzZLdlg4aHl1SmdJcjlWRXVFR2tZRlloSFdYWmlCRG9Ca3dSTkxzcEY5VXdFRnEwaTZCZTNDRWQ1SnRrUmtNazBzZE1RX3djTVRoVE5RdERVcWFtNWh4cUJoRXpwOHp0anJ6aG9YcXNHT2ZjdmJpV2FxTkZQN2RnOGNaVXdGWXlOT0lYTGlXSWR4Vm9HZlBqYUp0RC1sck1q?oc=5\" target=\"_blank\">Titan Lithium adquirirá Global Lithium Resources por 333 millones de dólares australianos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbzZLdlg4aHl1SmdJcjlWRXVFR2tZRlloSFdYWmlCRG9Ca3dSTkxzcEY5VXdFRnEwaTZCZTNDRWQ1SnRrUmtNazBzZE1RX3djTVRoVE5RdERVcWFtNWh4cUJoRXpwOHp0anJ6aG9YcXNHT2ZjdmJpV2FxTkZQN2RnOGNaVXdGWXlOT0lYTGlXSWR4Vm9HZlBqYUp0RC1sck1q?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T10:34:00.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 0
     },
     {
       "id": "81076071d8034d21",
@@ -686,17 +1610,6 @@
       "score": 20
     },
     {
-      "id": "5eb1c6f58ca82a5e",
-      "title": "Último día de descanso para un Real Murcia que recarga fuerzas y recupera efectivos - Cadena SER",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX0ZBR0t3Mml0NDVvTXhtZEY1WjY5YVQ4ZUFaOXVoeVNRbVpPQzRHcmhKM3AxNFZFeFNzb3RsZllzeDFfY1pZWm9TTnhaX2M2Xy1zckFlNjVudmJ2YXZCQzBGczg2bVB3MzdUcEl6aTZzdVRLX1RwSkk2Uy1CcE8yQ3RFS0g2X2hXXzFqSUkwbmE1S3hqS0YzRU1VSHFuRzRGMUE0WXRfWUFnVUV2dTctQ252R0NQMVYwcU1oaDlweHNGY0tyS3RabDBYS0VkeExUaWVJ0gHnAUFVX3lxTE1mRjVNUkZxbVd0NVdrRV9udEVLaGE4eVRwRi1peGNpX0RpbnpRbGhXQmJ4NG9CUjhzN0JuNVBjd0ZVOWxOQThZenlrTDZEQ2tQZU1TRE9WWXVqQ0w3c0Z2RWtNbTVJRGcteHoyQUxETV9mMTNlN292N3RnUk1nWXdkamFrNDVrS29LUnRmX3Nna1htT0g1SWVNRGFXb2t3OHJxMHBoRDNFbVFyMURXWGw0S2JRSjhWSkJqdGZLYXNQRTEzS0RUYTZFZGk5T2ZENDJoN1FzV05NTlVrREpqVlNhMDk0M2UxTQ?oc=5\" target=\"_blank\">Último día de descanso para un Real Murcia que recarga fuerzas y recupera efectivos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena SER</font>",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX0ZBR0t3Mml0NDVvTXhtZEY1WjY5YVQ4ZUFaOXVoeVNRbVpPQzRHcmhKM3AxNFZFeFNzb3RsZllzeDFfY1pZWm9TTnhaX2M2Xy1zckFlNjVudmJ2YXZCQzBGczg2bVB3MzdUcEl6aTZzdVRLX1RwSkk2Uy1CcE8yQ3RFS0g2X2hXXzFqSUkwbmE1S3hqS0YzRU1VSHFuRzRGMUE0WXRfWUFnVUV2dTctQ252R0NQMVYwcU1oaDlweHNGY0tyS3RabDBYS0VkeExUaWVJ0gHnAUFVX3lxTE1mRjVNUkZxbVd0NVdrRV9udEVLaGE4eVRwRi1peGNpX0RpbnpRbGhXQmJ4NG9CUjhzN0JuNVBjd0ZVOWxOQThZenlrTDZEQ2tQZU1TRE9WWXVqQ0w3c0Z2RWtNbTVJRGcteHoyQUxETV9mMTNlN292N3RnUk1nWXdkamFrNDVrS29LUnRmX3Nna1htT0g1SWVNRGFXb2t3OHJxMHBoRDNFbVFyMURXWGw0S2JRSjhWSkJqdGZLYXNQRTEzS0RUYTZFZGk5T2ZENDJoN1FzV05NTlVrREpqVlNhMDk0M2UxTQ?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-09-22T10:08:03.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
       "id": "dcab63232f6111cf",
       "title": "España pugna con Francia por contar con la segunda fábrica de BYD en territorio de la UE - Movilidad Eléctrica",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQajdFMzFUUHg2Tko1cTB5bktQTlJiSGNmRVBIazB6SnlCS3N4VmhEVk16bUltQ2dtN0ZQNHg1dzlKNzRpU0FKdUkxRVMzZUphRlJZdGM3R0luUXFpSmFCOFNXd0RIZ2hhenNGcS1NQk9aYTBpQTcweEVXMUg5NDdPbjRSa2ZUcnd3?oc=5\" target=\"_blank\">España pugna con Francia por contar con la segunda fábrica de BYD en territorio de la UE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Movilidad Eléctrica</font>",
@@ -763,17 +1676,6 @@
       "score": 20
     },
     {
-      "id": "cb7b48d504c21742",
-      "title": "El Gobierno prevé aprobar en octubre el Real Decreto de centros de datos - Data Center Dynamics",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWUtBVzlEbkNhekJFUEVXRjR4c3c4TGVwcUJndE0weWxYcTVhX3BxUEtpdFhWcGRkbHhpd2FJdXZMWnFFUFRFSW5DeDNPbEdRUUdjaFJsVTF5N0xGbkhhSWYyUF9GdXI0b29wOERUQ0p1Z19zaEg2eTdBQnlNYjNXNzVsclIwbmEwQlZ3V1BBX0hSa09UcGhic1Q2TkRmbjZsdVZXMm5iVEt2YW5wamNFS1lQYTRzaFpWZWxOR0lFbm9iVDA?oc=5\" target=\"_blank\">El Gobierno prevé aprobar en octubre el Real Decreto de centros de datos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWUtBVzlEbkNhekJFUEVXRjR4c3c4TGVwcUJndE0weWxYcTVhX3BxUEtpdFhWcGRkbHhpd2FJdXZMWnFFUFRFSW5DeDNPbEdRUUdjaFJsVTF5N0xGbkhhSWYyUF9GdXI0b29wOERUQ0p1Z19zaEg2eTdBQnlNYjNXNzVsclIwbmEwQlZ3V1BBX0hSa09UcGhic1Q2TkRmbjZsdVZXMm5iVEt2YW5wamNFS1lQYTRzaFpWZWxOR0lFbm9iVDA?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-09-22T09:58:44.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
       "id": "906b79a5133c9339",
       "title": "Una nueva normativa dificulta aún más la obtención de la Green Card en Estados Unidos - Radio Mitre",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPYm5SZWpyZDZlUE5GSXlSeHdqY3BrcG1DeHNDMFNlZzdteHdOR2NsUWVxXzhRbTdCTzZoeEdwLWJhTDVOZDAzSUlhVEhWdmN6MzJGbTBKZ29ZZXBJTF95aWg1cU1NcG5aRmdWZWZMUUxJV2FuamY1RFd3Wk4wSnc3X29SQlhzVmNSQlRWZ3VpYWZUU3hSTFFxOTRLN1llUkFCZDh0WU1TbF9MUnNZMFlILUR1bEN2RzZDWFUyQWp0bm5wVG1t?oc=5\" target=\"_blank\">Una nueva normativa dificulta aún más la obtención de la Green Card en Estados Unidos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Mitre</font>",
@@ -822,6 +1724,17 @@
       "title": "Sitges inicia las obras para instalar tres nuevas estaciones de recarga para vehículos eléctricos - VisitSitges",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSDFRWUlNSzUxeGFTRGQ2UWZESjdKZ2hwSHRsbU1ndF9nS1JrMXc3WGFpbmFLQmoybkt5djRTNVRoRnZ5MFh2M1hOSG5OUTRrbjBGdmdiZFAyVjduNkZ6ejVfbENKTUVTenNjZkN3bWNBc1RjOG5tZFl1aVAyazJnS2c3NTN2UERGeDBKWFFQMFVGa3F1VEt1WnBDVHItcmNtNXNpOE1OOVFHVUpVRXFKNURFMU5LXzFXSnZWeGpUSnI2LWhvN1ZteA?oc=5\" target=\"_blank\">Sitges inicia las obras para instalar tres nuevas estaciones de recarga para vehículos eléctricos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VisitSitges</font>",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSDFRWUlNSzUxeGFTRGQ2UWZESjdKZ2hwSHRsbU1ndF9nS1JrMXc3WGFpbmFLQmoybkt5djRTNVRoRnZ5MFh2M1hOSG5OUTRrbjBGdmdiZFAyVjduNkZ6ejVfbENKTUVTenNjZkN3bWNBc1RjOG5tZFl1aVAyazJnS2c3NTN2UERGeDBKWFFQMFVGa3F1VEt1WnBDVHItcmNtNXNpOE1OOVFHVUpVRXFKNURFMU5LXzFXSnZWeGpUSnI2LWhvN1ZteA?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T09:46:14.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 30
+    },
+    {
+      "id": "628cd97515b59a84",
+      "title": "Sitges inicia las obras para instalar tres nuevas estaciones de recarga para vehículos eléctricos - VisitSitges",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQSXM0UzN2M3R2MHEwT1pjVnpqakJmREJFNE9Ba1Zma2dpaG9TSHBjNlhaNlBndlBUQmZucDE0S25kTkM2dlpWTjhPNXRFU3l6WEd1QkhZYjZCOUJ6U21nLU82bmxMN3dDM08yTUg4b0g5RjZZSi1PRWFMLUNWUTNqb3Z4N25yTFRoTFo2WHd1X1pmbjNNNEQ0Z0QzOHdCN0FrX0h0dmstcUo0ZkNhbWZvMURJcXQ0MmFtTzRRLTlEZFJRRGFs?oc=5\" target=\"_blank\">Sitges inicia las obras para instalar tres nuevas estaciones de recarga para vehículos eléctricos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VisitSitges</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSXM0UzN2M3R2MHEwT1pjVnpqakJmREJFNE9Ba1Zma2dpaG9TSHBjNlhaNlBndlBUQmZucDE0S25kTkM2dlpWTjhPNXRFU3l6WEd1QkhZYjZCOUJ6U21nLU82bmxMN3dDM08yTUg4b0g5RjZZSi1PRWFMLUNWUTNqb3Z4N25yTFRoTFo2WHd1X1pmbjNNNEQ0Z0QzOHdCN0FrX0h0dmstcUo0ZkNhbWZvMURJcXQ0MmFtTzRRLTlEZFJRRGFs?oc=5",
       "source": "news.google.com",
       "datePublished": "2026-09-22T09:46:14.000Z",
       "region": "CO",
@@ -880,6 +1793,17 @@
       "source": "news.google.com",
       "datePublished": "2026-09-22T09:15:18.000Z",
       "region": "CO",
+      "topics": [],
+      "score": 20
+    },
+    {
+      "id": "f578c3ee543310af",
+      "title": "NX Technologies capta 1,9 millones del PERTE para ampliar su gama de componentes para vehículos eléctricos ligeros - El Economista",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNenk4czVNZXVFOHdET2laWllxSUxuekFIT3B2bVdQRHVHdGpuSGQxZzdzNzJVQjRvdy1pbjJHMERObVlwTkJ6RTFRd2Mza1BkZjZYajF0QS0zNjNwTVI2MzZ6RGZCazBuWldWUThNaDRZdXNabmd5WFlfZWlxVGp0RXp0TW5pcTVsTzJmSTMwQURvTWNaMWlLN1o1WE0xNjBCcnRzMmIxZ2lwazYzcVNGVHZwY0FYMmhrQkhpTS1iU3lIRG5kSWhycFJ3c1FXZmF1S2JkVFZxR2VnMFF1WjkyU1BoYmhWZUJRSzY2TVR2Z3dHeGljZkplTUZ3UGdlWFB6QUo1ZGdhaTRKbHJwenlqc2hpOFdoYUNCdWFJ0gGGAkFVX3lxTFByU1FSN3pIMFRsWDFkR3paRDgyMmVoYldqNzZGNzhvYVd4WlJLbVlhQUZoNzVRNWFkcEc0dTRNNlpkWF9zWHhUei1jNUt6dzVnd3RZZkhZY08tdXRBV0hNV0Q3WG5uck9tcXFydTJ3TjJqYVpFSE5XRXJuMkowbHRIcTlQeFJfdFFMNTNVU3lqeXhSZkpyNHd5UkZuX09CMWJaTWVxQy1DdkxzMXVELVJMNEFKNHJqSy1RUHNjYTVTRi1HV0VxMFZfVmRlR2ZsVWh0bWFlNUhvQ2VYaEdWbVFNTEdFSlQ2LTF6VThTNjZzZmlqZF9ERDQtQjJTb2JjMEd3b2JRSXc?oc=5\" target=\"_blank\">NX Technologies capta 1,9 millones del PERTE para ampliar su gama de componentes para vehículos eléctricos ligeros</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Economista</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNenk4czVNZXVFOHdET2laWllxSUxuekFIT3B2bVdQRHVHdGpuSGQxZzdzNzJVQjRvdy1pbjJHMERObVlwTkJ6RTFRd2Mza1BkZjZYajF0QS0zNjNwTVI2MzZ6RGZCazBuWldWUThNaDRZdXNabmd5WFlfZWlxVGp0RXp0TW5pcTVsTzJmSTMwQURvTWNaMWlLN1o1WE0xNjBCcnRzMmIxZ2lwazYzcVNGVHZwY0FYMmhrQkhpTS1iU3lIRG5kSWhycFJ3c1FXZmF1S2JkVFZxR2VnMFF1WjkyU1BoYmhWZUJRSzY2TVR2Z3dHeGljZkplTUZ3UGdlWFB6QUo1ZGdhaTRKbHJwenlqc2hpOFdoYUNCdWFJ0gGGAkFVX3lxTFByU1FSN3pIMFRsWDFkR3paRDgyMmVoYldqNzZGNzhvYVd4WlJLbVlhQUZoNzVRNWFkcEc0dTRNNlpkWF9zWHhUei1jNUt6dzVnd3RZZkhZY08tdXRBV0hNV0Q3WG5uck9tcXFydTJ3TjJqYVpFSE5XRXJuMkowbHRIcTlQeFJfdFFMNTNVU3lqeXhSZkpyNHd5UkZuX09CMWJaTWVxQy1DdkxzMXVELVJMNEFKNHJqSy1RUHNjYTVTRi1HV0VxMFZfVmRlR2ZsVWh0bWFlNUhvQ2VYaEdWbVFNTEdFSlQ2LTF6VThTNjZzZmlqZF9ERDQtQjJTb2JjMEd3b2JRSXc?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T09:14:58.000Z",
+      "region": "LATAM",
       "topics": [],
       "score": 20
     },
@@ -1091,6 +2015,17 @@
       "region": "CO",
       "topics": [],
       "score": 20
+    },
+    {
+      "id": "1bae4a9a581bc6cd",
+      "title": "La encuesta que desmonta muchas dudas sobre los coches eléctricos: el 97% de sus usuarios está satisfecho - FCE, noticias sobre coches eléctricos, movilidad eléctrica",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPX3AtYXc0SVJQckR1aTl0OGQ5aVNTV1pmWXhoR3pjdlpZVTF2Nzl1RDFHb20yMWMwQUlWYjNZeXQ5aGI1R0dsTXpxMHhUS19SdEtURU1fcG55cWVDQlVTeVM3OE1seVBVN2ZDOEN4eU9SSWNCWmx0UDZLcERaY1Vxa3VyaUJHcDl2ZER0cjFrVHNBa2YyVG84NlR1RnVjaHctdkhsRGpWVUdDYWhHWHNrQnUwRmQxRnJ2Wk9sWWJPb3RPNVdlNV9INEpLY3ZRYlU?oc=5\" target=\"_blank\">La encuesta que desmonta muchas dudas sobre los coches eléctricos: el 97% de sus usuarios está satisfecho</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FCE, noticias sobre coches eléctricos, movilidad eléctrica</font>",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX3AtYXc0SVJQckR1aTl0OGQ5aVNTV1pmWXhoR3pjdlpZVTF2Nzl1RDFHb20yMWMwQUlWYjNZeXQ5aGI1R0dsTXpxMHhUS19SdEtURU1fcG55cWVDQlVTeVM3OE1seVBVN2ZDOEN4eU9SSWNCWmx0UDZLcERaY1Vxa3VyaUJHcDl2ZER0cjFrVHNBa2YyVG84NlR1RnVjaHctdkhsRGpWVUdDYWhHWHNrQnUwRmQxRnJ2Wk9sWWJPb3RPNVdlNV9INEpLY3ZRYlU?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T08:00:00.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 30
     },
     {
       "id": "e64443720460e38e",
@@ -1335,6 +2270,17 @@
       "score": 10
     },
     {
+      "id": "4ab841fef85080fb",
+      "title": "Cinco coches ‘emocionales’... pero que son 100% eléctricos - Noticias de Navarra",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNcmdQVG1RZ3lsSVQ1YjlGZFZVOEFfZXEwbnQ5VjNLYmwtWk1Ea0hFdGM2SWNncVJwTExkSkZYci1qODdPZFJQRmRsa2taRWdTdk1PTDRDZTdYSTlBNXc0bENTVFI4ZE5kWlg1RFl2VmJ0MGNXY2t2cmJ6cXBaUmp6YnkwZVJMQjViZWZiOGoybTNUdWtPcnJPWmEyOWNmdw?oc=5\" target=\"_blank\">Cinco coches ‘emocionales’... pero que son 100% eléctricos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Noticias de Navarra</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmdQVG1RZ3lsSVQ1YjlGZFZVOEFfZXEwbnQ5VjNLYmwtWk1Ea0hFdGM2SWNncVJwTExkSkZYci1qODdPZFJQRmRsa2taRWdTdk1PTDRDZTdYSTlBNXc0bENTVFI4ZE5kWlg1RFl2VmJ0MGNXY2t2cmJ6cXBaUmp6YnkwZVJMQjViZWZiOGoybTNUdWtPcnJPWmEyOWNmdw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T06:00:26.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
+    },
+    {
       "id": "9e0bcfe27fa7a792",
       "title": "Arabia Saudí ya tiene sus primeros coches eléctricos: los Ceer Exobot llegan con hasta 850 CV - Motor.es",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNbV9JU2RhdWV3anNzVlo3aENIRVRPYkRtcC11UE5ibFl2c3pZbUVrRkJLRDBlMmxkNkMyeUVIOUhVMjJ2ajZqbTNqLVhqSHEweFVyVFJmcmttamlyOU9NTmhETGJubE9VeW5zVFY3UjRzUlI3NDllcTRYRzBVWDZ4azJid2xQTDg?oc=5\" target=\"_blank\">Arabia Saudí ya tiene sus primeros coches eléctricos: los Ceer Exobot llegan con hasta 850 CV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor.es</font>",
@@ -1412,6 +2358,17 @@
       "score": 10
     },
     {
+      "id": "03b9b4f763bdbeed",
+      "title": "Regulación de vivienda turística de renta corta en POT de Medellín abre pulso con aplicaciones: ¿quién ganará? | El Colombiano - elcolombiano.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUREaTJ3aFgyTGNjVTNYcUhkeV84VkFySzJTZG9iWHVKY19JbmFqT2hHZXBBR1U4QW9LWkt1MlltZjRHa3JrLVAtS2ROOS1oTEdSMGF5VGFnTkJZV3YtS09zZTk4c3lfYk9jdWNnQ1RiWkE5VFVYUmhnOTNaVml1VjdMaThYWFBuUEh3Q3NqZHpVM3g5M0VaMjhVZUZJQzBl0gGmAUFVX3lxTE5sNzdoZmttcGd0bDFYUnNpSmwxX3dtcDlCcDA4RGZ0MWdXYkEyaWJCeVpDRW84YlZhVnhIblUwX0drNEpLWXhHS2swLWJZbjB3eDdmemNzQm9GU1oxRzdCc2JjYmNQbGJLSVlqVjVvZWtsN2hUbWhhOXFNTFBnX2FJRzdVVE1RLUViOVpzN3djaHU2d3gyR1Vyb2g1QkZzeGZUVFM3MWc?oc=5\" target=\"_blank\">Regulación de vivienda turística de renta corta en POT de Medellín abre pulso con aplicaciones: ¿quién ganará? | El Colombiano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elcolombiano.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUREaTJ3aFgyTGNjVTNYcUhkeV84VkFySzJTZG9iWHVKY19JbmFqT2hHZXBBR1U4QW9LWkt1MlltZjRHa3JrLVAtS2ROOS1oTEdSMGF5VGFnTkJZV3YtS09zZTk4c3lfYk9jdWNnQ1RiWkE5VFVYUmhnOTNaVml1VjdMaThYWFBuUEh3Q3NqZHpVM3g5M0VaMjhVZUZJQzBl0gGmAUFVX3lxTE5sNzdoZmttcGd0bDFYUnNpSmwxX3dtcDlCcDA4RGZ0MWdXYkEyaWJCeVpDRW84YlZhVnhIblUwX0drNEpLWXhHS2swLWJZbjB3eDdmemNzQm9GU1oxRzdCc2JjYmNQbGJLSVlqVjVvZWtsN2hUbWhhOXFNTFBnX2FJRzdVVE1RLUViOVpzN3djaHU2d3gyR1Vyb2g1QkZzeGZUVFM3MWc?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T05:27:56.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 10
+    },
+    {
       "id": "92b399e851409ccd",
       "title": "Taxistas de Centro incorporan vehículos eléctricos a su parque vehicular - El Sol de México",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSjRxN2wzMTIyNm01a1l2eXQ3VjVfM2NObHc5Vkx3M05IekN4alhEQmYzcjhIbGk4c05TNDdqM05INTVWTmdTWm54SW1UNEVsOFU1blktR0NraFV2NndNOXdGc19LNjZra2MtNmY3dmg1N3ZiZ1Z3bEZacExMek42N2dRa1BsN1pKSWZHdjRBMFh1aEc0Ulc0dGhuTS1ZT0RJUlM4WFdsZDZVcVZsdWJUQ19USUlrc1dDNDJBQlhBUnVpYkU?oc=5\" target=\"_blank\">Taxistas de Centro incorporan vehículos eléctricos a su parque vehicular</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Sol de México</font>",
@@ -1454,6 +2411,17 @@
       "region": "US",
       "topics": [],
       "score": 10
+    },
+    {
+      "id": "76edcbc87ea1bc6d",
+      "title": "Colombia enfrenta el reto de gestionar y reciclar las baterías de los carros eléctricos - LaRepublica.co",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWndwQzFTUGVLdnZTR1ROa1gxenlXckp3dGpHd19wMHlSVlV4TW5veEYzeldqWkpaV3NvaGxQZEtIWGdObEFXMWxYZ3NsUnpWN21zQXNKQTJ5RndLd0tjX21Kb0h5WTF5b2xScC1pclNyYldXa0x3QVRWSUJ2T1lEbkFnQ3ZtR21xb0FDUW1iTjRpS2RINFFEYndTNUZfc1VyZXFSS1VRNUdCdw?oc=5\" target=\"_blank\">Colombia enfrenta el reto de gestionar y reciclar las baterías de los carros eléctricos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LaRepublica.co</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWndwQzFTUGVLdnZTR1ROa1gxenlXckp3dGpHd19wMHlSVlV4TW5veEYzeldqWkpaV3NvaGxQZEtIWGdObEFXMWxYZ3NsUnpWN21zQXNKQTJ5RndLd0tjX21Kb0h5WTF5b2xScC1pclNyYldXa0x3QVRWSUJ2T1lEbkFnQ3ZtR21xb0FDUW1iTjRpS2RINFFEYndTNUZfc1VyZXFSS1VRNUdCdw?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-22T05:01:07.000Z",
+      "region": "CO",
+      "topics": [],
+      "score": 20
     },
     {
       "id": "f3f793440a3e0c9c",
@@ -4325,6 +5293,17 @@
       "region": "CO",
       "topics": [],
       "score": 0
+    },
+    {
+      "id": "14ad2f63a9eea841",
+      "title": "MARIO SALINAS IMPULSA REGULACIÓN E INFRAESTRUCTURA PARA MICROMOVILIDAD EN NUEVO LEÓN - H. Congreso de Nuevo León",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWHVIT2NWVW5oaWpBNkZ5NUpYcGFHeFFNOFE3TU0wTUhCTDJJMWNPRS1jMm5HYUtUUzRKOXhMR0VZcll1VV82aVFQZlJsZEtQbk5YR0M3QWlhN1E4cUVoM2JGWFpYZkNzQl83SlF6dUJaeDJhWFZiQ3dCREpaR19HUDJNQjFncEFFLVRqNlYzeVVtNDVfSGI0T3F0RlNYc3JmRU9KNWM5LU4zNmRQeTIzbWw1Zzc3NktmVGpZeEpVTFIyUFhs?oc=5\" target=\"_blank\">MARIO SALINAS IMPULSA REGULACIÓN E INFRAESTRUCTURA PARA MICROMOVILIDAD EN NUEVO LEÓN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">H. Congreso de Nuevo León</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWHVIT2NWVW5oaWpBNkZ5NUpYcGFHeFFNOFE3TU0wTUhCTDJJMWNPRS1jMm5HYUtUUzRKOXhMR0VZcll1VV82aVFQZlJsZEtQbk5YR0M3QWlhN1E4cUVoM2JGWFpYZkNzQl83SlF6dUJaeDJhWFZiQ3dCREpaR19HUDJNQjFncEFFLVRqNlYzeVVtNDVfSGI0T3F0RlNYc3JmRU9KNWM5LU4zNmRQeTIzbWw1Zzc3NktmVGpZeEpVTFIyUFhs?oc=5",
+      "source": "news.google.com",
+      "datePublished": "2026-09-21T07:00:00.000Z",
+      "region": "LATAM",
+      "topics": [],
+      "score": 10
     },
     {
       "id": "35b89588ca8d635c",
@@ -88781,281 +89760,6 @@
       "source": "news.google.com",
       "datePublished": "2026-08-23T19:00:00.000Z",
       "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "dad288da16674755",
-      "title": "Grecia Quiroz prioriza el apoyo ciudadano mientras aguarda resolución sobre reforma electoral: “Es imposible quedar bien con todos” - Infobae",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOaU0zLWYwT1p1SjdpMG14ZzdSWWl3V2YyZWY3NDNvY2Q4R1FqN2lZcElJeV9BdXlIUkpOX1JCQjJobkI0NVFndmNxdi1GaXNsYzRtUzBteHZjZlZDNDJfX25qamI4RXZQOUMwbE8wSGtFWTRGc0FTcGNGSWJNZnNQbTdhNmFhSDlKR2JZU2FhbGRJRE1GQVMwbHZHSHJmbG1KNGk3SlQ1cG01NFB5bmpSWnNLRDhKaDUyMDBmQy1lTHVIckxrQmU3WVZwSXlRYTctZFVrOW9BekNRRC1ZRXVSck9qZTREQXlHWUd2WkdqOFdNakY5ZGdJdjZhY1RiUkhq0gGbAkFVX3lxTE9PMGFWWEFmUWhRd3o3UG8zOS1LUlMyQVBNNWNHQW5kOVVraE9kVkYwM0ZyeE9wcndiS0VZdmxvVE5WNmFyUldJQzcyeXJrdUZZanVIYUZFM0lxRURIQWthbExVS28ycURuUy1CdGdEWGYtLS05Q0VFdGRDbDl3UTVwY21qN3Y5RE9zVU9wUjBaM3Ytel93aXh5QzQ1RVIxU2EzNmZNbjBKUW5HZXhpTFRWZzRSZFlpWGRiWmFNTV9qX0U0OVEwbE92d1ExOTNFNFlTbmI4dEp4WlRpSmR1X2NRVVhtSnhxUDRDMGJFTklHMGZSeE83MFp3SktCc3ZqMUg4cEVqSmw1QkJlOEU2VjFJY1h2d1BvLW1mbkk?oc=5\" target=\"_blank\">Grecia Quiroz prioriza el apoyo ciudadano mientras aguarda resolución sobre reforma electoral: “Es imposible quedar bien con todos”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infobae</font>",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaU0zLWYwT1p1SjdpMG14ZzdSWWl3V2YyZWY3NDNvY2Q4R1FqN2lZcElJeV9BdXlIUkpOX1JCQjJobkI0NVFndmNxdi1GaXNsYzRtUzBteHZjZlZDNDJfX25qamI4RXZQOUMwbE8wSGtFWTRGc0FTcGNGSWJNZnNQbTdhNmFhSDlKR2JZU2FhbGRJRE1GQVMwbHZHSHJmbG1KNGk3SlQ1cG01NFB5bmpSWnNLRDhKaDUyMDBmQy1lTHVIckxrQmU3WVZwSXlRYTctZFVrOW9BekNRRC1ZRXVSck9qZTREQXlHWUd2WkdqOFdNakY5ZGdJdjZhY1RiUkhq0gGbAkFVX3lxTE9PMGFWWEFmUWhRd3o3UG8zOS1LUlMyQVBNNWNHQW5kOVVraE9kVkYwM0ZyeE9wcndiS0VZdmxvVE5WNmFyUldJQzcyeXJrdUZZanVIYUZFM0lxRURIQWthbExVS28ycURuUy1CdGdEWGYtLS05Q0VFdGRDbDl3UTVwY21qN3Y5RE9zVU9wUjBaM3Ytel93aXh5QzQ1RVIxU2EzNmZNbjBKUW5HZXhpTFRWZzRSZFlpWGRiWmFNTV9qX0U0OVEwbE92d1ExOTNFNFlTbmI4dEp4WlRpSmR1X2NRVVhtSnhxUDRDMGJFTklHMGZSeE83MFp3SktCc3ZqMUg4cEVqSmw1QkJlOEU2VjFJY1h2d1BvLW1mbkk?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T18:18:18.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "68dd5a6c3ab1b70f",
-      "title": "Gobernación fortalece acciones para cerrar brechas de género - ELHERALDO.CO",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUHB6cUJZSV9VTGVhUjJIdXRHZlFPWmhwNXd5NFk4WDN1QzgyWDJac016ZlJLajM5VDJZeE5PeFpZWkQyU3RHS0hJR2p2UXQ0VVdTbjRIck80Wi1wY3Bsd19aV3lmODV2eGlCX2RhUTlmS2dLM3BkemVKUUljMnZHbTZQdHk3TUxJck1DVTczRVU5QmV4dE0tSHRUeDB1SVNyZTNrRnE1SzlWeGfSAcYBQVVfeXFMUHJoTGtCTnMzRHpwSWVwV3FWOTh1X252d0dWSE83UXBVa3ZVSFpPQllYS0VQVzkzeU1nZjh5TWVpSDhWbkZ2YlpjYUZpNURVcGpvbW9nSGJOeWNJWEU5X1dtdGkzQTNseDdVaFlsZHZZa1RqUTc0ZTJrNE9XdW9qWURhaUtxSGRrN3RGOGlndVVKRGR5aHM2UkJDOF9pRlFqVTJlYVFzSmN1dUUwLVZCOEZqcEhPTVYxU1JIZ1BuMjVESTgyQmp3?oc=5\" target=\"_blank\">Gobernación fortalece acciones para cerrar brechas de género</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ELHERALDO.CO</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUHB6cUJZSV9VTGVhUjJIdXRHZlFPWmhwNXd5NFk4WDN1QzgyWDJac016ZlJLajM5VDJZeE5PeFpZWkQyU3RHS0hJR2p2UXQ0VVdTbjRIck80Wi1wY3Bsd19aV3lmODV2eGlCX2RhUTlmS2dLM3BkemVKUUljMnZHbTZQdHk3TUxJck1DVTczRVU5QmV4dE0tSHRUeDB1SVNyZTNrRnE1SzlWeGfSAcYBQVVfeXFMUHJoTGtCTnMzRHpwSWVwV3FWOTh1X252d0dWSE83UXBVa3ZVSFpPQllYS0VQVzkzeU1nZjh5TWVpSDhWbkZ2YlpjYUZpNURVcGpvbW9nSGJOeWNJWEU5X1dtdGkzQTNseDdVaFlsZHZZa1RqUTc0ZTJrNE9XdW9qWURhaUtxSGRrN3RGOGlndVVKRGR5aHM2UkJDOF9pRlFqVTJlYVFzSmN1dUUwLVZCOEZqcEhPTVYxU1JIZ1BuMjVESTgyQmp3?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T18:06:53.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 0
-    },
-    {
-      "id": "82adea3714858fb9",
-      "title": "Camiones eléctricos China: el cambio de batería en 5 minutos elimina los tiempos de recarga - Motor16",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUN0STNQblpETzY5OGpDaWhIZzN0Sm5HRE5VZE1EVWdBdWhtdTNhV3VERlJCQVBOdkNnZm5kcnNZR0pZRFEzdmxqS1EwcF9ZdnlOZElkUUdTTF9lVXdhbkF4Umo4d2sxb2xjWlBQTFo2Y2pDaWh0bDdiX28yeGJsOXlLTXAtc1RvcVljSy1uaw?oc=5\" target=\"_blank\">Camiones eléctricos China: el cambio de batería en 5 minutos elimina los tiempos de recarga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor16</font>",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUN0STNQblpETzY5OGpDaWhIZzN0Sm5HRE5VZE1EVWdBdWhtdTNhV3VERlJCQVBOdkNnZm5kcnNZR0pZRFEzdmxqS1EwcF9ZdnlOZElkUUdTTF9lVXdhbkF4Umo4d2sxb2xjWlBQTFo2Y2pDaWh0bDdiX28yeGJsOXlLTXAtc1RvcVljSy1uaw?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T18:02:13.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 20
-    },
-    {
-      "id": "b8d1979a9d292e8e",
-      "title": "Techo solar para coches eléctricos: Fuyao lanza la placa que añade hasta 22 km de autonomía al día - Motor16",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYWZ3LTY0R2JBb3ZnS0hLekhoZmItWEdEa3kyLUdqTVlYVWpKdW9rUndoaWlpdExtT2UzWVpyUm1lQWJpTk1xWjN5Q0FRTGl6QUxCUlhtM3BQQzJHcDNrcl9SY3lBTnRjWTBZdmxEZXI3cFlrSE1Sbm41R2VTemY0UjBIR1FjWW0wUzhV?oc=5\" target=\"_blank\">Techo solar para coches eléctricos: Fuyao lanza la placa que añade hasta 22 km de autonomía al día</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor16</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYWZ3LTY0R2JBb3ZnS0hLekhoZmItWEdEa3kyLUdqTVlYVWpKdW9rUndoaWlpdExtT2UzWVpyUm1lQWJpTk1xWjN5Q0FRTGl6QUxCUlhtM3BQQzJHcDNrcl9SY3lBTnRjWTBZdmxEZXI3cFlrSE1Sbm41R2VTemY0UjBIR1FjWW0wUzhV?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T18:02:05.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "c0a8c7e8a0472c63",
-      "title": "Prohibido aparcar coches eléctricos: la insólita prohibición que están encontrando en los supermercados los clientes de Carrefour en Bélgica - Diariomotor",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2YxdWdqX3RwaXNrR3AteUt0bC1FX0UxMTBNZGxMN1JlTmxWTDFNTmgwbXJoN0M3bWJscHJTSDBJVkt2S3NPbTR6dmd1MTRMWE1ITU1SOWhZMUJDTHJGTTFJNEQ4UHF0M0ppZUZydnNCbk1Jb1Z0aFd3cFI1SmtXU1dOdzRDUDdPWkN1LTF5SlhxSXpnR2RCcDFPQWx0dWQzelNPOTNXSQ?oc=5\" target=\"_blank\">Prohibido aparcar coches eléctricos: la insólita prohibición que están encontrando en los supermercados los clientes de Carrefour en Bélgica</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diariomotor</font>",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2YxdWdqX3RwaXNrR3AteUt0bC1FX0UxMTBNZGxMN1JlTmxWTDFNTmgwbXJoN0M3bWJscHJTSDBJVkt2S3NPbTR6dmd1MTRMWE1ITU1SOWhZMUJDTHJGTTFJNEQ4UHF0M0ppZUZydnNCbk1Jb1Z0aFd3cFI1SmtXU1dOdzRDUDdPWkN1LTF5SlhxSXpnR2RCcDFPQWx0dWQzelNPOTNXSQ?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T18:00:47.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "9a8b87564ab67dfd",
-      "title": "HP’s push for e-buses, charging stations being set up across 80 locations - The Times of India",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNby1GY0xMUkdZdHBra1pIQm9iYWFHV1c4R2tFSEF1bkJySWtNWTNZb1lsWGhxSHVXdzZXaHh2MEFOWjZxeEFIU05yX2d6U1JMcmNkYlBUTFJ3ak83WUpRVTRxVXRTV1pWY2JjVHJBUENKdWVfbm5Zakl6UFJYSl9Nb0pQSnM0Sk1HRjBUczhmbU9MaFp3cmVVZ3N2dVc5cTBlcmZ0Y1RWeGhRdlhWVHJTcmhoSjdjVElEWHJwdklqczBMcDRyc1FPZU9qN3RVX01wb3RWNzNjUUpRUUJMZndnNlhuMNIB6AFBVV95cUxQQmt5V2pENVdreUNVVlZmbkdBNEI2NXRRZUZfVVY0LWtYXzh1X3Q4OEdaa3haaEVnVzJVU1Y3QkxvTnpma1FQMW5IU3pkeTRtRWhVTTl0X3ZPV0FoOTB4ZFZ4UmhVeFdPcG5JVXBIR3NfT193WjhINmZHbVYtVDBuRFZlYjdyZ1NaUG5SYnNZQy1yb09TMmdPdFJyWHBZWkJzVklLN2dNTXgxMk9wMHBZQmFFU2lZcG5oMWQxZ0lrRy1keWw5YmdDX0x0ZURFRXI1WHpBN2JrS29Qc3ZOWG5YT2UxaDloSW5t?oc=5\" target=\"_blank\">HP’s push for e-buses, charging stations being set up across 80 locations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNby1GY0xMUkdZdHBra1pIQm9iYWFHV1c4R2tFSEF1bkJySWtNWTNZb1lsWGhxSHVXdzZXaHh2MEFOWjZxeEFIU05yX2d6U1JMcmNkYlBUTFJ3ak83WUpRVTRxVXRTV1pWY2JjVHJBUENKdWVfbm5Zakl6UFJYSl9Nb0pQSnM0Sk1HRjBUczhmbU9MaFp3cmVVZ3N2dVc5cTBlcmZ0Y1RWeGhRdlhWVHJTcmhoSjdjVElEWHJwdklqczBMcDRyc1FPZU9qN3RVX01wb3RWNzNjUUpRUUJMZndnNlhuMNIB6AFBVV95cUxQQmt5V2pENVdreUNVVlZmbkdBNEI2NXRRZUZfVVY0LWtYXzh1X3Q4OEdaa3haaEVnVzJVU1Y3QkxvTnpma1FQMW5IU3pkeTRtRWhVTTl0X3ZPV0FoOTB4ZFZ4UmhVeFdPcG5JVXBIR3NfT193WjhINmZHbVYtVDBuRFZlYjdyZ1NaUG5SYnNZQy1yb09TMmdPdFJyWHBZWkJzVklLN2dNTXgxMk9wMHBZQmFFU2lZcG5oMWQxZ0lrRy1keWw5YmdDX0x0ZURFRXI1WHpBN2JrS29Qc3ZOWG5YT2UxaDloSW5t?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T17:58:00.000Z",
-      "region": "US",
-      "topics": [],
-      "score": 20
-    },
-    {
-      "id": "2e0a16499dedec61",
-      "title": "Petroperú en manos del TC: máximo tribunal evaluará esta semana demandas contra la reestructuración de la empresa - Infobae",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT0lXOTFETHp4a2MwMnNxVEM4NTJRaVR1ZHprc28tSUNMUE9QOGl0VHp3dmYxcmtacWgxZDV0cnNQQVltOTYzZlFGS3hobVlacE8yMG1rd2RYM2pZcjhORm5vU2kzMnZVbnJYLUlac2J1ODZ3M3BHZy1KWmxqZ0p5SEhVdXptTzdyTkpGQW5wcFVmRFd3UXRSNEJ4dE5KZGNCNXBjWHprSkNUOUFMeTRaY3Q3T21kbmNGenBGcm5lMzRvek9IUWljZXM0Y0Q2aUVzV2h6bHRfUFk3cmZJcG03b1FpcHJEX0l00gGDAkFVX3lxTE11TWEzekxkQVBvS0xuczhvaVFTbkZHVU1lTGNxYk5LRHZwU0JWMEtzLVBFd0l1SXlwUl9pWE9odFU2aGE1WmhKOXpNbkR2MWhHMG1IXzBZNEVvTmFaZk1EUlNKUDRDUkZqejhKN2dZQjZDS3lGbFpJNHgwdXNPYlNTXzBVOExyZFFzWjBIVi1JMk9nN1hhZmphSkJobVJJcktfcVJZbllnLVBYaGFtQTFVSHJMSnRTX0kzQkJGR2ZQNWFjWDNTVFIyd1lyYW9VLTBDNUg1ZVBBQ0Z5bVN0c0poX0VQRl9QNlA5dXVtNkhfWUZjVmxwaFQ3M0U0dVpGTFZ4MkU?oc=5\" target=\"_blank\">Petroperú en manos del TC: máximo tribunal evaluará esta semana demandas contra la reestructuración de la empresa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infobae</font>",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT0lXOTFETHp4a2MwMnNxVEM4NTJRaVR1ZHprc28tSUNMUE9QOGl0VHp3dmYxcmtacWgxZDV0cnNQQVltOTYzZlFGS3hobVlacE8yMG1rd2RYM2pZcjhORm5vU2kzMnZVbnJYLUlac2J1ODZ3M3BHZy1KWmxqZ0p5SEhVdXptTzdyTkpGQW5wcFVmRFd3UXRSNEJ4dE5KZGNCNXBjWHprSkNUOUFMeTRaY3Q3T21kbmNGenBGcm5lMzRvek9IUWljZXM0Y0Q2aUVzV2h6bHRfUFk3cmZJcG03b1FpcHJEX0l00gGDAkFVX3lxTE11TWEzekxkQVBvS0xuczhvaVFTbkZHVU1lTGNxYk5LRHZwU0JWMEtzLVBFd0l1SXlwUl9pWE9odFU2aGE1WmhKOXpNbkR2MWhHMG1IXzBZNEVvTmFaZk1EUlNKUDRDUkZqejhKN2dZQjZDS3lGbFpJNHgwdXNPYlNTXzBVOExyZFFzWjBIVi1JMk9nN1hhZmphSkJobVJJcktfcVJZbllnLVBYaGFtQTFVSHJMSnRTX0kzQkJGR2ZQNWFjWDNTVFIyd1lyYW9VLTBDNUg1ZVBBQ0Z5bVN0c0poX0VQRl9QNlA5dXVtNkhfWUZjVmxwaFQ3M0U0dVpGTFZ4MkU?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T17:53:00.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 0
-    },
-    {
-      "id": "a32fff04f6e2bcc8",
-      "title": "¿Qué pasó con el debate entre Sacks y Amodei sobre regulación de IA? - El Ecosistema Startup",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qcm0xWkpEM1ZXdUNKeWw0TEtxYm91NFRhMGdHRmFaZFFMQVo4aHd0WE8tMEdnczNYLXhROS1MMGRjeFpRQnhXSzdwOWdKZEZN?oc=5\" target=\"_blank\">¿Qué pasó con el debate entre Sacks y Amodei sobre regulación de IA?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Ecosistema Startup</font>",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qcm0xWkpEM1ZXdUNKeWw0TEtxYm91NFRhMGdHRmFaZFFMQVo4aHd0WE8tMEdnczNYLXhROS1MMGRjeFpRQnhXSzdwOWdKZEZN?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T17:51:27.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "79e1b0924bc96375",
-      "title": "Alcaldía de Medellín alista nuevo decreto para ajustar reglamentación de “Convive la Noche” - Blu Radio",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUUF2SUYzY1cxWVdraldPeV93RHpJdzlycW9GdGlETDZtd2JEbHFqZ0xmdUhGS2MySW1BWEY1dG9rdjJiNE9LdHVJaHdEWlFlT2pNQ1daZzF2djJzUlhWUk05UzV3NDR3VFFqRHA5c3RPMzhVVWxwWHpNa1dFZ1hJeGVJYVNXck04cEcxcHMyYmgtSjhKbGpnUnEwV2Rmb0E4dTdjeTAxNnExNGVkakxUeDdPaFJ2YUFhSWZGREtSckp4YlptY2Q5WkpieTh3XzNWNDZkdNIB4gFBVV95cUxOX283V3pRM3F1R1lsOHhrRWZVM3ViZHB5NlRDTmd3c2U4QWlBWndFNS1YN0ZhaWVPZEtvVVVmX2drTFl1S09GcmpTajFKYkFVNmtNSXg3NEJHR0V0RXN3dEoyREZjZW5lbDFBa3htWUFxZFJTZlhuRWJzdE8xUFRMLXdyUzlMVnJmMUhES0FmS0xFYVNNVGdOMWhhOUMzOWtucGctQnU2WjFfdTNpekpETGpQVHlzY0EwYTdnUUxUakxteF8zWHkzcGdkaWxtZHJaVDd0aUNmTWZobllYVGlKM1BB?oc=5\" target=\"_blank\">Alcaldía de Medellín alista nuevo decreto para ajustar reglamentación de “Convive la Noche”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blu Radio</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUUF2SUYzY1cxWVdraldPeV93RHpJdzlycW9GdGlETDZtd2JEbHFqZ0xmdUhGS2MySW1BWEY1dG9rdjJiNE9LdHVJaHdEWlFlT2pNQ1daZzF2djJzUlhWUk05UzV3NDR3VFFqRHA5c3RPMzhVVWxwWHpNa1dFZ1hJeGVJYVNXck04cEcxcHMyYmgtSjhKbGpnUnEwV2Rmb0E4dTdjeTAxNnExNGVkakxUeDdPaFJ2YUFhSWZGREtSckp4YlptY2Q5WkpieTh3XzNWNDZkdNIB4gFBVV95cUxOX283V3pRM3F1R1lsOHhrRWZVM3ViZHB5NlRDTmd3c2U4QWlBWndFNS1YN0ZhaWVPZEtvVVVmX2drTFl1S09GcmpTajFKYkFVNmtNSXg3NEJHR0V0RXN3dEoyREZjZW5lbDFBa3htWUFxZFJTZlhuRWJzdE8xUFRMLXdyUzlMVnJmMUhES0FmS0xFYVNNVGdOMWhhOUMzOWtucGctQnU2WjFfdTNpekpETGpQVHlzY0EwYTdnUUxUakxteF8zWHkzcGdkaWxtZHJaVDd0aUNmTWZobllYVGlKM1BB?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T17:43:40.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "b5158b498567ce3e",
-      "title": "La cortina de humo para privatizar la educación pública - La Silla Vacía",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPWkQ0NWZiTDdjWTFJdjNRcDdoQWd2akI2R1Q4MGFRZ2wwckd5cFhqM2VIUmNsZjMzMm1pbFZRTUtCb29BdlhieXp6dkcwMi1Gc0JKQ204NGNnQ0hvVXFFUVVMZG54UTR4MzlXNDlIOFcwQU1uZWdqOHpVTTB3N092V3R6QWZRZ3NKTktyaW9fUXhMcmIwMlJtMWFEM0J5YzU4RDlZUlZ5UzViYUZGYXlWY0VrekxjUFpBTFhtRzFmY1g1QmdXb0wwYUtzVDREUUNIUnl1YUpWVm41dko0dkM1SHFjVVlWVi01TmhsVE5JMWREbmpVcW9HWjhGYjdJRUJzUnk3N0ZzcDBwbk1sVmhlVjRobWNfWmhu?oc=5\" target=\"_blank\">La cortina de humo para privatizar la educación pública</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Silla Vacía</font>",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPWkQ0NWZiTDdjWTFJdjNRcDdoQWd2akI2R1Q4MGFRZ2wwckd5cFhqM2VIUmNsZjMzMm1pbFZRTUtCb29BdlhieXp6dkcwMi1Gc0JKQ204NGNnQ0hvVXFFUVVMZG54UTR4MzlXNDlIOFcwQU1uZWdqOHpVTTB3N092V3R6QWZRZ3NKTktyaW9fUXhMcmIwMlJtMWFEM0J5YzU4RDlZUlZ5UzViYUZGYXlWY0VrekxjUFpBTFhtRzFmY1g1QmdXb0wwYUtzVDREUUNIUnl1YUpWVm41dko0dkM1SHFjVVlWVi01TmhsVE5JMWREbmpVcW9HWjhGYjdJRUJzUnk3N0ZzcDBwbk1sVmhlVjRobWNfWmhu?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T17:39:45.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 0
-    },
-    {
-      "id": "2322d75a3b19c876",
-      "title": "Heidi Health: Arquitectura de IA médica para regulación global - El Ecosistema Startup",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNa2ZIcVVPaURZQTFtWVhzTTE2eFk3dkZmcWJ3TDlGTFdRM0JEV0NzekxIeUhGeVRDZFdUeHFyY01tNmdyTnphY0ZQVW5SS1RBd0hXZW40SFNXQXBMaWQ1YXNlQ0xiWkxNMUwyODdiX0swVFVpbEo2dmZMZjZCYUVYR21tTk1nN1ZkQkZIcVlpNXd2U19GRUN3?oc=5\" target=\"_blank\">Heidi Health: Arquitectura de IA médica para regulación global</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Ecosistema Startup</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa2ZIcVVPaURZQTFtWVhzTTE2eFk3dkZmcWJ3TDlGTFdRM0JEV0NzekxIeUhGeVRDZFdUeHFyY01tNmdyTnphY0ZQVW5SS1RBd0hXZW40SFNXQXBMaWQ1YXNlQ0xiWkxNMUwyODdiX0swVFVpbEo2dmZMZjZCYUVYR21tTk1nN1ZkQkZIcVlpNXd2U19GRUN3?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T17:33:39.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "2fad091ede186abf",
-      "title": "CREG suspendió transitoriamente resolución que establecía cargos adicionales por alto consumo de energía - Zona Cero",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNXy1IUG42b01CUjFsN3E3OVhkWU5oa1QycnNCTEJKY3hOMWFhT0t6dGNDaUJpYXJVQTd2UE8wandMTC02QUE4OHpTZmhMLVBfX1hZNkxXalpCbHp0cjRIQ3BRcXdpRVgxcm9CRzFhQnRoeUt1MkVnd01iVW94TTB1WWJMV3lieTFldTVZQjhERU1DMmtLNjVyVUdVT05NcG5DN0k0NVNvVVE0cHpfTDBnZ2FxeWotUzA?oc=5\" target=\"_blank\">CREG suspendió transitoriamente resolución que establecía cargos adicionales por alto consumo de energía</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zona Cero</font>",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNXy1IUG42b01CUjFsN3E3OVhkWU5oa1QycnNCTEJKY3hOMWFhT0t6dGNDaUJpYXJVQTd2UE8wandMTC02QUE4OHpTZmhMLVBfX1hZNkxXalpCbHp0cjRIQ3BRcXdpRVgxcm9CRzFhQnRoeUt1MkVnd01iVW94TTB1WWJMV3lieTFldTVZQjhERU1DMmtLNjVyVUdVT05NcG5DN0k0NVNvVVE0cHpfTDBnZ2FxeWotUzA?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T17:07:00.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "c818b4e5f310e430",
-      "title": "CREG suspendió transitoriamente resolución que establecía cargos adicionales por alto consumo de energía - Zona Cero",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDhQSGJkYnFCbElsemo0cmdnWWtMYmZvYnFzZ2xnOGJ4aTA4aU91R3hubTBKbW1CRGY5azVRSlNTSVJYcGdGSDhQdTIxRGZGR3J2WS0yQktrOTJvVmJOUV9BSTBhaEdmX1ZhU3VJMkE5SjV1U3ZDOENrRDQ5dlQ1ek90b1RKVmlmcllIV1hLdi1uRWFkODNlUm5GV2JCTHAwVzRvUm5YdjBPc3k1dTZ1NzhJZkgwQQ?oc=5\" target=\"_blank\">CREG suspendió transitoriamente resolución que establecía cargos adicionales por alto consumo de energía</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zona Cero</font>",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDhQSGJkYnFCbElsemo0cmdnWWtMYmZvYnFzZ2xnOGJ4aTA4aU91R3hubTBKbW1CRGY5azVRSlNTSVJYcGdGSDhQdTIxRGZGR3J2WS0yQktrOTJvVmJOUV9BSTBhaEdmX1ZhU3VJMkE5SjV1U3ZDOENrRDQ5dlQ1ek90b1RKVmlmcllIV1hLdi1uRWFkODNlUm5GV2JCTHAwVzRvUm5YdjBPc3k1dTZ1NzhJZkgwQQ?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T17:07:00.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "afa8eabd8f32a053",
-      "title": "El día después en Coma-ruga: fregonas, cables de baterías de coche, grúas e indignación - Diari de Tarragona",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa3VIRUI1NHdzOHgya3FFOXNIMkFxOWYteGpieTR4TXc5M2JmdVYxdjFsQkt4YklNWEtjRDd0QkRESjY4NWNjRlZ1RUsxWGVmS0Nrb0hqc3hia1h2RTUzclR4c0JUV1JZNndKTmJ4OEstek8yTTNObUJxelZ0bThBWFhQTHQwZ2VIMEtybUhXbnB6VEU3VWZxNkRqVkJOdmdwRUx1dDVqZW9Gajg4S3hmbEFJZmwzLVQ4NEVlajljbETSAcYBQVVfeXFMTm5ZQ0trbUtCOUJBOWw0VUsxMEZ4Wl8yME5tUGxPMGh6bEUxd2swUUdzQlhwWWRqZ2sxRUdNS3Z3RmwtSTIwdTcyTjJzLW84VzlhT0hqeVYxWFhMaTJyeDF1Y0NIUk1UTl9VN3ZTZkxKanBFbHROZ1phWWdIQm53eGNjTU9EMklEZDJzQTJTS2tIZEZ1QWk1dWZRNzBDZy1qUHdFVEtxZmlUUzhZUDFTYjU5WkJMVWtmQWxOampWbVd5bW9Ic2ZB?oc=5\" target=\"_blank\">El día después en Coma-ruga: fregonas, cables de baterías de coche, grúas e indignación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diari de Tarragona</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa3VIRUI1NHdzOHgya3FFOXNIMkFxOWYteGpieTR4TXc5M2JmdVYxdjFsQkt4YklNWEtjRDd0QkRESjY4NWNjRlZ1RUsxWGVmS0Nrb0hqc3hia1h2RTUzclR4c0JUV1JZNndKTmJ4OEstek8yTTNObUJxelZ0bThBWFhQTHQwZ2VIMEtybUhXbnB6VEU3VWZxNkRqVkJOdmdwRUx1dDVqZW9Gajg4S3hmbEFJZmwzLVQ4NEVlajljbETSAcYBQVVfeXFMTm5ZQ0trbUtCOUJBOWw0VUsxMEZ4Wl8yME5tUGxPMGh6bEUxd2swUUdzQlhwWWRqZ2sxRUdNS3Z3RmwtSTIwdTcyTjJzLW84VzlhT0hqeVYxWFhMaTJyeDF1Y0NIUk1UTl9VN3ZTZkxKanBFbHROZ1phWWdIQm53eGNjTU9EMklEZDJzQTJTS2tIZEZ1QWk1dWZRNzBDZy1qUHdFVEtxZmlUUzhZUDFTYjU5WkJMVWtmQWxOampWbVd5bW9Ic2ZB?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T17:01:10.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "fc07707b9993b253",
-      "title": "Prevén futuro estable para planta de BMW en San Luis - elexpres.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1STU5fYUEwdEx2V2F1cVpNcUhLLVQ4Wnd2TXNnSExvQ2FaMW45VElSMkYtSWcwSjgyYXlIVGF5NG0tVDhZU0ZTQTFjcFVDYnJyWlBIU3BaZTZRZVFLV3c?oc=5\" target=\"_blank\">Prevén futuro estable para planta de BMW en San Luis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elexpres.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1STU5fYUEwdEx2V2F1cVpNcUhLLVQ4Wnd2TXNnSExvQ2FaMW45VElSMkYtSWcwSjgyYXlIVGF5NG0tVDhZU0ZTQTFjcFVDYnJyWlBIU3BaZTZRZVFLV3c?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T16:00:00.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 0
-    },
-    {
-      "id": "01fbafc665c4ceb9",
-      "title": "El futuro no muy claro de la mina de CATL puede poner en serios problemas al mercado chino del litio, pero también al de los coches eléctricos - Auto Bild España",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUzY5QjJ3M2VTelM2WmxfcDhBVURNa3ZzUUNZbkNGbGhkdVIxVUwyTzFBc3V5S3lLdC11OUFxa24zNEUtRkc4LWVfaUlkcHl3SFFsVU50ZUZxdHAtSURoSzRmWjkydG1OTXlLeHFDNXlVSjlGZGdqRFowVGNVby1jOVJ0MVlWS1NBRDVXbnF2cHBSbGt4Y1p6ZkduLVNrUTVlSjZjZmNBM1psenNTNDlDUm1qWERiOTR1Mkg4Q01Jdm9yWDJfdmZONUYzLXh4SDE4SWhLaXc2c1BqNVJqMFB5SnRoc1hXc0dnekZFSk9Bc3RlV05CTXc?oc=5\" target=\"_blank\">El futuro no muy claro de la mina de CATL puede poner en serios problemas al mercado chino del litio, pero también al de los coches eléctricos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Auto Bild España</font>",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUzY5QjJ3M2VTelM2WmxfcDhBVURNa3ZzUUNZbkNGbGhkdVIxVUwyTzFBc3V5S3lLdC11OUFxa24zNEUtRkc4LWVfaUlkcHl3SFFsVU50ZUZxdHAtSURoSzRmWjkydG1OTXlLeHFDNXlVSjlGZGdqRFowVGNVby1jOVJ0MVlWS1NBRDVXbnF2cHBSbGt4Y1p6ZkduLVNrUTVlSjZjZmNBM1psenNTNDlDUm1qWERiOTR1Mkg4Q01Jdm9yWDJfdmZONUYzLXh4SDE4SWhLaXc2c1BqNVJqMFB5SnRoc1hXc0dnekZFSk9Bc3RlV05CTXc?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T16:00:00.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 20
-    },
-    {
-      "id": "9463bfd722d1c174",
-      "title": "Gorham Tesla charger shutting down due to high power costs - Concord Monitor",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1nQzFrTHdrQjJCR3dPeVNKbU04cmktSTFzQU5FaDg1Rlo4ZnQyd3hObnowQ0VfWjBCZ3JGMjNhQndEdlpFMThma1NTWlh6RFV3dkdRRzQ2N1BlWFF1RmFvcmo5bWtDdzc0MmNpS1ZOb0xUSlk?oc=5\" target=\"_blank\">Gorham Tesla charger shutting down due to high power costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Concord Monitor</font>",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nQzFrTHdrQjJCR3dPeVNKbU04cmktSTFzQU5FaDg1Rlo4ZnQyd3hObnowQ0VfWjBCZ3JGMjNhQndEdlpFMThma1NTWlh6RFV3dkdRRzQ2N1BlWFF1RmFvcmo5bWtDdzc0MmNpS1ZOb0xUSlk?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T16:00:00.000Z",
-      "region": "US",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "0a023a3b95c549c0",
-      "title": "Incendios por baterías de litio amenazan con marcar nuevo récord en Nueva York, según FDNY - El Diario NY",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWThDLVdKSDlUSmMwektWMzlhaDlSLWFHai1fNzBjaTQyRUtMdVJOTWZ2c09HMEhrc3pBVVU5bG95RVg0LUtxdEt3Vk5BcTEtSUktbGk0bnlGRHhUZ2dMSll6Z3JvQ3pEOFd0eHNzRHNLby14MGl5eXZtY1p4MEt2U2dyN1ZFMklDSmlUb1dmV2hoM0p1ZEo4M05aQUw4elZFTExTTnZBNGpGc0p0T2pYZjBmcXJmZVFzek1qYVpPS0YxUQ?oc=5\" target=\"_blank\">Incendios por baterías de litio amenazan con marcar nuevo récord en Nueva York, según FDNY</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Diario NY</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWThDLVdKSDlUSmMwektWMzlhaDlSLWFHai1fNzBjaTQyRUtMdVJOTWZ2c09HMEhrc3pBVVU5bG95RVg0LUtxdEt3Vk5BcTEtSUktbGk0bnlGRHhUZ2dMSll6Z3JvQ3pEOFd0eHNzRHNLby14MGl5eXZtY1p4MEt2U2dyN1ZFMklDSmlUb1dmV2hoM0p1ZEo4M05aQUw4elZFTExTTnZBNGpGc0p0T2pYZjBmcXJmZVFzek1qYVpPS0YxUQ?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T15:48:00.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "346f3ab185f3c712",
-      "title": "Stop Parques de Baterías alerta de dos nuevos proyectos en San Esteban de las Cruces - rtpa.es",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMHJaOWFjYlBXZnhROFBjM3RBUmJoWE9NLUY4WV9fbWZOX1pERUUzcG5wMk14UUlTa0RULW4zN1lJODF4Mk8zWlhaWU5VRkxLZjB3T3dma1lwY1hyOEZyV000Vk9ZQS01ZXM5a2M0blNDZ0I4Yk9qRnltTTVuajY2a3U3WGNqc1BjMExrRnpnOExRRzVqTnNNb2tkQXo5dzR2cmxNemVlTVdnaGtBNUR6bjg3VHZLNTI2TEk3dnhFRE1GSEZEWFo5aG1yYU4ydGRTb3Z4U0NIWlJIYWR0ZURrMzVSNk5Id9IB6wFBVV95cUxNRkRwYTZRc0pXWXVBNjJPZ2ZYX2JjY29KMDNsQ2JJRnNHM0xPUU5pMUpTa0JBSGFEWm43b2FjbXI0cjBWVFlCWC1DNFVydTJfRmpyUlE1dWpNS2lqMFQ0UU5JOEpvQ3NFSGlvQzNna0dMUzhjVGtyell3ekpPR3ZLTGtITWIwd2xnMkZ1c0UxdnJSRGRCZ05GV2xtbXp6dUw5RFk3QTh5WUJtb1ZLVlRiZkJIU25ZZFU1T2tEM1RtSV9vaUxDWVoxYjRlRVFXTVNHZTBtTVdZaW1KM2ZuMXh1UG8wOWVweXMtZmFJ?oc=5\" target=\"_blank\">Stop Parques de Baterías alerta de dos nuevos proyectos en San Esteban de las Cruces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rtpa.es</font>",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMHJaOWFjYlBXZnhROFBjM3RBUmJoWE9NLUY4WV9fbWZOX1pERUUzcG5wMk14UUlTa0RULW4zN1lJODF4Mk8zWlhaWU5VRkxLZjB3T3dma1lwY1hyOEZyV000Vk9ZQS01ZXM5a2M0blNDZ0I4Yk9qRnltTTVuajY2a3U3WGNqc1BjMExrRnpnOExRRzVqTnNNb2tkQXo5dzR2cmxNemVlTVdnaGtBNUR6bjg3VHZLNTI2TEk3dnhFRE1GSEZEWFo5aG1yYU4ydGRTb3Z4U0NIWlJIYWR0ZURrMzVSNk5Id9IB6wFBVV95cUxNRkRwYTZRc0pXWXVBNjJPZ2ZYX2JjY29KMDNsQ2JJRnNHM0xPUU5pMUpTa0JBSGFEWm43b2FjbXI0cjBWVFlCWC1DNFVydTJfRmpyUlE1dWpNS2lqMFQ0UU5JOEpvQ3NFSGlvQzNna0dMUzhjVGtyell3ekpPR3ZLTGtITWIwd2xnMkZ1c0UxdnJSRGRCZ05GV2xtbXp6dUw5RFk3QTh5WUJtb1ZLVlRiZkJIU25ZZFU1T2tEM1RtSV9vaUxDWVoxYjRlRVFXTVNHZTBtTVdZaW1KM2ZuMXh1UG8wOWVweXMtZmFJ?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T15:21:00.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "26a9d97040201a34",
-      "title": "Geely prepara baterías de estado sólido con más de 1,000 km de autonomía - Autocosmos",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYnIxY1ltZXR1VEc0eklaUnRuMTZjdk9HMmUwRnNXeTJRRHFBUTlIUTBNUzh3V2Q5NU5RVFBzUEtFTHI1Mk1YMzFhaU1zMmNrckgtSWtjNEZMWTJ4MmZyakR2RE90NTh5S0hMcGpDczFHTWh3dzlUOWFtcmQ3Y1NIeGRHSm9VVmlUQzJSLWxLaVB6QU54OVZVRDdNUlp3X0RTWWJyT3N6eklSUGNmU1AwalowQkdaZ2RU?oc=5\" target=\"_blank\">Geely prepara baterías de estado sólido con más de 1,000 km de autonomía</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Autocosmos</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYnIxY1ltZXR1VEc0eklaUnRuMTZjdk9HMmUwRnNXeTJRRHFBUTlIUTBNUzh3V2Q5NU5RVFBzUEtFTHI1Mk1YMzFhaU1zMmNrckgtSWtjNEZMWTJ4MmZyakR2RE90NTh5S0hMcGpDczFHTWh3dzlUOWFtcmQ3Y1NIeGRHSm9VVmlUQzJSLWxLaVB6QU54OVZVRDdNUlp3X0RTWWJyT3N6eklSUGNmU1AwalowQkdaZ2RU?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T15:03:23.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "0f3269bf1a6e83cb",
-      "title": "This post announces a new government initiative in Exitosa, Peru, to re-establish a public transportation system. The government has resolved a lack of continuity by establishing a new lineament, or system, for the Transporte Urbano service in the capital. This - facebook.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQazlpUFhlM0ZwdVJHNXdzbmd6TzBMZlJwRjFFRDVtb1pISU5QYkdqbGcxSGVhR0RGX3N1NHBjNnRTUjlHejhvZ2lRdVRxV2pOSkZkVVkxc0xlRm5hQkt5T21YR0o0cWRKMXhaaGw1Y1UyTXVUeDJmcThSWXBkVFhEb09FX0kxRTJ0ZnNxOFNzR3BUVlJDSjVZWTFxYVFOZnhQUDN1dVRaMHJSSGowUU1YQjlyak1vbE1pd09yUkt5d1dUQmoyUWxrZjZpeGpVYmxORmpRQUctOTlEU1pPUFAzaE8wLXlFYWhXQTZXbw?oc=5\" target=\"_blank\">This post announces a new government initiative in Exitosa, Peru, to re-establish a public transportation system. The government has resolved a lack of continuity by establishing a new lineament, or system, for the Transporte Urbano service in the capital. This</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQazlpUFhlM0ZwdVJHNXdzbmd6TzBMZlJwRjFFRDVtb1pISU5QYkdqbGcxSGVhR0RGX3N1NHBjNnRTUjlHejhvZ2lRdVRxV2pOSkZkVVkxc0xlRm5hQkt5T21YR0o0cWRKMXhaaGw1Y1UyTXVUeDJmcThSWXBkVFhEb09FX0kxRTJ0ZnNxOFNzR3BUVlJDSjVZWTFxYVFOZnhQUDN1dVRaMHJSSGowUU1YQjlyak1vbE1pd09yUkt5d1dUQmoyUWxrZjZpeGpVYmxORmpRQUctOTlEU1pPUFAzaE8wLXlFYWhXQTZXbw?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T14:40:39.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 0
-    },
-    {
-      "id": "91fe274ed7ae6cfb",
-      "title": "Fin de semana largo bajo presión: largas filas en cargadores eléctricos entre Rocha y Chuy. - Cadena del Mar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1WYVg4Z0ExdzhVZmFHbXNXUWU1dnotTVlUeDB6bV93dERfWWFaSXJHdVAxcUFrV1JMY2pZR0FjSDhIcEFM?oc=5\" target=\"_blank\">Fin de semana largo bajo presión: largas filas en cargadores eléctricos entre Rocha y Chuy.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena del Mar</font>",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1WYVg4Z0ExdzhVZmFHbXNXUWU1dnotTVlUeDB6bV93dERfWWFaSXJHdVAxcUFrV1JMY2pZR0FjSDhIcEFM?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T14:37:59.000Z",
-      "region": "LATAM",
-      "topics": [],
-      "score": 10
-    },
-    {
-      "id": "c45353cc939908d5",
-      "title": "Fin de semana largo bajo presión: largas filas en cargadores eléctricos entre Rocha y Chuy. - Cadena del Mar",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOdGMyNVI3eFM0T3VTU3VybmlnVmk3dG1heUJETWxuU0hDMndnWXpHYWNXaVVtZHAwRURXUmEtUDVVX0JzcHg5NTVqc0RjYmpqRGpRTGJZYU9CMGk4LTlmUmNKYTBhWDBRQ0VIaFFxMUpBWVRRbTlhZEJGMkFaUWx6N3AzR1dvMG85M1hJcjZKYnA4SnVYcTBNSE8wTlIwZ3RwR3lLYlZqc1VPQ0JleEFMemRjTXoyNUdIYWItQWp4Z3JNcDlzWVA4?oc=5\" target=\"_blank\">Fin de semana largo bajo presión: largas filas en cargadores eléctricos entre Rocha y Chuy.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena del Mar</font>",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdGMyNVI3eFM0T3VTU3VybmlnVmk3dG1heUJETWxuU0hDMndnWXpHYWNXaVVtZHAwRURXUmEtUDVVX0JzcHg5NTVqc0RjYmpqRGpRTGJZYU9CMGk4LTlmUmNKYTBhWDBRQ0VIaFFxMUpBWVRRbTlhZEJGMkFaUWx6N3AzR1dvMG85M1hJcjZKYnA4SnVYcTBNSE8wTlIwZ3RwR3lLYlZqc1VPQ0JleEFMemRjTXoyNUdIYWItQWp4Z3JNcDlzWVA4?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T14:37:49.000Z",
-      "region": "CO",
-      "topics": [],
-      "score": 20
-    },
-    {
-      "id": "6f41aa1347eafdf7",
-      "title": "EDP Energias de Portugal stock benefits from expanding EV charging network data - Ad-hoc-news.de",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaUF4NWRCOEt4OXpxMGpjbDdxbjYxS1JuYUE4dVl1ZkZZTlJEQ19NcGVISllTSjNWaXNVakZVaVdjU1VBNHBNVDFqdnJDYXJ5WjF0bEh3MEw2SjBwbklLanQzRU9KcWd1b256ektNMERHYnUwYW5pazhfQTRNWFdVQkRqV1ZkZjlBemxZUzM2TThVanM0UjRLWnM5QzYtWFU0dFB4WlFEZ2NqT0pWd0o3R1g0WTRKQlYwWkFnX1pqS3NfTWZXMUF2M3d1c0pKRlU1Zmww?oc=5\" target=\"_blank\">EDP Energias de Portugal stock benefits from expanding EV charging network data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ad-hoc-news.de</font>",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaUF4NWRCOEt4OXpxMGpjbDdxbjYxS1JuYUE4dVl1ZkZZTlJEQ19NcGVISllTSjNWaXNVakZVaVdjU1VBNHBNVDFqdnJDYXJ5WjF0bEh3MEw2SjBwbklLanQzRU9KcWd1b256ektNMERHYnUwYW5pazhfQTRNWFdVQkRqV1ZkZjlBemxZUzM2TThVanM0UjRLWnM5QzYtWFU0dFB4WlFEZ2NqT0pWd0o3R1g0WTRKQlYwWkFnX1pqS3NfTWZXMUF2M3d1c0pKRlU1Zmww?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T14:19:44.000Z",
-      "region": "US",
-      "topics": [],
-      "score": 20
-    },
-    {
-      "id": "8425ff52686c115a",
-      "title": "Casi 4,3 millones de coches eléctricos hechos en China llamados a revisión: sólo de Tesla, casi 3 millones - Motor.es",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNTnJjejRVZTI3MERmb0RnMUh6T2xmNmYwYUJkajR3QTZfeWxiYlFtSnlneEtNVlV5clZjWFpPM3ZfY29XZmZZbWFTZGMyQmJyaWUyZTdoRzdfblVKdlZIVTRJbEVCSEtpdjBQOHNmS21PaHdrRldXOEdjNjN1MVNkVDhDZENUemxjZjZhMnJuNWc2WjdvQlV3?oc=5\" target=\"_blank\">Casi 4,3 millones de coches eléctricos hechos en China llamados a revisión: sólo de Tesla, casi 3 millones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor.es</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTnJjejRVZTI3MERmb0RnMUh6T2xmNmYwYUJkajR3QTZfeWxiYlFtSnlneEtNVlV5clZjWFpPM3ZfY29XZmZZbWFTZGMyQmJyaWUyZTdoRzdfblVKdlZIVTRJbEVCSEtpdjBQOHNmS21PaHdrRldXOEdjNjN1MVNkVDhDZENUemxjZjZhMnJuNWc2WjdvQlV3?oc=5",
-      "source": "news.google.com",
-      "datePublished": "2026-08-23T14:00:00.000Z",
-      "region": "LATAM",
       "topics": [],
       "score": 10
     }
